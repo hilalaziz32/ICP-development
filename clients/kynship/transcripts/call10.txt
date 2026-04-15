@@ -1,0 +1,702 @@
+Cody Wittick: 00:00 
+ Hey, Stephen, how are you doing?  Good, how are you?
+
+Steven Sashen: 00:21 
+ I'm fine.  I appreciate your minimalist background.
+
+Cody Wittick: 00:25 
+ There we go.
+
+Steven Sashen: 00:26 
+ Now, is that a real candle that could set your bookcase on fire?
+
+Cody Wittick: 00:29 
+ It is not.  It is not.  But that's how good our AI team is.
+
+Steven Sashen: 00:34 
+ I like it.
+
+Cody Wittick: 00:35 
+ Yeah.  This is Tom, our director of sales.
+
+Steven Sashen: 00:38 
+ Hello, Tom.
+
+Cody Wittick: 00:40 
+ Hi, Stephen, how are you?
+
+Steven Sashen: 00:41 
+ I could use a nap and a vacation and an assistant and stack of hundreds about yay high, but otherwise good.  How are you?
+
+Cody Wittick: 00:52 
+ I love that.  I mean, I could do with all of those things too.  So.
+
+Steven Sashen: 00:59 
+ First of all, thanks for jumping on the call.  Secondly, I just want to give you a bit of context.  The context is I've been an Internet marketer since 1992 and all that means is that you don't need to explain simple shit to me.  And I've done kind of everything, so.  And.  And we're in.  And the other bit of context is we have a new Chief Growth officer.  I hate all the titles, but smart Internet marketer who's working with us, who's been a bit hamstrung because our CEO and our board insisted that we switch to Shopify the beginning of Q4.  And the switch in and of itself was stupid for numerous reasons, not the least of which being the company that they enlisted to take care of writing the code.  Can't write code for shit.  I mean, I can't write code.  And I looked at it and found problems, so that says it all.  So she's a bit underwater at the moment.  And yesterday, apropos of nothing, because I totally forgot we had this call, I took a look at all everything were doing on the paid side and there's nothing going on.  In other words, it's like on Google, it's all branded.  On Meta, it's just a couple of campaigns.  There's some content people that I'm familiar with who I really like, who can really create a shit ton of content at scale, which we kind of need to drive all the paid stuff.  We can talk about that part obviously with you guys and nothing's happening.  And so in my mind that's simply because she's still underwater with whatever.  I don't know when that's going to change because I haven't heard from her in since before BFCM and.  But that's the lay of the land there.  There was one other thought that went along with that.  Oh yeah, just a quick thing about the brand that will inform whatever you want to share.  So we're a weird company in that most people say, well, you know, who's your best customer?  What's your favorite customer?  Avatar.  And I go, no, we can't do that.  We have way too many.  We have 70.  If I was in the office, you'd see behind me 70 different shoe styles that are used by a bajillion different kinds of people for, you know, 10 times that many reasons.  So for any given shoe, we will have five different kinds of people using it for 10 different things.  Good news, bad news.  Good news is we can just blanket the universe with ads.  Bad news is managing that is tricky.  You have to be able to, you know, manage things at scale, both kind of horizontally and vertically.  And.  And some people are hip to that, and some people not so much.  And that's all I can think of, is a way of just laying things out on the table.
+
+Cody Wittick: 03:43 
+ Super helpful.  And I also know.  So what's your relationship with Anthony?  Because obviously he was the one who referred me.
+
+Steven Sashen: 03:49 
+ So we met at an event.  Has he told you, or do you guys know about Cart Stars?
+
+Cody Wittick: 03:54 
+ Yes.  Yes, he did.
+
+Steven Sashen: 03:56 
+ So we met.  We met at a Cart Stars event, which was very fun.  I'm going to do a not even humble brag, but it was very sweet.  When they.  I first got invited into that thing, they had a retreat, and I went to sit down at a table, and the woman managing it went, no, no, come sit over here.  It's like, all right, whatever.  And at the end of the thing, I went, you put me at the smart kids table.  And she said, yeah.  So the three of us at the table were all, like, very experienced marketers and all those people who are presenting, and Anthony was one of them.  Eventually, we're all sitting at our table.  And so in speaking with him, again, I've been doing this a long time, and he's one of the few people on the CRO side who actually knows how to think about CRO properly and not just like, hey, let's change a button color.  It's like, even if you're going to do that, you got to have a good reason to do it and know how to check and see if that's really doing something.  So the analysis that he did on what our traffic problem was, we had a.  So we had a.  We had our.  We have an interim CEO who hired a marketing agency.
+
+Cody Wittick: 05:04 
+ And.
+
+Steven Sashen: 05:05 
+ And I don't like to say.  But I will say, to call them tools would be an insult to the Black and Decker Corporation.  They then worked with a media buying group called Techind, who I insisted that we not hire months ago because I asked Them a few pointed questions.  They had the wrong answer for them.  I will ask you the same questions, by the way.  And they were spending shit tons of money driving crap traffic to the worst converting page on our website.  And after I pointed that out in the middle of March, no one changed anything.  So.  But anyway, Anthony identified that problem at the same time that I did and most other people hadn't.  And the suggestions that he made that.  And also he identified where traffic is falling off and the suggestions he made for addressing that, for testing things that could address that were spot on.  And so anyway, I, I always like it when I meet new smart people and he's one of those people.  Love it.
+
+Cody Wittick: 06:05 
+ Yeah, we think very similarly.  So.  I, I've appreciated getting to know him over the years as well.  Would it, would it make sense for me to kind of take you through.
+
+Cody Wittick: 06:17 
+ The lay of the land of like what we do?
+
+Steven Sashen: 06:19 
+ Yes.
+
+Cody Wittick: 06:21 
+ For, I mean, for not doing anything within Meta.
+
+Cody Wittick: 06:23 
+ You have 270 ads left, which is.
+
+Cody Wittick: 06:26 
+ So are these all retargeting?  Are these all.
+
+Steven Sashen: 06:29 
+ Yeah, it's a lot of, it's a lot of retargeting.   it's a lot of stuff that's left over from Black Friday Cyber Monday.  Part of the problem that's been going on is our interim CEO and the marketing team that she worked with didn't know how to make money.  I mean, they just didn't know.  And so she's been.  The biggest thing she's been doing is putting shit on sale every day.  And so there's just ad running for that and then retargeting ads for that.  So there's still a handful of things, but if you actually look at the ad library, I mean, it's mostly crap.
+
+Cody Wittick: 07:02 
+ Yeah.
+
+Cody Wittick: 07:02 
+ I mean I don't try to get.
+
+Cody Wittick: 07:04 
+ In subjective, but you can.
+
+Steven Sashen: 07:06 
+ It's crap.  I mean it's, there's, they're not doing anything.  So you know, there are interest groups that we used to target where we could do some things for them.  I mean, there's no like no video that is any real value.  I mean if I looked at the ads and there's a couple of retargeting things.  Ironically.  Look, the thing that has worked best is just feet carousel feed ads.  But that's, you know, bottom of the funnel really easy.  I mean the fun is finding stuff that works top of funnel that actually delivers.
+
+Cody Wittick: 07:38 
+ Yeah, for sure.  Okay, so.
+
+Steven Sashen: 07:43 
+ And to your point, what you have put on the screen, this is the one thing that has not been happening.  And this is what under the eyes of our interim CEO.  And this is what I did for.  For or what I focused on even though there were other people who were implementing.  But again I like I can't write code, but I know how to read code.  I'm not in, I'm not actually was not doing the media buying but I know how to know if something makes sense or not.  Of course.
+
+Cody Wittick: 08:10 
+ Yeah.  Well I'll give you the lay of the land on us and then we can land the plan.
+
+Cody Wittick: 08:15 
+ Take the conversation wherever you'd like.
+
+Steven Sashen: 08:16 
+ Cool.
+
+Cody Wittick: 08:17 
+ E Commerce Growth agency the a lot.
+
+Cody Wittick: 08:20 
+ Of good work, pretty respected in the industry.  Some of the logos that we've worked.
+
+Cody Wittick: 08:25 
+ With are working with.  I like to say that we're delivering.
+
+Cody Wittick: 08:29 
+ A system, not just a set of services.  So it's not just like a la.
+
+Cody Wittick: 08:32 
+ Carte, you know, oh, I want this, I think I need this.
+
+Cody Wittick: 08:35 
+ Yeah, it's more so hey, we have a system.  It's proven to scale brands.  When we inject and come alongside you.
+
+Cody Wittick: 08:40 
+ And do the whole system, that's when it works.  So that's what makes up the system.
+
+Cody Wittick: 08:46 
+ I'll walk you through each of these things.  Just to be clear, like we don't do retention, those sorts of things.
+
+Cody Wittick: 08:52 
+ Everything else that we do is listed here.
+
+Cody Wittick: 08:56 
+ But for us everything starts from a numbers perspective.
+
+Cody Wittick: 09:00 
+ So.  95% of other agencies are not.
+
+Cody Wittick: 09:04 
+ Doing what we do in the sense that we're reverse engineering everything from your top line and bottom line goals really around a profit margin.
+
+Cody Wittick: 09:13 
+ So instead of hey, you feed me.
+
+Cody Wittick: 09:15 
+ A roas target or you tell me.
+
+Cody Wittick: 09:17 
+ What a CPA needs to be, we want to be.  It's not that we don't trust you.
+
+Cody Wittick: 09:22 
+ Although to be transparent, there has been some people that have come in and the target is completely off because it's.
+
+Cody Wittick: 09:27 
+ Based on LinkedIn or Twitter or anything like that.
+
+Cody Wittick: 09:31 
+ Right.  Like their competitors.  It's not based on their economics.
+
+Cody Wittick: 09:34 
+ So we want to take in the.
+
+Cody Wittick: 09:35 
+ Full picture of what's happening on dot.
+
+Cody Wittick: 09:37 
+ Com and Amazon and we're looking at.
+
+Cody Wittick: 09:39 
+ Okay, trailing 12 months.  We're looking at every cost center, your fixed costs, your ad spend, your cost of delivery.  We want to look at year over year outspend seasonality.  Your ame are we want to look.
+
+Cody Wittick: 09:50 
+ At your cohort behavior.  There's lots of tabs here.
+
+Cody Wittick: 09:52 
+ You can obviously see like we're taking everything into consideration.
+
+Cody Wittick: 09:56 
+ But this is the North Star and when it comes to day.
+
+Cody Wittick: 10:00 
+ Execution, this is not like a set.
+
+Cody Wittick: 10:02 
+ And forget it we're looking at, okay, what is, how is this all backing.
+
+Cody Wittick: 10:06 
+ Into profitability and how is this backing into your bank account?  And that's how we're making decisions rather.
+
+Cody Wittick: 10:10 
+ Than trying to make Facebook look as sexy as possible, which is obviously, as.
+
+Cody Wittick: 10:14 
+ You know, lots of problems with that.
+
+Steven Sashen: 10:18 
+ So.  Let me pause there for a couple of things.
+
+Cody Wittick: 10:21 
+ Yeah.
+
+Steven Sashen: 10:22 
+ One, you know, there.  Some of those metrics are need to be normalized.  So, you know, two years ago, what were doing is very different than in the most recent time just because of, say, the number of customers or number of people that we are emailing or a number of other factors that I can think of that if you just look at the dollars and cents, it's like, hey, we're spending more now, we're making more now.  Yeah, but if you look at the number of customers we had or the whatever other metric you can think of, were actually doing better two years ago.  I mean, I just did this with our Black Friday Cyber Monday.  Say, hey, we did $6 million.  Like, well, congratulations.  Two years ago, using my strategy, we did $9 million.  And that's when our list was half the size that it currently is.  So you guys failed.  Yeah.
+
+Cody Wittick: 11:03 
+ You're getting more out of less customers.
+
+Steven Sashen: 11:05 
+ Right.  And so there's other things that.  So like, history is interesting.  But it's like, I say this to our private equity partner.  Just looking at the numbers does not tell you what drove those numbers.  And if you don't understand that, you're going to make the wrong decisions about what to do next tactically.  So there's that component.  There's another like, MER in my mind is just a completely useless thing.  Like when people ask me about things that I want, if they ask me, you know, what are you looking for CPA or what are your ROAS targets?  I go, Christ, you're asking me for averages.  And I don't care about averages and average.  I need to know the maximum in the standard deviation.  So for me, or another way of saying it is I'm breaking some of this down.  Top of funnel, bottom funnel, branded, non branded, or mid funnel, however, we want to break it down rather than averages because that's where I'm finding leverage.  If I'm just looking at some of the numbers that you were showing, especially mer, like, I'll throw our chief growth officer under the bus.  The first report she did to our board, she said, you know, I improved MER by X percent, some significant amount.  And they were like, really happy.  And I called her afterwards and went Why'd you just blow smoke under their asses?  All you did is turn off that shitty ad that the previous company was running that was they were wasting money on.  She's like, well, yeah, that's true.  I said don't try to, you know, make them happy, just tell them the truth.  And so.  But there are metrics that certain people, I mean, sorry, I'll stop ranting after this one.  The way I ran everything in many ways for a long time and it does lead to a question.  Is all ROAS based but not using.  Not necessarily using, certainly not using in platform data now, but then, you know, being dubious about employ form data.  But I know, I mean I've been doing this for 16 years.  I know how much we need to make.  I know what the ROAS needs to be if it's accurate.  I know, I know that if we're seeing a 3x, like a legit 3x, we're making money in the company, undeniably.  I know that if we spend $50 on a new ad and it doesn't generate a sale, it will never hit the target that we need.  So there's all this stuff that we know from being in this every day for 16 years, which leads me to the one question, you know, when we're looking at some of these things, projections are all well and good and we all know that they're wrong the moment we write them down.  But the magic question is a tracking slash attribution question.  Can we jump way ahead and talk about that?  Because unless we know what's really happening, then, you know, the numbers can be quite deceptive.  That was a whole lot.
+
+Cody Wittick: 13:36 
+ Yeah, yeah.  I mean, I generally agree with you.  I'll just address some of the comments.
+
+Cody Wittick: 13:40 
+ That you're making along the way.  As far as mer, we're looking at acquisition mer, so we're looking at NC roas.  So because MER can I agree with you on that perspective because that can.
+
+Cody Wittick: 13:50 
+ Hide really bad ad spend.
+
+Cody Wittick: 13:52 
+ So we are looking at acquisition because we set up the ad account to go after new customers only.  Where we disagree is top of funnel, middle of funnel, bottom of funnel.  I think that is our archaic way.
+
+Cody Wittick: 14:03 
+ Of looking at that account because I think like Meta would call someone top.
+
+Cody Wittick: 14:07 
+ Of funnel if they've never engaged with.
+
+Cody Wittick: 14:09 
+ Your brand on Meta, but been to.
+
+Cody Wittick: 14:11 
+ The website, but They've seen countless YouTube ads and TikTok and their friend has the product like, why is this person top of Funnel?
+
+Cody Wittick: 14:16 
+ Right, right.
+
+Cody Wittick: 14:17 
+ So our philosophy is like, let Meta allocate creative to each individual impression based.
+
+Cody Wittick: 14:21 
+ On Their billions of data points, trillions of data points.
+
+Cody Wittick: 14:23 
+ They're much more aware of some where.
+
+Cody Wittick: 14:25 
+ Someone is in the funnel and what.
+
+Cody Wittick: 14:27 
+ Type of content best converts.
+
+Steven Sashen: 14:28 
+ Yeah, yeah, no, I'm.  No, I agree with that actually.  But it also raised the attribution question because even if you're looking at acquisition mer, there's still that wacky thing of if they did engage with wherever we are on different platforms, did we pay for that or not?  And if we paid for it, how are we assessing what we're.  The value that we're really getting as best as possible in a post:iOS 14 soon to be cooking less world.
+
+Cody Wittick: 14:55 
+ Yeah, but I think meta is and.
+
+Cody Wittick: 14:58 
+ They'Ve proven this that meta specifically has completely recovered from post iOS like the lull of 2021, 2022.  We see like a direct, almost very high correlation between 28 day click data and actually what comes into Shopify.  So when it comes to attribution, the.
+
+Cody Wittick: 15:17 
+ Reason why we're not like all these.
+
+Cody Wittick: 15:19 
+ Attribution tools are dealing with signal loss.
+
+Cody Wittick: 15:21 
+ At the end of the day.
+
+Cody Wittick: 15:22 
+ So none of them are perfect.  But the reason why we're looking into actual sales that are coming into Shopify and that's how we're making a decision.
+
+Cody Wittick: 15:29 
+ Because it kind of removes some of these nuances.
+
+Cody Wittick: 15:33 
+ And this is where we agree like.
+
+Cody Wittick: 15:34 
+ If I just go back to this.
+
+Cody Wittick: 15:36 
+ Tab is like we want to make sure that these channels, like when you're talking about brand and non brand, that these channels are set up accordingly and then Meta can go spend against a blended Amy or Target that's driving across Shopify and Amazon.
+
+Steven Sashen: 15:49 
+ Got FYI, Amazon is currently being managed by a company called Orva.  So we have no.
+
+Cody Wittick: 15:54 
+ And we don't manage Amazon.  So to be clear.
+
+Steven Sashen: 15:57 
+ No, no say we have no insight into what they're doing.  They, they won't give me data on what they're spending for.
+
+Cody Wittick: 16:05 
+ Is it a vendor central or seller central?
+
+Steven Sashen: 16:07 
+ It's a seller central account.  They're, they're a buy sell company.  So they're essentially acting as a reseller and so they spent data.  Now we are looking and I want to either take it back in house or frankly.  There's another company, another Amazon Marketplace company called Pattern that has.  And there's another one.  Oh, I blanked on the name.  It doesn't really matter right now.  There's two that are really interesting and really creative.  These guys literally just buying, selling.  They're not managing the listing well.  They're not, you know, prospecting for keywords.
+
+Cody Wittick: 16:39 
+ I mean, I would say that's it.  Because now without that insight, you're underspending.  Right.
+
+Steven Sashen: 16:45 
+ Oh, there's no question.  There's no question about it.
+
+Cody Wittick: 16:48 
+ Yeah.  So I think that, yeah, that'll be.
+
+Cody Wittick: 16:51 
+ A huge priority whenever your chief growth.
+
+Cody Wittick: 16:54 
+ Officer gets back to you.
+
+Steven Sashen: 16:56 
+ Yes, it's.  Yes on both counts.
+
+Cody Wittick: 16:58 
+ Yeah.  Yeah.  Well, anyways, I love this conversation, so great question.
+
+Cody Wittick: 17:04 
+ Great.
+
+Cody Wittick: 17:05 
+ I'll just to give you the full.
+
+Cody Wittick: 17:07 
+ Lay of the land.
+
+Cody Wittick: 17:08 
+ Very.
+
+Cody Wittick: 17:08 
+ I think, you know what we're kind of taking into consideration from a financial.
+
+Cody Wittick: 17:12 
+ Success and it's not set.
+
+Cody Wittick: 17:14 
+ And forget it, Steven.
+
+Cody Wittick: 17:15 
+ So we're not looking at like, you.
+
+Cody Wittick: 17:16 
+ Know, obviously anybody can put stuff in a spreadsheet.
+
+Cody Wittick: 17:19 
+ Doesn't mean to make it.  It's going to be true.
+
+Cody Wittick: 17:22 
+ So we're reconciling this sheet every single month.  Reforecasting.
+
+Steven Sashen: 17:27 
+ Sorry, let me throw in one other thing.  So I'm all for new customers and 43% of our orders come from existing customers.  So to not pay attention to them is.  Okay.
+
+Cody Wittick: 17:42 
+ Yeah, we're looking at your whole like.
+
+Cody Wittick: 17:44 
+ Just to pull forecast for tactful.
+
+Cody Wittick: 17:46 
+ We're looking at your total returning customers recently acquired.  We actually split repeat customers, two different cohorts.
+
+Steven Sashen: 17:52 
+ Great.
+
+Cody Wittick: 17:52 
+ So we're going to be monitoring this.
+
+Cody Wittick: 17:54 
+ Now, nitty gritty, like, I'm not going.
+
+Cody Wittick: 17:56 
+ To be auditing your email flows because we don't.  That's just not our lane.  Yeah, but we are going to be monitoring your cohort behavior.
+
+Steven Sashen: 18:03 
+ Well, you may not, you might not if you're not monitoring.  That's an interesting thing because email has been incredibly successful for us.  And again, the problem there, I mean, we're a klaviyo company and there, of course they want to take.  I mean they just want last click credit, which like, give me a break.  But nonetheless, I mean there's some there.  There's value there.  There's also the phenomenon like when people say, what's your cac?  And I go, fuck.  They're like, what?  I go, well, we aren't advertising exclusive.  A lot of our ads are not exclusively going to new customers simply because on a lot of channels we can't tell.  And besides, we still have to advertise to our existing customers because they're not all getting our email.  So there is a, you know, a place for that.
+
+Cody Wittick: 18:52 
+ Yeah, we're not dogmatic and not running campaigns within Meta, for example, to existing customers.  Usually what we've seen, and this is our hypothesis that usually rings true.
+
+Cody Wittick: 19:02 
+ But if we don't See it.
+
+Cody Wittick: 19:03 
+ I can, I can tell you that we're more than comfortable running campaigns at a much higher row as expectation.
+
+Steven Sashen: 19:08 
+ Of course.
+
+Cody Wittick: 19:09 
+ But usually what we see is that.
+
+Cody Wittick: 19:11 
+ Any potential dip in repeat revenue is usually offset by new customer revenue.  Just the way that we structure that account.
+
+Steven Sashen: 19:20 
+ That's what we've seen again, I get it.  But.  I'd be surprised for us just given the number of customers who now we're not like a subscription company by any stretch.  People aren't buying a new pair of shoes every day.  Yeah, yeah.  But the number of customers who buy like 10 pairs of our shoes over time is not insignificant.  Yeah.  And because basically once we get them especially we get them into a second pair.  When you wear our shoes with that don't squeeze your toes together, you just can't go back to that like the way you did.  So anyway, I'm just throwing that out there.  We don't have to address it now but just again, it's one of those things that makes footwears weird to begin with and our brand is the weirdest of the weird.
+
+Cody Wittick: 20:02 
+ All this to say, not completely dogmatic on it.  Yeah, that has traditionally just been our.
+
+Cody Wittick: 20:07 
+ Hypothesis that we want to put it.
+
+Cody Wittick: 20:08 
+ To the test but at the end.
+
+Cody Wittick: 20:11 
+ Of the day we're in service to you.
+
+Cody Wittick: 20:14 
+ So and then in addition.
+
+Cody Wittick: 20:16 
+ So when it comes to like this very much aligns with how we think financially and how to grow the enterprise value.  How do we structure that account is.
+
+Cody Wittick: 20:21 
+ 100% on cost control.
+
+Cody Wittick: 20:23 
+ So we run everything on a CPA basis.  So it's not traditional media buying budget perspective.
+
+Steven Sashen: 20:28 
+ Right.
+
+Cody Wittick: 20:29 
+ So we've seen this be the best way to maximize volume.
+
+Cody Wittick: 20:32 
+ Really it's around this slide because if.
+
+Cody Wittick: 20:35 
+ You'Re just forcing daily budget, you're forcing inefficiency, but then you're actually capping your own growth in other days.
+
+Cody Wittick: 20:40 
+ So we want oriented and it goes.
+
+Cody Wittick: 20:42 
+ Solve for spend, not solve for performance or efficiency.
+
+Cody Wittick: 20:48 
+ And this is 100 of the way.
+
+Cody Wittick: 20:49 
+ That we run ad accounts.  Google Meta, TikTok.
+
+Steven Sashen: 20:52 
+ Well, I mean they all are derivative but yes, I mean and in fact Monday is a.  That's not too disembarked well and not too disembark of what we see in our account by the way just for the fun of it.  But you know, but it is a thing.  I mean cost control and yeah there are many things that are derivatives of each other is a simple thing.  And actually here's a question for you.  How do you think about and what do you look at for every time to purchase and how that influences anything else you're doing.
+
+Cody Wittick: 21:20 
+ Yeah, like the time lag.  Yeah, yeah.
+
+Cody Wittick: 21:24 
+ I mean obviously within the meta ecosystem you can only go towards 28 day click.  The helpful analysis really is looking within.
+
+Cody Wittick: 21:33 
+ Google as well to actually see like when most conversions are happening because you.
+
+Cody Wittick: 21:40 
+ Know, if we see most conversions are happening within 12 days and yet you're running on 90 day click, 30 day view, like that's an issue.  So we can backtrack into that.  But then also we would just, we would want to look at delayed purchase multiplier to actually see like okay, running campaigns on 7 Day Click.
+
+Cody Wittick: 21:57 
+ And what is the potential left from.
+
+Cody Wittick: 21:58 
+ 7 Day Click to 28 Day Click?
+
+Cody Wittick: 22:00 
+ Now there's probably additional things, but that's.
+
+Cody Wittick: 22:02 
+ Just within the ecosystem and algorithm of meta.
+
+Cody Wittick: 22:05 
+ So we are looking at that to account for those purchases of what campaigns are.
+
+Steven Sashen: 22:11 
+ And for us that changes when we have a new, when we have a product launch in the spring, product launch in the fall and of course BSCM is a whole other world.
+
+Cody Wittick: 22:17 
+ Yeah, yeah.  And then the final thing is just.
+
+Cody Wittick: 22:21 
+ We don't put all the creative onus on you.  So we have ways by which we can get mass amounts of creative throughout influencers, UGC creators, your own customers and then we have our own AI static builder tool.  So each of these four obviously play different roles.
+
+Cody Wittick: 22:36 
+ But again going back to how we run ad accounts, it's very much and.
+
+Cody Wittick: 22:41 
+ Even regardless of running cost controls is very much about volume and variety.
+
+Cody Wittick: 22:45 
+ And so we have these ways that.
+
+Cody Wittick: 22:48 
+ We can get this through actual humans, through authentic way or cookie cutter and give them exact talking points.
+
+Cody Wittick: 22:56 
+ All of them play different unique roles in the ecosystem.
+
+Steven Sashen: 23:00 
+ So this is the one place where we've had a number of challenges simply because again footwear is weird and what we're doing.  Let me, I'll do the shortest version of this that I can.  I've, I've been like interviewed at copywriting conferences and I asked people, including people who've been doing, you know, copywriting longer than me and there's not a lot of them since I've been doing it for 35, 40 years.  And I go, when have you ever had to write an ad?  Where to get people to listen or more accurately more importantly to buy.  You have to get them to unbelieve something that they currently believe as strongly as the sun is coming up tomorrow.  I need art support, I need motion control, I pronate, I have, you know, I need a bunch of cushioning.  Running is hard for my knees.  I can't do these things.  And they believe these things because major footwear brands have been telling them that for 50 years.  And by the way, they all know they're lying.  I mean like, I'm not exaggerating when I say that, but it's a weird thing to.  Most ads are just basically written on some version of problem solution or you know, problem ideal result.  And we can't do that for a significant part of the population because they will just say, no, you're full of shit.  I heard those barefoot shoes injure people.  My doctor said my right leg is 1/2 of a millimeter shorter than my left leg every other Thursday when the moon is full.  You know, I'm a vegan and that's going to change things.  Or I mean just like it's amazing the things that I've heard now I have figured out ways of doing this, of getting people to unbelieve things, that this is going to sound really self aggrandizing from a book that I have usually sitting on my shelf called How Minds Change.  As far as I know, there's only four other people on the planet doing what I'm doing and none of them are doing it for advertising.  They're all doing it one to one or in small groups or things like that.  And but so finding people who can.  Either work with the kind of hooks that I've come up with and the way of communicating this.  Where it's not just hey, these shoes are great in some stylized version has been the biggest challenge that I've had.  And people, I tell people how to do it and then they come back with just another problem solution thing or another, hey, we're better than thing.
+
+Cody Wittick: 25:25 
+ So.
+
+Steven Sashen: 25:28 
+ I don't know where to go with that.  There was a dot, dot at the end of that thought.
+
+Cody Wittick: 25:31 
+ I mean, AI is a very great.
+
+Cody Wittick: 25:33 
+ Tool at our disposal if used correctly.
+
+Steven Sashen: 25:36 
+ Hi.  Yes.  Well that brings me to a similar thing.  Like this is going to sound semi crazy, but not really crazy.  Some of the stuff that I've done that's been most successful is not even straight selling.  It's you know, Think Dollar Shave Club, which, you know, one ad made him a billion dollars.  I've done a bunch of comedic things that I just did for the fun of it.  Some of them and they work as ads because people just, I like this guy.  Let's you know, hang out with these guys or check out Tom right now.  Yeah.  And so right now on the AI side, as soon as VO3 can do, just can give me another 15 to 30 seconds or do character consistency over clips, then I'm off to the races with a whole bunch of shit.  But I just.
+
+Cody Wittick: 26:19 
+ I just meant for, like.  I mean, the barrier to entry.
+
+Cody Wittick: 26:22 
+ I mean, I'm talking to someone that obviously sounds like a very good copywriter.  The barrier to entry to do copywriting is very low at this point.
+
+Steven Sashen: 26:29 
+ No, no, I'm going to.  For the sake of being a complete dick.  I completely disagree because again, all the are doing is looking at existing content and doing it based on that.  And this is going to sound.  I've played with every.  Every AI tool that I can think of to try to get it to write the kind of things that actually get people to change their mind.  It can't do it because there's.  It can't.  There's nothing for it to train on other than stuff.  Some stuff that I've done.  So I'll give you the short version of how it works.  You need to get people to be willing to question something they believe, and you need them to get into a state of cognitive dissonance where they realize that something that they actually know is more valuable and meaningful than something they were taught by somebody else.  So, for example, I'll do that.  I'm trying to think, what's the simplest one I could do?  I like to say, you know, this is a stupid question.  And it's.  I guarantee a stupid question, not a trick question.  Don't overthink it.  I go, which is better, weaker or stronger?  And people will go, stronger.  I go, cool.  Let's talk about the thing you don't want.  Weaker.  If I want to make my arm weaker, how would I do that?  And people go, don't use it.  I go, yeah, if I put it in a cast, if I support this joint, and we'll come back to that.  All the muscles, ligaments, and tendons around that one joint get weaker.  Well, you have 33 joints in each foot.  Your foot is supposed to be able to bend and flex and move.  And that's what helps you for balance, agility, and mobility for the time you're born until you die.  What happens if you're in a shoe and I pull up a normal shoe that doesn't let those joints bend?  Do they get weaker, stronger?  And everyone goes, oh, they get weaker.  And remember I talked about support?  You're orthotic.  That's making your foot weaker.  Might make you feel better temporarily, just like lying down makes you feel better, but if you keep lying down, you won't be able to get up.  And so we make shoes that let your feet do what they're meant to do so they can be strong.  There's research that backs that up so you can, you know, do all these things that you love doing.  And the number of people who have said to me, holy crap, man, I just, you realize that I just realized that my 500 a year orthotic habit was complete and away we go.  But simple as that, what I just said sounds.  The AI can't replicate anything remotely like it.  And there's five other points that are like that one.  Or just, you know, a simple thing where I had a video that ran on YouTube for years until the tool marketing agency turned it off.  I said, I don't wear comfortable shoes.  I refuse to wear comfortable shoes, and you should too.  And half the comments are, hey, moron.  To which I say, which of my points are you disagreeing with?  Stronger is better than weaker.  That feeling is better than numbness, et cetera.  And the other half are, holy shit, I've never watched a YouTube ad before and I just bought your shoes.  So that's a long version of.  I'm not saying, I mean, you know, you said that you can add the creative, but it's not necessarily necessary.  But I love the idea of other people figuring out how to do this and doing it.  And the only way I found to.  Do that is to talk to whomever's coming up the copy, having a conversation like this and seeing if they can.  And I, I don't know that I'm batting zero, but I'm batting pretty close to zero.  There's one guy I know who can do it, and for some reason our CEO won't let him write for us because anything that I say she says is bullshit because she doesn't like me.  So she's in her CEO, she's going to get placed anyway.  So, so.  The, the like mid funnel and below normal stuff works.  But if we're really going for, you know, when people say, who's your market?  I go, people with feet preferably too, but not required.  And I know I'm being glib.  Some people won't spend more than 40 bucks on a shoe.  Some people won't spend less than 200 or 2,000.  But the reality is.  Other than some financial and maybe a couple of demographic things, we can sell shoes to everybody.  And I say that because we sell currently shoes to everybody.
+
+Cody Wittick: 30:29 
+ Yeah, I think the way that we.
+
+Cody Wittick: 30:32 
+ Media buy and the way that we.
+
+Cody Wittick: 30:33 
+ Launch creative should align with that because.
+
+Cody Wittick: 30:36 
+ Every piece of creative gets this opportunity to put it in Front of the right customer.  It's kind of like what I was talking about with top of funnel, middle.
+
+Cody Wittick: 30:42 
+ Funnel, bottom of funnel.
+
+Steven Sashen: 30:43 
+ Yeah.
+
+Cody Wittick: 30:44 
+ Because on a cost control well.
+
+Steven Sashen: 30:46 
+ And Tom, before you go, next time just keep it down.  Oh man.  Didn't get it in.
+
+Cody Wittick: 30:52 
+ So that very much aligns with how we want to launch creative because there's no harm, no foul.  It's all downside protection.
+
+Cody Wittick: 30:58 
+ So if it spends that means it's.
+
+Cody Wittick: 31:00 
+ The end consumer is actually purchasing your products.  And that PC Creative was, we know, 70 of the reason people buy is that.
+
+Steven Sashen: 31:06 
+ Yeah, well, and even that, I mean, it's funny, like, you know, you take a really.  Successful influencer of a certain type and even though that person is very influential, like literally, people go, yeah, but that worked for him, but not me.  I mean, people just like to argue for their current beliefs and their limitations instead of going, oh, but quick question related to how you're launching.  I mean, one thing that we had, somebody who worked for me for a while was just really good at coming up with these crazy ideas of audiences to test and found things that we never would have imagined in a bajillion years that worked really well and you could target the crap out of them.  I mean, when you are looking to launch, are you just starting broad as and going from there?  Okay, got it.  Yeah, we've done some.  We've done that as well, quite successfully.
+
+Cody Wittick: 31:53 
+ Yeah.
+
+Cody Wittick: 31:54 
+ I'm not here to say that we're smarter than meta with trillions of data points and the best.
+
+Steven Sashen: 31:58 
+ Well, I'll tell you something about that.  This guy that I mentioned, I'll describe his strategy if you want to hear it, but we accidentally ended up on the phone with one of the guys running the Facebook disruptors group.  Do you know who they are?  A lot of people don't.  I know the person who started it and he just out of curiosity said, you know, what do you think about my strategy?  And the guy said, you're doing what our AI does, but you're doing it better because you don't have a learning phase anymore.  You know, if you spend 50 bucks and it doesn't work, it's never going to work.  And what he does fundamentally is he'll take an ad and he'll make it pretty broad, but he will run a duplicate of that ad, either in an ad set or in a campaign.  And he'll just do like, you know, 4 by 25 instead of 100, 1 by 100 a day.  And.  Or sometimes they'll do like 10 by 25.  And for whatever reason, because of how the algorithm works, like three or four of those will be not worth playing with.  A couple will be good and there'll be three or four that just crush it.  And then he just takes those and sometimes duplicates that again and other times just starts spending more and titrating it.  And, and the guy, the disruptor guy said that's exactly what we do.  But the learning phase requires a certain amount of transactional volume.  So it's always going whoa.  And then, you know, back from there.  In fact, how much are you relying on the AI?  And I asked, because what I've seen over and over is that it can optimize the best that it can.  But that doesn't mean it's giving you the results you want, especially if you factor in what it cost you to get there.
+
+Cody Wittick: 33:30 
+ So what's the question?
+
+Cody Wittick: 33:31 
+ How much are we leveraging AI?
+
+Steven Sashen: 33:32 
+ Yeah.  And in what ways?
+
+Cody Wittick: 33:35 
+ I mean generally our consensus is to.
+
+Cody Wittick: 33:37 
+ Lean into the machine learning system, not.
+
+Cody Wittick: 33:38 
+ Try to outsmart it.
+
+Steven Sashen: 33:40 
+ Okay, interesting.  And so do you see that?  I mean like again, what I see during the learning phase is significant dip as it's being stupid and figuring it out.  And then at a certain point we've got to fill that hole and then pile on top of it big enough to start seeing the return that we want to cover that.  And depending on how long that takes, you know, we can run into seasonality issues where by the time, you know, we figured it out, it's, we're not going to be able to make the money that we want.
+
+Cody Wittick: 34:13 
+ Yeah, I.  Yeah, I, I would say.
+
+Cody Wittick: 34:17 
+ Like on cost controls, like majority of.
+
+Cody Wittick: 34:19 
+ Our ads won't get spent.
+
+Cody Wittick: 34:21 
+ I would say that's a feature, not a bug.
+
+Steven Sashen: 34:25 
+ Interesting.
+
+Cody Wittick: 34:26 
+ Yeah, I, I think honestly it's a relevant metric like the learning limited.
+
+Cody Wittick: 34:33 
+ We just want to optimize top performers.
+
+Steven Sashen: 34:35 
+ Yeah.
+
+Cody Wittick: 34:36 
+ And then ensure ad spend goes behind that.
+
+Cody Wittick: 34:38 
+ That is the next best dollar spent.
+
+Steven Sashen: 34:39 
+ When you do find a top performer, what do you do with that info?
+
+Cody Wittick: 34:44 
+ We iterate off of those.  So like that goes into our creative strategy, creative reporting.  So we're looking at highest spending ads.
+
+Cody Wittick: 34:51 
+ Over a two week time period and then we're providing you with iterative concepts.
+
+Cody Wittick: 34:55 
+ Or net new concepts that either A our team is going to go action.
+
+Cody Wittick: 34:58 
+ Against or B your team or combination.
+
+Steven Sashen: 35:01 
+ Of both, combo thereof.  And, and again, like what I've done because we're trying to not look like every other footwear brand on the planet is Stuff that it can get, you know, weird and wacky and whatever.  I'm very.  Or.  Or very.  Counterintuitive.  So run ads that are like.  I mean, what I'll do if someone's going to write ads for AdWords for me, I'll say, okay, we need five headlines.  I'll give you the first one.  You give me four more.  The first one is, these are the greatest shoes I've ever worn.  And if in the next quarter they don't have something like my wife said she'd leave me if I wore these shoes, then I know I can't work with them.  So, you know, we can't.  We.  We can't just look like everybody else.  And that's mostly what people do, is they look for best practices.  And it's like, no, we got to make people just go, what the.  What the just happened.
+
+Cody Wittick: 35:49 
+ Yeah, that's true.  So what would you like next steps to be?  Do you want.
+
+Steven Sashen: 35:53 
+ That's a good question.  If there's anything.  Well, here, wait, let me ask this other fun question.  Let's talk dollars and cents.  How do you get paid?
+
+Cody Wittick: 36:04 
+ We just get.  We charge a flat retainer.  We're anywhere from 15 to 25k a.
+
+Cody Wittick: 36:08 
+ Month, depending on what goes into that scope.
+
+Steven Sashen: 36:11 
+ If there's anything you want to send me just so I have that fingertips.  And then I'll put you on the.  The list that I have for Rachel to look at when we're talking about media buyers and creative as well.  And the best I can say is if you haven't heard from me beginning of the year, let me know.  But I have, like, no idea where her head's at and what's.
+
+Cody Wittick: 36:35 
+ Totally understand.  It sounds.  It sounds.  Yeah, it doesn't.  Makes total sense.
+
+Cody Wittick: 36:42 
+ So I'll send you information and then if I don't hear from you at the end of the year, we can.
+
+Cody Wittick: 36:45 
+ Chop it up then.
+
+Steven Sashen: 36:46 
+ That sounds good.  I'm trying to think if there's one other thing on the creator side, just as an FYI, someone you might get a kick out of knowing.  And if you look them up.  Wait, I'm going to give you the domain name because it's some version of this name.  There's a guy who's just doing very clever things on the creative side, and he's.  Yeah.  And I really like him very much.  And if you're ever looking for additional support slash talent slash whatever, this is a guy named Matt Augusta at Augusta Productions, llc, and you might get a kick out of him.
+
+Cody Wittick: 37:24 
+ Cool.  Appreciate the.
+
+Steven Sashen: 37:26 
+ Yes, it's one of these.  I'll say it this way, first of all, thank you for indulging on just, you know, getting off script.  There are very few times in a day where I get to talk to smart people, so this has been a pleasure.  And Matt's one of those people where, you know, Anthony is one of those people.  Matt's one of those people.  So I like connecting smart people.
+
+Cody Wittick: 37:48 
+ I appreciate it, man.  Yeah.  Stephen, best of luck the rest of the month.  Hopefully you get some time off.
+
+Steven Sashen: 37:53 
+ Well, I got to tell you, there's almost nothing for me to do right now, so my.  This is my one meeting of the day.
+
+Cody Wittick: 38:01 
+ There you go.  Well, I'm glad.  I'm glad it was a productive meeting then.
+
+Steven Sashen: 38:04 
+ Yeah.  I'm going to make some pizza dough.  All right.
+
+Cody Wittick: 38:07 
+ Awesome.
+
+Steven Sashen: 38:08 
+ All right.  Thank you so much.
+
+Cody Wittick: 38:09 
+ Cheers.  We'll be in touch.
+
+Steven Sashen: 38:11 
+ Yeah, looking forward to it.
+
+Cody Wittick: 38:12 
+ Bye.
+

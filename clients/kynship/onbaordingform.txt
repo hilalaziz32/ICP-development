@@ -1,0 +1,153 @@
+kynship Provided us with their answers to our questions. These QA pairs represent the questions that were asked by me as a GTM strategist and answered by them as a client.
+
+Make a copy & paste shareable link
+https://docs.google.com/spreadsheets/d/1Yj71xeth8_vs1r3h03VxuJt6xSnfveLRVNm-imHevaU/edit?usp=sharing
+Apr 3, 01:32 AM
+Location:
+USA / UK / Canada
+
+UK is HUGE for us just because of the success and current notoriety of Purdy and Figg - I think we need to push hard on this.
+Apr 3, 01:32 AM
+Company Size/Revenue:
+$2M+ 
+
+Typically $2-$60M is our sweet spot
+Apr 3, 01:32 AM
+What are all the job titles of your ICPs (ideal customer personas)?
+Head of Marketing
+Head of Growth
+CMO
+Founder
+CEO
+Head of Paid Media
+Director of acquisition
+President 
+COO
+VP of marketing
+VP of Growth
+Brand Director
+VP of Brand
+Head of ecommerce
+Director of Ecommerce
+VP of performance marketing
+VP of Demand Generation
+VP of Revenue
+Owner
+Managing Director
+Founding partner
+Partner
+
+Apr 3, 01:32 AM
+Complete the value statement above:
+We help ambitious DTC brands unlock profitable scale by turning creative and media buying into one integrated growth system, which improves CAC, increases efficiency, and drives stronger incremental revenue.
+
+We do this through high-output creative iteration, financial-goal-led media strategy, and rigorous performance analysis, which gives them a durable advantage over brands relying on fragmented or reactive execution.
+Apr 3, 01:32 AM
+When prospects say "that's different from other agencies," what SPECIFICALLY are they reacting to?
+Prospects are usually reacting to how financially grounded our approach is. Most agencies report on platform metrics after the fact and then make reactive adjustments, whereas we start with the brand’s actual business model — margin profile, CAC tolerance, payback window, repeat purchase behavior, and profit goals — and use that to determine how aggressively they should scale. That is often the first moment where they realize we are not just trying to improve ad account performance, but help them make better commercial decisions.
+
+They are also surprised by how proactive the model is. Instead of waiting for performance to drop and then reacting, we build around the inputs that drive financial outcomes in the first place — creative volume, account structure, testing velocity, and clear profit guardrails. That makes the relationship feel less like outsourced campaign management and more like having a growth partner who understands both the levers inside the ad account and the economics outside of it.
+Apr 3, 01:32 AM
+What's one weird/unexpected thing that's working for your clients right now that most agencies aren't doing? 
+- Helping them navigate how to affect the ad account from the outside in. By this I mean we help brands evaluate a free gift vs free shipping - which conversion rate and increase in margin provides meaningful growth towards their bottom line goal. Changing the price / unit economics - telling brands to actually shoot for the lowest CAC target possible - not the highest - this unlocks scale within meta.
+
+Apr 3, 01:32 AM
+Who are your primary competitors?
+Common Thread Collective is one of the clearest competitors because they also position around financial rigor, unit economics, and tying marketing performance back to broader business outcomes rather than just platform metrics. Like Kynship, they appeal to brands that want a partner who understands contribution margin, CAC tolerance, payback windows, and how to scale in a way that is commercially responsible rather than just growth-at-all-costs.
+
+The similarity is that both companies try to elevate the conversation beyond “we run your ads” into “we help you make better growth decisions.” Both are trying to win trust by showing they understand the economics behind customer acquisition, not just the mechanics inside Meta. That makes them a relevant competitor in how they frame value to founders and operators.
+
+Where Kynship differs is in how heavily it emphasizes the proactive inputs that actually create financial outcomes, especially creative volume, creative diversity, testing velocity, and account structure. Common Thread is strong on the strategic and financial narrative, but Kynship’s edge is that it connects those financial goals more directly to the day-to-day operating system required to hit them. In other words, Kynship is not just helping brands understand the numbers; it is helping them build the creative and paid social engine needed to change the numbers.
+
+Another difference is in posture. Many agencies, even financially sophisticated ones, still end up acting reactively once campaigns are live. Kynship’s positioning is more proactive: set profit guardrails first, define what scale should look like commercially, then shape the creative, media buying, and testing environment around that from the outset. That makes the model feel less like reporting on performance and more like engineering performance.
+
+The only other people in the space that go to the extent that we do would be contractors like Andrew Farris or fractional CMO's.
+Apr 3, 01:32 AM
+How do you compare to them in terms of offerings, pricing, and market positioning
+Our pricing may be fairly comparable to CTC - the biggest difference will be the fact that we're still a boutique firm. You're extra close to the genius which is difficult to scale within agencies. They have 150+ clients - we have 18-20 and are designed to stay that way - nimble / quick and moveable.
+
+Hiring a fractional is difficult as they'll bring the strategy and charge a premium for tailored advice - however they don't implement or do actually any of the heavy lifting - thats our difference.
+Apr 3, 01:32 AM
+Why do clients choose you over COMPETITORS? Not 'we care more.' What's the SPECIFIC reason they pick you?
+Clients choose Kynship because we do not just promise better ad management — we give them a clearer, more financially grounded path to scale. Most agencies optimize reactively inside the ad account after performance moves. We start higher up: understanding the brand’s margins, CAC tolerance, payback window, repeat purchase behavior, and profit goals, then building the paid social and creative system around those realities. That makes our recommendations feel more commercially sound and more trustworthy to founders who care about profitable growth, not just prettier reporting.
+
+They also choose us because we are more proactive in how we create performance. Rather than trying to squeeze more from the same tired assets, we focus on the upstream inputs that actually move results — creative volume, creative diversity, testing velocity, and account structure. In practice, that means clients feel they are getting a system for generating better outcomes, not just a team reacting to yesterday’s numbers.
+
+Our sales cycle also takes them fully through their own numbers. We get financials, P&L's and access to shopify / amazon - everything. We believe "the only attribution that never lies is your bank account" - we don't want to sell them a fancy dashboard to justify our retainer - we want to grow their topline and net profit at the rate we help them determine.
+Apr 3, 01:32 AM
+What triggers your ICP to seek a solution like yours? I.e How can incorporate FOMO to prompt them to find your solution?
+Their current ad buyer isn't performing - poor results.
+
+Their current ad buyer is out of ideas - they keep coming to their check ins and pushing back on variables that cannot be changed: market size, unit economics etc.
+
+Meta performance is headed south.
+
+Their revenue isn't returning at the same rate as their ad spend is increasing - it feels like the law of diminishing returns just wont quit - feels like a ceiling they can't get past.
+
+
+What I like to call the UGC death loop - they get new creative made, it works for two weeks and then doesn't work again. 
+Apr 3, 01:32 AM
+Do you offer soft guarantees or risk reversals? If not, would you be open to?
+I'll send an email to Cody and add his thoughts for this.
+
+We normally hold a 6 month revolving agreement, although for some brands we can lower that to 4 months.
+
+I think we'd be open to see what offers / guarantees you'd offer in this manner - i think based on the way that we ad buy (cost controls) we could get aggressive here - it's definitely something we'll need to push Cody on. 
+Apr 3, 01:32 AM
+What sort of lead magnets you can offer on call that they'll truly get value from?
+We could potentially offer our 12 month projection guide - this is a document you'll see below that allows us to use their cost centers and customer cohort behavior to effectively analyze the next 12 months of performance.
+
+We can then model out different scenarios - if amer goes up or down, their retention changes, margins change - everything can be built out from that model.
+
+We could also offer a "how to source 200-300 creatives per month" guide. We run these for clients, in terms of customer generated content - getting content in exchange from their current customers in exchange for  video content. Influencer seeding - UGC etc we could offer a guide or scripts here.
+
+We could also put together a media buying guide - 5 key mistakes ALL adbuyers make
+
+We will likely need to build something for this lead magnet - but based on our offering, we're open to investing time / resources into a strong lead magnet.
+
+We could also give the unit economics calculator - attached below.
+
+Our difficulty has been our "audit" is actually a full competitive analysis of their P&L and all ad accounts - it takes around 8-10 hours of man hours to complete - we give all this for free - so how we mention this and offer this is key. Been testing the line "does 8-10 hours of our time make sense for you to spend less than 1/10th of that to evaluate it etc" - hard to position because whenever someone hears audit they switch off.
+Apr 3, 01:32 AM
+Untitled long answer field
+N/A
+Apr 3, 01:32 AM
+Make a copy & paste shareable link
+https://docs.google.com/spreadsheets/d/1Yj71xeth8_vs1r3h03VxuJt6xSnfveLRVNm-imHevaU/edit?usp=sharing
+Apr 3, 01:32 AM
+Any Previous successful internal ad campaigns, Cold email scripts etc. that worked?
+From our fractional CMO:
+
+These are our 5 highest open subject lines:
+
+Agency Transparency: 3 questions to ask to avoid getting burned in 2026
+BFCM 2024 vs 2025: How our DTC clients performed YOY
+BFCM Results: Cutting CAC is going to kill a LOT of DTC brands in 2026
+Tiktok is far more likely to kill your brand than grow it
+Agency Transparency: Questions You Should Be Asking Your Partners
+
+so agency transparency and BFCM seem to be consistent winners for subject lines
+
+_________________
+Apr 3, 01:32 AM
+Untitled file upload field
+Kynship - Black Friday email template.docx
+
+
+Apr 3, 01:32 AM
+Sales Call Recordings(IMPORTANT):
+https://docs.google.com/spreadsheets/d/1bWVL7oHZeanRa8hBDSTCJv8EO48RynL3cc8q9CVVUCY/edit?usp=sharing
+Apr 3, 01:32 AM
+Marketing/Sales Material:
+https://drive.google.com/drive/folders/1fEVum2DCd23N9tNkfa5B4NB5cFchikCu?usp=drive_link
+Apr 3, 01:32 AM
+Untitled file upload field
+Kynship - Strategy Call Deck.pdf
+
+
+Apr 3, 01:32 AM
+Is there anyone in your network that you think could benefit from this service?
+Happy to provide intros post results / trial period.
+Apr 3, 01:32 AM
+Did you fill in this onboarding form in full detail?
+Yes, Now let's book some calls✅💪

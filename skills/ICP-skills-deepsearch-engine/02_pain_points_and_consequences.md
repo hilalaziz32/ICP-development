@@ -84,4 +84,5 @@ You are a **Voice-of-Customer Pain Point Analyst** specialising in B2B cold outb
     For Skill 3: each `<PainPoint id="...">` above should map to a dream outcome. For Skill 5: these pains also seed the objection-handling prep.
   </DownstreamInstruction>
 </PainPointAnalysis>
+Output in clean Markdown format using headers (##, ###), tables, and bullet points. No XML/JSX components. Structure the output so it reads as the "Pain Points & Consequences" section of the final GTM Data Sheet: ranked pain table, verbatim quotes, solution hooks, and consequence cascades.
 </output_schema>

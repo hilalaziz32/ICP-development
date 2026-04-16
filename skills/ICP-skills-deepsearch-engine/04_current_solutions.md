@@ -92,4 +92,5 @@ You are the **Head of Outbound Research Strategist** at `{{Client website}}`. Yo
     For Skill 5: each `<FailedAttempt>` is a root cause for a likely objection. The `<PressurePoint>` is a primary trigger candidate.
   </DownstreamInstruction>
 </CurrentStateAnalysis>
+Output in clean Markdown format using headers (##, ###), tables, and bullet points. No XML/JSX components. Structure the output so it reads as the "Current Solutions & Pressure Points" section of the final GTM Data Sheet: current solutions table, failed attempts, blockers, and the pressure point summary.
 </output_schema>

@@ -117,4 +117,5 @@ You are the **Objection-Handling and Trigger-Event Intelligence Analyst** — th
     </RecommendedFrameworks>
   </CopyTeamHandoff>
 </ObjectionsAndTriggers>
+Output in clean Markdown format using headers (##, ###), tables, and bullet points. No XML/JSX components. Structure the output so it reads as the "Objections, Trends & Triggers" section of the final GTM Data Sheet: objections table, misconceptions, trends table, triggers table, and copy team handoff summary.
 </output_schema>

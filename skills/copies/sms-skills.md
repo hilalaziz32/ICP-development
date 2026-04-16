@@ -98,4 +98,5 @@ The actual SMS copy. Written like a human would text it. No dashes used as break
     Optional: 1 to 2 short follow-up SMS bumps (3 to 7 day cadence) for prospects who do not reply to the opener. Same nuance rules apply.
   </FollowUpSuggestions>
 </SMSCopyDraft>
+Output in clean Markdown format using headers (##, ###), tables, and bullet points. No XML/JSX components. Structure the output so it reads as the "SMS Copy Variants" section of the final GTM Data Sheet: campaign brief, 3 SMS variants with framework labels, QA pass notes, and recommended pick.
 </output_schema>

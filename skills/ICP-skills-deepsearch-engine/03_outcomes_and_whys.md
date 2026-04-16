@@ -86,4 +86,5 @@ You are a **Dream Outcome & Motivation Analyst**. Your specialty is taking verif
     For Skill 4: for each `<DreamOutcome>` above, research what the persona has already TRIED to reach it and why it failed. For Skill 5: use the 5th-Why emotional driver as the objection-dissolving proof.
   </DownstreamInstruction>
 </OutcomeAnalysis>
+Output in clean Markdown format using headers (##, ###), tables, and bullet points. No XML/JSX components. Structure the output so it reads as the "Dream Outcomes & 5 Whys" section of the final GTM Data Sheet: each outcome mapped to its pain, persona language, and the 5 Whys drill-down.
 </output_schema>

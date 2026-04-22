@@ -65,3 +65,23 @@
 9. **Unrealistic Timing Promises**: Making commitments about specific timeframes and results that sound too aggressive or unrealistic for the prospect's situation.
 10. **Assumption of problems that are wrong**: Positioning offers as if prospects are already aware they have a problem and are ready to buy, rather than meeting them where they are in their journey. (Comes from bad market research).
 11. **Bonus #11**: Your offer just sucks & no one believes you ;)
+
+## Copy & Sales Anti-Patterns (Sandler)
+
+Full reference: [../skills/sandler-sales-rules.md](../skills/sandler-sales-rules.md)
+
+1. **Spilling candy in the lobby** (Sandler #2): Dumping mechanism + 3 results + case study + calendar link in one SMS. → One pain, one mechanism, one proof, one ask.
+2. **Answering unasked questions** (Sandler #5): Preempting objections with "I know you get a lot of these…" or "we're not cheap but…". → You just seeded the objection. Strip it.
+3. **Stated-pain copy** (Sandler #38): Writing to the surface symptom ("need more leads") instead of the real pain (unpredictable revenue → can't hire/plan). → Push one layer deeper.
+4. **Asserting the pain** (Sandler #27): "You have a pipeline problem" instead of "Still pulling pipeline from referrals after 3 years?". → Let them discover it via question.
+5. **Pitching the service in cold SMS** (Sandler #8): CTA trying to close the deal instead of booking the call. → Sell the 15-min, not the offer.
+6. **Vague "let me know" CTAs** (Sandler #4): No permission to say No = polite maybes clogging pipeline. → "If not relevant, just say pass."
+7. **Competitor-paste-safe copy** (Sandler #35): If a competitor could swap their logo onto your SMS and send it, the UM is too weak. → Rewrite with sharper mechanism.
+8. **Stat-hook openers** (Sandler #21): "Did you know 73% of agencies…" → Prospects don't pay for education they didn't ask for. Cut it.
+9. **Hard-sell urgency** (Sandler #26): "Limited spots," "act now," "last chance." → Corrodes trust with sophisticated ICPs.
+10. **Neediness leaking into voice** (Sandler #49): "Would love the chance to…", "hoping we can…", over-apology. → Your Child leaking. Strip it.
+11. **Seagull painting** (Sandler #18): Adding uninvited features/promises/adjectives to the prospect's mental picture. → Every extra detail is a new reason to stall.
+12. **Jargon dumps in first-touch** (Sandler #24): Acronyms and technical depth before pain is confirmed. → Plain English, one idea.
+13. **Happy ears on replies** (Sandler #13, #37): Reading "interesting" or "maybe Q2" as buying intent. → Treat as ambiguity, ask a clarifying question.
+14. **Permanent maybes in pipeline** (Sandler #31): Keeping lukewarm leads "nurturing" forever. → Close the sale or close the file.
+15. **Blaming the list before the message** (Sandler #41): "These leads are bad" when the real issue is mechanism-market fit. → Audit messaging first.

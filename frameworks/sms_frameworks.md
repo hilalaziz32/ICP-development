@@ -43,11 +43,15 @@ We want to showcase every single pathway that your team member can take in order
 All high-performing SMS messages follow this core structure:
 
 **Pain Point + Implication → Unique Mechanism → Social Proof + Outcome**
+  [CHILD — emotion]         [ADULT — logic]         [PARENT — permission]
 
 This formula ensures your SMS:
-- Addresses a specific problem the prospect faces
-- Explains HOW you solve it differently (mechanism)
-- Proves credibility with real results (social proof + outcome)
+- Addresses a specific problem the prospect faces → **fires the Child** (Sandler: "people buy emotionally")
+- Explains HOW you solve it differently → **satisfies the Adult** (logical justification)
+- Proves credibility with real results → **reassures the Parent** (social permission to act)
+
+Skip Child = no reply. Skip Adult = flagged as hype. Skip Parent = ghosted at CTA.
+Full psychology reference: [../skills/sandler-sales-rules.md](../skills/sandler-sales-rules.md)
 
 ---
 
@@ -160,6 +164,20 @@ P.S. {{Social Proof}}
 
 **Scaletopia Example:**
 "Think you need more leads to grow → Actually need qualified conversations with budget → AI identifies companies hiring CMOs → Velox Media went from 2 to 8 clients/month"
+
+---
+
+### Framework 13: Negative-Reverse (Sandler #16) — for lukewarm / re-engagement
+
+**Structure:** {{Disqualifying assumption}} → {{Low-pressure out}} → {{Implicit re-opener}}
+Use when: prospect went cold after initial interest, or reply was lukewarm ("interesting, maybe later"). Instead of chasing ("ready to book?"), you let them pull the deal back toward themselves.
+
+**Scaletopia Example:**
+"Figured timing's probably not right on your end — should I circle back in Q3, or is this dead?"
+
+"Sounds like you've got other priorities right now — want me to close the loop, or is there still a version of this that'd be useful?"
+
+**Why it works:** Removes sales pressure (Sandler #4 — permission to say No) + triggers loss aversion in the Child. Often flips more lukewarm leads than a direct close-ask.
 
 ---
 

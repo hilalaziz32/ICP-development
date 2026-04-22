@@ -102,6 +102,16 @@ Before submitting any SMS copy, verify that ALL of the following criteria are me
 ### ✅ Response-Worthy
 - [ ] **Would YOU respond to this?** (Put yourself in the recipient's shoes)
 
+### ✅ Sandler Gates (see [../skills/sandler-sales-rules.md](../skills/sandler-sales-rules.md))
+- [ ] **Competitor test** (Sandler #35): Could a competitor paste their logo on this SMS and send it? If yes → UM too weak, rewrite.
+- [ ] **Real pain, not stated pain** (Sandler #38): Is this addressing the surface symptom ("need more leads") or the deeper consequence (unpredictable revenue, can't hire/plan)? Push one layer deeper.
+- [ ] **Permission to say No** (Sandler #4): Does the CTA let them pass cleanly ("if not relevant, just say pass") instead of a vague "let me know"?
+- [ ] **No preempted objections** (Sandler #5): Strip any "I know you get lots of these…", "we're not cheap but…", "you're probably wondering…" — you're seeding the objection.
+- [ ] **Selling the call, not the service** (Sandler #8): Is the CTA booking a 15-min conversation, or trying to close the deal in 160 chars?
+- [ ] **Discovery, not assertion** (Sandler #27): Are you asking the implicit question ("Still on referrals after 3 years?") or asserting the pain ("you have a pipeline problem")?
+- [ ] **No neediness** (Sandler #49): No "would love to…", "hoping we can…", over-apology leaking through.
+- [ ] **No stat-hook education** (Sandler #21): No "did you know 73% of…" openers. Cut uninvited education.
+
 ---
 
 ## Critical Failure Pattern: Generic Pain Without Unique Mechanism

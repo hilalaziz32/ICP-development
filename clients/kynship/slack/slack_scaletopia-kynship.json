@@ -1,0 +1,3557 @@
+[
+  {
+    "subtype": "channel_join",
+    "text": "<@U07LP9D7KC5> has joined the channel",
+    "ts": "1775071295.692429",
+    "type": "message",
+    "user": "U07LP9D7KC5"
+  },
+  {
+    "inviter": "U07LP9D7KC5",
+    "subtype": "channel_join",
+    "text": "<@U0AHUKJAE3X> has joined the channel",
+    "ts": "1775071316.800389",
+    "type": "message",
+    "user": "U0AHUKJAE3X"
+  },
+  {
+    "inviter": "U07LP9D7KC5",
+    "subtype": "channel_join",
+    "text": "<@U0A1MEEDJU8> has joined the channel",
+    "ts": "1775071316.872739",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "inviter": "U07LP9D7KC5",
+    "subtype": "channel_join",
+    "text": "<@U0A6SM2CWJZ> has joined the channel",
+    "ts": "1775071316.942369",
+    "type": "message",
+    "user": "U0A6SM2CWJZ"
+  },
+  {
+    "inviter": "U07LP9D7KC5",
+    "subtype": "channel_join",
+    "text": "<@U0533RFSVBR> has joined the channel",
+    "ts": "1775071317.014969",
+    "type": "message",
+    "user": "U0533RFSVBR"
+  },
+  {
+    "inviter": "U07LP9D7KC5",
+    "subtype": "channel_join",
+    "text": "<@U0711E9TZ5G> has joined the channel",
+    "ts": "1775071317.088409",
+    "type": "message",
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "inviter": "U0AHUKJAE3X",
+    "subtype": "channel_join",
+    "text": "<@U08QK5DJBA4> has joined the channel",
+    "ts": "1775139451.668759",
+    "type": "message",
+    "user": "U08QK5DJBA4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KTbC9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "tom",
+                "type": "text"
+              },
+              {
+                "text": " from ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Kynship",
+                "type": "text"
+              },
+              {
+                "text": " was added to this channel by ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "muqtadir",
+                "type": "text"
+              },
+              {
+                "text": ". You can review their permissions in Channel Details. Happy collaborating!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "subtype": "bot_message",
+    "team": "T053J8AAMQT",
+    "text": "*tom* from *Kynship* was added to this channel by *muqtadir*. You can review their permissions in Channel Details. Happy collaborating!",
+    "ts": "1775140824.128829",
+    "type": "message",
+    "user": "USLACKBOT",
+    "username": "slackbot"
+  },
+  {
+    "inviter": "U08QK5DJBA4",
+    "subtype": "channel_join",
+    "team": "T053J8AAMQT",
+    "text": "<@U09MU4BQWQP> has joined the channel",
+    "ts": "1775140824.233139",
+    "type": "message",
+    "user": "U09MU4BQWQP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a3e9s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "wave",
+                "skin_tone": 3,
+                "type": "emoji",
+                "unicode": "1f44b-1f3fc"
+              },
+              {
+                "text": "\n\nWelcome to Scaletopia once again, and thanks for joining our Slack channel! We'll be using this space to communicate about all aspects of the campaigns and keep you updated along the way.\n\nOnce we receive the onboarding form, we can schedule a quick kick-off call to go through it together and align on what niches to go after and specific messaging angles will work best. After that, we'll start creating the copies and lead lists, with the goal of getting a campaign live within 7 days!\n\nIn the meantime, here is our entire delivery team that will be working on Kynship's outbound campaigns and the designated role each will be owning:\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Myself - Campaign strategy & messaging & account management",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U0A6SM2CWJZ"
+                  },
+                  {
+                    "text": " - Lead list & Clay enrichments",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U08QK5DJBA4"
+                  },
+                  {
+                    "text": " - Campaign setup & execution ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U0711E9TZ5G"
+                  },
+                  {
+                    "text": " - Inbox management & replies",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nReally looking forward to working with you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "799f0cef-f5f1-47f3-8a1f-ef5dd6e68bcc",
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP> :wave::skin-tone-3:\n\nWelcome to Scaletopia once again, and thanks for joining our Slack channel! We'll be using this space to communicate about all aspects of the campaigns and keep you updated along the way.\n\nOnce we receive the onboarding form, we can schedule a quick kick-off call to go through it together and align on what niches to go after and specific messaging angles will work best. After that, we'll start creating the copies and lead lists, with the goal of getting a campaign live within 7 days!\n\nIn the meantime, here is our entire delivery team that will be working on Kynship's outbound campaigns and the designated role each will be owning:\n\n\u2022 Myself - Campaign strategy &amp; messaging &amp; account management\n\u2022 <@U0A6SM2CWJZ> - Lead list &amp; Clay enrichments\n\u2022 <@U08QK5DJBA4> - Campaign setup &amp; execution \n\u2022 <@U0711E9TZ5G> - Inbox management &amp; replies\nReally looking forward to working with you!",
+    "ts": "1775160240.714679",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8aD9f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " - great to have you here!\n\nI\u2019m Himanshi - I\u2019ll be taking care of lead list building, enrichments, and TAM coverage, making sure we\u2019re always working with the right set of prospects.\nPumped to get this rolling",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d2c7ec1c-5fa4-4608-857c-a0067c42af18",
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP> - great to have you here!\n\nI\u2019m Himanshi - I\u2019ll be taking care of lead list building, enrichments, and TAM coverage, making sure we\u2019re always working with the right set of prospects.\nPumped to get this rolling",
+    "ts": "1775160756.393189",
+    "type": "message",
+    "user": "U0A6SM2CWJZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bbFpc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey team Kynship! Glad to have you all here. I'm Muqtadir, Technical Operations manager here at Scaletopia, my main responsibility is to launch and manage campaigns and make sure that your campaigns keep running smoothly without any hiccups, I also manage day to day operations like data, infrastructure, etc. just ping me and I'll guide you through, but anyways looking forward to getting things started!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ff46935-8d0c-4da8-a80e-bf79f6b35c7e",
+    "edited": {
+      "ts": "1775161769.000000",
+      "user": "U08QK5DJBA4"
+    },
+    "team": "T053J8AAMQT",
+    "text": "Hey team Kynship! Glad to have you all here. I'm Muqtadir, Technical Operations manager here at Scaletopia, my main responsibility is to launch and manage campaigns and make sure that your campaigns keep running smoothly without any hiccups, I also manage day to day operations like data, infrastructure, etc. just ping me and I'll guide you through, but anyways looking forward to getting things started!",
+    "ts": "1775161760.045739",
+    "type": "message",
+    "user": "U08QK5DJBA4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7q0nI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hi ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " - great to be working together.\n\nI'm Zobair, I'll be handling the inbox on this end - managing replies, qualifying conversations, and making sure the right ones land on your calendar so things stay clean.\n\nLooking forward to getting this moving.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43acb92b-9092-409a-a16a-57dabd76b318",
+    "team": "T053J8AAMQT",
+    "text": "Hi <@U09MU4BQWQP> - great to be working together.\n\nI'm Zobair, I'll be handling the inbox on this end - managing replies, qualifying conversations, and making sure the right ones land on your calendar so things stay clean.\n\nLooking forward to getting this moving.",
+    "ts": "1775161937.845939",
+    "type": "message",
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3jA3z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hi All,\n\nGreat to be connected - I'm waiting on some team members to finish the case study portion of the onboarding forms - it may be early next week before we get that data - but i think it will be worth it rather than me stabbing and guessing at those figures (I'm newer to the company).\n\nI did submit the form with everything i could. My goal is to be your easiest client - so if there is anything you see missing, additional questions please continue to ask until you have absolute clarity. The success of this partnership is KEY to my next 6-12 months here at Kynship - so feel free to give feedback on the resources etc or ask if you need anything else.\n\nThanks",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2bef6ddc-3e2c-4f17-9eff-ae235029df56",
+    "is_locked": false,
+    "latest_reply": "1775162746.998439",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "raised_hands::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "handshake::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "handshake",
+        "users": [
+          "U0533RFSVBR",
+          "U0711E9TZ5G"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U0533RFSVBR",
+          "U0711E9TZ5G"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "raised_hands",
+        "users": [
+          "U0711E9TZ5G"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U0A1MEEDJU8"
+    ],
+    "reply_users_count": 1,
+    "source_team": "TFDF22U7R",
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "Hi All,\n\nGreat to be connected - I'm waiting on some team members to finish the case study portion of the onboarding forms - it may be early next week before we get that data - but i think it will be worth it rather than me stabbing and guessing at those figures (I'm newer to the company).\n\nI did submit the form with everything i could. My goal is to be your easiest client - so if there is anything you see missing, additional questions please continue to ask until you have absolute clarity. The success of this partnership is KEY to my next 6-12 months here at Kynship - so feel free to give feedback on the resources etc or ask if you need anything else.\n\nThanks",
+    "thread_ts": "1775162275.279739",
+    "ts": "1775162275.279739",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PsPJk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " Good afternoon! Just wanted to give you a quick update on where we're at.\n\nCall mining progress:\n\u2022 28 strategy calls mined\n\u2022 24 audit calls mined\n\nNiches where I'm seeing the most patterns:\n\u2022 Food & Bev / Consumables (energy drinks, supplements, sports nutrition)\n\u2022 Beauty & Personal Care (skincare, scalp care, clean beauty)\n\u2022 Health & Wellness (period care, supplements, barefoot footwear)\n\u2022 UK brands looking to break into the US\n\nOutbound infra:\n\u2022 Email - lookalike domains are warming up, should be fully live by April 17th\n\u2022 SMS - aiming to launch Tuesday next week, maybe even Monday\n\nCouple check-ins:\n1. Is there any update on the case studies? That's really the missing piece for me to figure out which niche to prioritise, the messaging angles to lock and draft the actual copies.\n2. Also, what does your availability look like for Thu or Fri to hop on a 30 min kick-off call? Just want to make sure we're aligned before things go live.\n\nThanks!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f679698a-3d8a-414b-85c9-dc40f67e12b0",
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP> Good afternoon! Just wanted to give you a quick update on where we're at.\n\nCall mining progress:\n\u2022 28 strategy calls mined\n\u2022 24 audit calls mined\n\nNiches where I'm seeing the most patterns:\n\u2022 Food &amp; Bev / Consumables (energy drinks, supplements, sports nutrition)\n\u2022 Beauty &amp; Personal Care (skincare, scalp care, clean beauty)\n\u2022 Health &amp; Wellness (period care, supplements, barefoot footwear)\n\u2022 UK brands looking to break into the US\n\nOutbound infra:\n\u2022 Email - lookalike domains are warming up, should be fully live by April 17th\n\u2022 SMS - aiming to launch Tuesday next week, maybe even Monday\n\nCouple check-ins:\n1. Is there any update on the case studies? That's really the missing piece for me to figure out which niche to prioritise, the messaging angles to lock and draft the actual copies.\n2. Also, what does your availability look like for Thu or Fri to hop on a 30 min kick-off call? Just want to make sure we're aligned before things go live.\n\nThanks!",
+    "ts": "1775590964.321749",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qh8kT",
+        "elements": [
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Yes - i've been pushing fairly hard internally to get these. We obviously have the case study section on our website - the purdy and figg and the Wildbird case studies both have strong potential - but i understand the need to expand these. ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Yes thursday works. Feel free to schedule ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "HERE",
+                    "type": "link",
+                    "url": "https://meetings.hubspot.com/tom-siswick/tom-email-scheduler?uuid=bb6fafbd-967c-468d-a2ac-62589d584188"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "ordered",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nWill we have the ability to preview and greenlight any copy / lists before it goes out? I think we still need to give you guys our DNC list",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6cb75ee0-d4de-4f6e-a8dc-4a009d8b1e62",
+    "is_locked": false,
+    "latest_reply": "1775681302.149449",
+    "reply_count": 7,
+    "reply_users": [
+      "U0A1MEEDJU8",
+      "U09MU4BQWQP",
+      "U0533RFSVBR"
+    ],
+    "reply_users_count": 3,
+    "source_team": "TFDF22U7R",
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "1. Yes - i've been pushing fairly hard internally to get these. We obviously have the case study section on our website - the purdy and figg and the Wildbird case studies both have strong potential - but i understand the need to expand these. \n2. Yes thursday works. Feel free to schedule <https://meetings.hubspot.com/tom-siswick/tom-email-scheduler?uuid=bb6fafbd-967c-468d-a2ac-62589d584188|HERE>\nWill we have the ability to preview and greenlight any copy / lists before it goes out? I think we still need to give you guys our DNC list",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775592042.700319",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GgLj9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hi all - sheet is fully updated (or at least as much as i could get from the performance team).",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "edf26126-33ca-4520-9f3a-b50d384500f4",
+    "is_locked": false,
+    "latest_reply": "1775683096.958009",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "raised_hands::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U0A1MEEDJU8"
+    ],
+    "reply_users_count": 1,
+    "source_team": "TFDF22U7R",
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "Hi all - sheet is fully updated (or at least as much as i could get from the performance team).",
+    "thread_ts": "1775681323.289299",
+    "ts": "1775681323.289299",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9vwoa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": ", thanks for the call! Great kicking things off with you today.\n\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "What we covered:",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "underline": true
+                    },
+                    "text": "Niche selection: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Leading with cleaning/household goods (Purdy and Fig as the anchor case study) and either supplements or beauty/personal care as the second niche. Food and beverage moves down the priority list based on your feedback around lower AOV and profitability challenges in that space.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "underline": true
+                    },
+                    "text": "Messaging angles:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Leaning into what actually differentiates Kynship: profit-first ad buying, cost controls instead of \"pay to test,\" and the creative volume math (2-3% hit rate across 2,000+ ads, so more creative = faster winners). We'll translate those into punchy outbound copy rather than trying to force them into a single label.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "underline": true
+                    },
+                    "text": "Purdy and Fig positioning:",
+                    "type": "text"
+                  },
+                  {
+                    "style": {
+                      "italic": true
+                    },
+                    "text": " ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "For US prospects, the \"$50M in the UK alone, now launching stateside\" framing hits hard. UK email campaigns can reference them more directly once those domains are warmed up starting the 17th.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "underline": true
+                    },
+                    "text": "Launch plan: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "SMS campaign goes live Tuesday/Wednesday, email launches from the 17th once domains are warmed. All copy comes to you for review before anything goes out. Weekly dashboard reports every Monday, bi-weekly syncs same time every two weeks.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "underline": true
+                    },
+                    "text": "Inactive positive leads: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Any positive replies that go inactive will be compiled into a list and handed over so your team can drop them into a nurture sequence.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Action items: ",
+                "type": "text"
+              },
+              {
+                "text": "\n\nUs (Scaletopia):\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Draft copy for the first niche sent to you by Monday",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Checking with our ops team on the HubSpot integration for auto-creating deals (no rush, month two or three)",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Look into pulling a lead list from your co-founders' Twitter followers via Clay ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nYou (Kynship):\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "If you land on a name or shorthand for the profit-first ad buying approach, send it over and we'll work it into copy",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nExcited to get those first campaigns out the door next week, let's go book some meetings.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bb4179d6-9ad4-4b84-b8ba-89f5a63d904d",
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP>, thanks for the call! Great kicking things off with you today.\n\n*What we covered:*\n\u2022 Niche selection: Leading with cleaning/household goods (Purdy and Fig as the anchor case study) and either supplements or beauty/personal care as the second niche. Food and beverage moves down the priority list based on your feedback around lower AOV and profitability challenges in that space.\n\u2022 Messaging angles: Leaning into what actually differentiates Kynship: profit-first ad buying, cost controls instead of \"pay to test,\" and the creative volume math (2-3% hit rate across 2,000+ ads, so more creative = faster winners). We'll translate those into punchy outbound copy rather than trying to force them into a single label.\n\u2022 Purdy and Fig positioning: For US prospects, the \"$50M in the UK alone, now launching stateside\" framing hits hard. UK email campaigns can reference them more directly once those domains are warmed up starting the 17th.\n\u2022 Launch plan: SMS campaign goes live Tuesday/Wednesday, email launches from the 17th once domains are warmed. All copy comes to you for review before anything goes out. Weekly dashboard reports every Monday, bi-weekly syncs same time every two weeks.\n\u2022 Inactive positive leads: Any positive replies that go inactive will be compiled into a list and handed over so your team can drop them into a nurture sequence.\n*Action items:* \n\nUs (Scaletopia):\n\u2022 Draft copy for the first niche sent to you by Monday\n\u2022 Checking with our ops team on the HubSpot integration for auto-creating deals (no rush, month two or three)\n\u2022 Look into pulling a lead list from your co-founders' Twitter followers via Clay \nYou (Kynship):\n\u2022 If you land on a name or shorthand for the profit-first ad buying approach, send it over and we'll work it into copy\nExcited to get those first campaigns out the door next week, let's go book some meetings.",
+    "ts": "1775762590.454049",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ko0mM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " - Good afternoon!\n\nJust wanted to leave a quick note on where we're at.\n\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "What we did last week:",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Niche selection - we Selected Beauty & Skincare + Cleaning/household niches and we're working on scraping lead lists for each",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Lead lists - our technical & delivery team have begun the lead scraping process and will have the list ready for this week's campaign launches",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Copy angles - I've identified 3 unique differentiators to use",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "ordered",
+            "type": "rich_text_list"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "bold": true
+                    },
+                    "text": "P&L Forecasting:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We back into your real CPA from your full P&L.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "bold": true
+                    },
+                    "text": "Cost Guardrails:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We run 100% on cost controls tied to your margins.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "bold": true
+                    },
+                    "text": "More Creative Testing:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We flood 100-300+ new creatives monthly, no testing-scaling split.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 1,
+            "style": "ordered",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Plan for this week:",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "SMS - we will be launching our SMS campaign by starting with Beauty & Skincare by Wed (15th) and then Cleaning/household goods by Friday (17th)",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Email - we will launch both Beauty & Skincare + Cleaning/household goods campaigns on Friday (17th)",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Share the copy draft with you by tomorrow ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "ordered",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nSpeak to you soon.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c816fc7e-a969-47d4-b86c-94558768604b",
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP> - Good afternoon!\n\nJust wanted to leave a quick note on where we're at.\n\n*What we did last week:*\n1. Niche selection - we Selected Beauty &amp; Skincare + Cleaning/household niches and we're working on scraping lead lists for each\n2. Lead lists - our technical &amp; delivery team have begun the lead scraping process and will have the list ready for this week's campaign launches\n3. Copy angles - I've identified 3 unique differentiators to use\n    a. *P&amp;L Forecasting:* We back into your real CPA from your full P&amp;L.\n    b. *Cost Guardrails:* We run 100% on cost controls tied to your margins.\n    c. *More Creative Testing:* We flood 100-300+ new creatives monthly, no testing-scaling split.\n*Plan for this week:*\n1. SMS - we will be launching our SMS campaign by starting with Beauty &amp; Skincare by Wed (15th) and then Cleaning/household goods by Friday (17th)\n2. Email - we will launch both Beauty &amp; Skincare + Cleaning/household goods campaigns on Friday (17th)\n3. Share the copy draft with you by tomorrow \nSpeak to you soon.",
+    "ts": "1776112462.793199",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g8YSv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Perfect - thanks for keeping me in the loop.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70473c5f-aca0-454b-a2f1-0b0c4c34ecac",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "Perfect - thanks for keeping me in the loop.",
+    "ts": "1776113830.442819",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x6a1u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Looking forward to reviewing the copy.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9bd1bf11-ab06-49a5-a41b-683150dd7644",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "Looking forward to reviewing the copy.",
+    "ts": "1776113857.956619",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+BlCq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": "\n\nhere are the first drafts of the SMS copies for the beauty & skincare campaign. Let me know if the approach part is accurate.\n\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1eoU27Ayg6PejBvc8sW_dRbR4xs3DR4MUQYyvtIIew00/edit?tab=t.1uzfrnanq18w#heading=h.ucqjjco50o5q"
+              },
+              {
+                "text": "\n\nFeel free to leave any comments as you see fit. Thanks",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "abe9bf0f-6d00-4e8a-8223-416dfbf62add",
+    "is_locked": false,
+    "latest_reply": "1776120398.307379",
+    "reply_count": 8,
+    "reply_users": [
+      "U09MU4BQWQP",
+      "U0A1MEEDJU8"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "<@U09MU4BQWQP>\n\nhere are the first drafts of the SMS copies for the beauty &amp; skincare campaign. Let me know if the approach part is accurate.\n\n<https://docs.google.com/document/d/1eoU27Ayg6PejBvc8sW_dRbR4xs3DR4MUQYyvtIIew00/edit?tab=t.1uzfrnanq18w#heading=h.ucqjjco50o5q>\n\nFeel free to leave any comments as you see fit. Thanks",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776118012.703109",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iZW+I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "We're greenlit on the Copy - good to go.\n\nAlso Cody mentioned on the baby niche - \"I'd argue that WildBird is a stronger case study but don't want to delay things\n wildbird is 2.5M to 31M\n june 2023-YTD\"",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7664713e-2cfc-4f2e-a8d4-c0637f7fa718",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U0533RFSVBR"
+        ]
+      }
+    ],
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "We're greenlit on the Copy - good to go.\n\nAlso Cody mentioned on the baby niche - \"I'd argue that WildBird is a stronger case study but don't want to delay things\n wildbird is 2.5M to 31M\n june 2023-YTD\"",
+    "ts": "1776193889.031299",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p8hNs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "So another good 12x return there. Pending the DNC list from our contractor that manages it - should have it before morning",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "887ccaba-4ae5-4555-b7d9-5eb547469c54",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "So another good 12x return there. Pending the DNC list from our contractor that manages it - should have it before morning",
+    "ts": "1776193912.069959",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DHRLe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Sure, thanks for the feedback on the case study and update on DNC. We're on track to launch this tomorrow morning (by 11.45 am eastern time)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62511b97-5ef3-4edf-b575-6bff9ec82c17",
+    "team": "T053J8AAMQT",
+    "text": "Sure, thanks for the feedback on the case study and update on DNC. We're on track to launch this tomorrow morning (by 11.45 am eastern time)",
+    "ts": "1776195665.026129",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "attachments": [
+      {
+        "app_unfurl_url": "https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit?gid=0#gid=0",
+        "bot_id": "BH73FGETA",
+        "from_url": "https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit?gid=0#gid=0",
+        "id": 209537355,
+        "is_app_unfurl": true
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cl+bQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit?gid=0#gid=0",
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit?gid=0#gid=0"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BFCF9EBA-9D62-4091-BE49-BA29D2E95E04",
+    "display_as_bot": false,
+    "files": [
+      {
+        "app_id": "A6NL8MJ6Q",
+        "app_provides_file_work_objects": true,
+        "created": 1698149839,
+        "display_as_bot": false,
+        "editable": false,
+        "entity_id": "W:A6NL8MJ6Q:1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4",
+        "external_id": "1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4",
+        "external_type": "gdrive",
+        "external_url": "https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit#gid=0",
+        "file_access": "visible",
+        "filetype": "gsheet",
+        "full_size_preview_supported": true,
+        "has_rich_preview": true,
+        "id": "F062BG2JN06",
+        "is_external": true,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "application/vnd.google-apps.spreadsheet",
+        "mode": "external",
+        "name": "Global Do Not Contact List",
+        "permalink": "https://kynship.slack.com/files/U0AU93K1LF8/F062BG2JN06/global_do_not_contact_list",
+        "pretty_type": "Google Sheets",
+        "product_icon": {
+          "alt_text": "Google Sheets Logo",
+          "slack_file": {
+            "id": "F062BG2JN06"
+          },
+          "url": "https://a.slack-edge.com/95aff15/img/app-gdrive/icon_spreadsheet.png"
+        },
+        "public_url_shared": false,
+        "size": 0,
+        "skipped_shares": true,
+        "source_team": "TFDF22U7R",
+        "thumb_1024": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_1024.png",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 724,
+        "thumb_160": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_360.png",
+        "thumb_360_h": 360,
+        "thumb_360_w": 254,
+        "thumb_480": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_480.png",
+        "thumb_480_h": 480,
+        "thumb_480_w": 339,
+        "thumb_64": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_64.png",
+        "thumb_720": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_720.png",
+        "thumb_720_h": 720,
+        "thumb_720_w": 509,
+        "thumb_80": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_80.png",
+        "thumb_800": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_800.png",
+        "thumb_800_h": 1132,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/TFDF22U7R-F062BG2JN06-3ca28a9a85/global_do_not_contact_list_960.png",
+        "thumb_960_h": 960,
+        "thumb_960_w": 678,
+        "thumb_tiny": "AwAwACK9NKY8Y2++f0p43kA5X8BUcwIZW25BIBPpUiEbcDtwR6UANV2LlMrke+T+Xan4b1H5VFF/rpBxwezfjyP89KmoAKKKKAIpFPmqRycYHbHr/T8vxp8fKhtu0sMkVHOjs6ld3y88H/PbP9adEGC/Nuz05P8A9c0ANDIJGLMgAOefXpnP44qaq8at9pfLEqD8oB455Ofz4qxQAUUUUANYEkFTyO3rTqKKACiiigAooooA/9k=",
+        "timestamp": 1698149839,
+        "title": "Global Do Not Contact List - Kynship",
+        "url_private": "https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit#gid=0",
+        "user": "UFDL6FP1Q",
+        "user_team": "TFDF22U7R",
+        "username": ""
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1776258252.491759",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U0A1MEEDJU8"
+    ],
+    "reply_users_count": 1,
+    "source_team": "TFDF22U7R",
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "<https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit?gid=0#gid=0|https://docs.google.com/spreadsheets/d/1-Ci31eaDUliDEtfVnfl-qY1qWe0H55sJD1IQvIwfLt4/edit?gid=0#gid=0> ",
+    "thread_ts": "1776239827.311709",
+    "ts": "1776239827.311709",
+    "type": "message",
+    "upload": false,
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R",
+    "x_files": [
+      "F062BG2JN06"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gul3H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Good morning ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": "!\n\nThe beauty & skincare SMS campaign will go live in 10 mins.\n\nI'll keep you posted on any positive replies/meetings booked that we get.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98db2dca-d8e8-4cfa-bb2e-d7beb73a1a09",
+    "team": "T053J8AAMQT",
+    "text": "Good morning <@U09MU4BQWQP>!\n\nThe beauty &amp; skincare SMS campaign will go live in 10 mins.\n\nI'll keep you posted on any positive replies/meetings booked that we get.",
+    "ts": "1776266441.956579",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EgTD/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "fire",
+                "type": "emoji",
+                "unicode": "1f525"
+              },
+              {
+                "text": " let\u2019s gettit!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E0AD89C5-05E0-4C42-9619-67422DF8CBD3",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": ":fire: let\u2019s gettit!",
+    "ts": "1776266467.962109",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Jenna Levine - LINN\u00c9 | LinkedIn",
+        "from_url": "https://www.linkedin.com/in/jenna-levine-2914b647/",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/in/jenna-levine-2914b647/",
+        "service_icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "service_name": "linkedin.com",
+        "text": "Experience: LINN\u00c9 \u00b7 Education: Middlebury College \u00b7 Location: Charleston County \u00b7 500+ connections on LinkedIn. View Jenna Levine\u2019s profile on LinkedIn, a professional community of 1 billion members.",
+        "thumb_height": 200,
+        "thumb_url": "https://media.licdn.com/dms/image/v2/C4D03AQGzYlXyJDOOsg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1543537802340?e=2147483647&v=beta&t=Sgh2VWLFa4Spg2CFvRtIsmNJcsoKiVVB-UDZRDTCEcs",
+        "thumb_width": 200,
+        "title": "Jenna Levine - LINN\u00c9 | LinkedIn",
+        "title_link": "https://www.linkedin.com/in/jenna-levine-2914b647/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "4YkgS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Good afternoon, Tom!\n\nJust a quick update. We didn't receive any positive responses yesterday but have identified a few changes that I'll be implementing soon.\n\nWe do have our first PR (positive response) from Jenna - the founder of skincare company called Linne\n\nThis is her linkedin profile link: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/jenna-levine-2914b647/"
+              },
+              {
+                "text": "\n\nI'll let you know if this converts into a booked meeting. Thanks!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fec6b3c5-9623-4ada-a9aa-dce063f12481",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1776360956,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F0AT8LL8GTV",
+        "is_external": false,
+        "is_public": false,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "image.png",
+        "original_h": 415,
+        "original_w": 668,
+        "permalink": "https://scaletopia.slack.com/files/U0AU93K1LF8/F0AT8LL8GTV/image.png",
+        "permalink_public": "https://slack-files.com/T053J8AAMQT-F0AT8LL8GTV-9466f80014",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 40896,
+        "skipped_shares": true,
+        "thumb_160": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AT8LL8GTV-c667c40ac6/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AT8LL8GTV-c667c40ac6/image_360.png",
+        "thumb_360_h": 224,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AT8LL8GTV-c667c40ac6/image_480.png",
+        "thumb_480_h": 298,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AT8LL8GTV-c667c40ac6/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AT8LL8GTV-c667c40ac6/image_80.png",
+        "thumb_tiny": "AwAeADDQd8HAdFPv/wDroEi85dT+NNeBXctzk0n2ZPVv0qvdFqSeYn99fzo8xP76/nURtUJzlv0o+yR+rfnRaIakhkX/AJ6L+dOBGM5HTOah+yR+rfnUyjaoA6AYpO3QFcTYNxbvjFIVyfw/vGn0UhkbKxUYHP8AvEU7bwOvHvTqKAGhcev50NlUYjqAadSONyMB3GKAP//Z",
+        "timestamp": 1776360956,
+        "title": "image.png",
+        "url_private": "https://files.slack.com/files-pri/T053J8AAMQT-F0AT8LL8GTV/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T053J8AAMQT-F0AT8LL8GTV/download/image.png",
+        "user": "U0A1MEEDJU8",
+        "user_team": "T053J8AAMQT",
+        "username": ""
+      }
+    ],
+    "team": "T053J8AAMQT",
+    "text": "Good afternoon, Tom!\n\nJust a quick update. We didn't receive any positive responses yesterday but have identified a few changes that I'll be implementing soon.\n\nWe do have our first PR (positive response) from Jenna - the founder of skincare company called Linne\n\nThis is her linkedin profile link: <https://www.linkedin.com/in/jenna-levine-2914b647/>\n\nI'll let you know if this converts into a booked meeting. Thanks!",
+    "ts": "1776361016.336029",
+    "type": "message",
+    "upload": false,
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "inviter": "U0AHUKJAE3X",
+    "subtype": "channel_join",
+    "team": "T053J8AAMQT",
+    "text": "<@U0AMB1FQ693> has joined the channel",
+    "ts": "1776366300.859909",
+    "type": "message",
+    "user": "U0AMB1FQ693"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1JSag",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Any further positive responses coming through? ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D4442600-6F09-4351-AD0C-C6052B2014F7",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "Any further positive responses coming through? ",
+    "ts": "1776441334.763499",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s4iCr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hi ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " - we haven't received any further positive replies yet. Zobair and I are working through them. I'll share an update on Monday for weekly stats.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c72b8e8b-4c39-4aa9-ac14-3ef47669b2f2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-4",
+        "users": [
+          "U09MU4BQWQP"
+        ]
+      }
+    ],
+    "team": "T053J8AAMQT",
+    "text": "Hi <@U09MU4BQWQP> - we haven't received any further positive replies yet. Zobair and I are working through them. I'll share an update on Monday for weekly stats.",
+    "ts": "1776453296.619869",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uHA7B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": ", hope you had a great weekend!\n\nHere are last week's updates:\n\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Last Week's Metrics",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Outreach: 1,408 total (475 email | 933 SMS) ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Positive Replies: 3 (2 email | 1 SMS) Meetings Booked: 0",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nPositive replies\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Jenna Levine - CEO of skincare brand, Linne",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Ryan Zinn - Dr Bronners (",
+                    "type": "text"
+                  },
+                  {
+                    "text": "drbronner.com",
+                    "type": "link",
+                    "url": "http://drbronner.com"
+                  },
+                  {
+                    "text": ")",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Christina Flach - CEO of ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Prettygirlmakeup.com",
+                    "type": "link",
+                    "url": "http://Prettygirlmakeup.com"
+                  },
+                  {
+                    "text": " ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Performance Update",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Not the start I was hoping for as I was looking forward to more meetings on the calendar. Based on the 2 campaigns we've run, it seems that the differentiation angle is not resonating with the audience (it needs to be much simpler).",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "However, we've got PRs from good brands and email has performed much better - Email landed 1 positive reply per 238 sends this week, which is a good sign. The angle and targeting combination on the email side is clearly resonating.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "SMS is the weak side here. 933 sends produced only 1 positive reply (Jenna Levine), which is roughly 4x less efficient than email on this account. The locked seeding to paid pipeline angle isn't translating on SMS the way it does on email.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nWe're treating this week as a pure SMS rebuild.\n\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Action Steps & What's Next",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Test 2 to 3 new SMS hooks & drastically simplifying the SMS copy to land more PRs and meetings booked.",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Following up on the PRs to convert into meetings booked",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f8719b8-087f-4987-ba83-b54e3a552ee9",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "fire",
+        "users": [
+          "U09MU4BQWQP"
+        ]
+      }
+    ],
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP>, hope you had a great weekend!\n\nHere are last week's updates:\n\n*Last Week's Metrics*\n\u2022 Outreach: 1,408 total (475 email | 933 SMS) \n\u2022 Positive Replies: 3 (2 email | 1 SMS) Meetings Booked: 0\nPositive replies\n\u2022 Jenna Levine - CEO of skincare brand, Linne\n\u2022 Ryan Zinn - Dr Bronners (<http://drbronner.com|drbronner.com>)\n\u2022 Christina Flach - CEO of <http://Prettygirlmakeup.com|Prettygirlmakeup.com> \n*Performance Update*\n\u2022 Not the start I was hoping for as I was looking forward to more meetings on the calendar. Based on the 2 campaigns we've run, it seems that the differentiation angle is not resonating with the audience (it needs to be much simpler).\n\u2022 However, we've got PRs from good brands and email has performed much better - Email landed 1 positive reply per 238 sends this week, which is a good sign. The angle and targeting combination on the email side is clearly resonating.\n\u2022 SMS is the weak side here. 933 sends produced only 1 positive reply (Jenna Levine), which is roughly 4x less efficient than email on this account. The locked seeding to paid pipeline angle isn't translating on SMS the way it does on email.\nWe're treating this week as a pure SMS rebuild.\n\n*Action Steps &amp; What's Next*\n\u2022 Test 2 to 3 new SMS hooks &amp; drastically simplifying the SMS copy to land more PRs and meetings booked.\n\u2022 Following up on the PRs to convert into meetings booked",
+    "ts": "1776701818.793229",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Eryn Griffin - C&amp;E Craft | LinkedIn",
+        "from_url": "https://www.linkedin.com/in/eryn-griffin/",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/in/eryn-griffin/",
+        "service_icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "service_name": "linkedin.com",
+        "text": "I\u2019m the Owner &amp; Designer of C&amp;E Craft Company, a home fragrance brand based in Oaks, PA\u2026 \u00b7 Experience: C&amp;E Craft \u00b7 Education: Thomas Jefferson University \u00b7 Location: Collegeville \u00b7 257 connections on LinkedIn. View Eryn Griffin\u2019s profile on LinkedIn, a professional community of 1 billion members.",
+        "thumb_height": 200,
+        "thumb_url": "https://media.licdn.com/dms/image/v2/D4E03AQHuXWLqrJ1SkA/profile-displayphoto-scale_200_200/B4EZ1QZutCJAAY-/0/1775170420074?e=2147483647&v=beta&t=xOg34jUwqcjU8bwCBisYJqMpj6c7HcsTRrV-hYBvsCI",
+        "thumb_width": 200,
+        "title": "Eryn Griffin - C&amp;E Craft | LinkedIn",
+        "title_link": "https://www.linkedin.com/in/eryn-griffin/"
+      },
+      {
+        "fallback": "C &amp; E Craft Co: Home | CANDECraftCo - C&amp;E",
+        "from_url": "http://www.cecandle.com/",
+        "id": 2,
+        "image_bytes": 169642,
+        "image_height": 1365,
+        "image_url": "http://www.cecandle.com/cdn/shop/files/web-3-CE_CRAFT_r2_04J_9695_94b2d7f9-ad3d-4046-bc0b-9f08b14e315d_2048x1365.jpg?v=1731408476",
+        "image_width": 2048,
+        "original_url": "http://www.cecandle.com/",
+        "service_name": "C &amp; E Craft Co",
+        "text": "Welcome to our site. We sell and deliver the premium quality hand-poured soy wax candles right to your doorstep. We have an excellent collection of the best selling all-natural soy wax candles which you will love to buy. Our top selling soy wax candles are the best in quality and price. Check our store for more.",
+        "title": "Home | CANDECraftCo - C&amp;E",
+        "title_link": "http://www.cecandle.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "WvKHG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " - ",
+                "type": "text"
+              },
+              {
+                "text": "Eryn",
+                "type": "link",
+                "url": "https://www.linkedin.com/in/eryn-griffin/"
+              },
+              {
+                "text": " Griffin from ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "http://www.cecandle.com/"
+              },
+              {
+                "text": " is interested but locked with another agency until June and expects to leave after that. I\u2019m thinking it may still be worth a short call now so we\u2019re not starting from zero later - curious for your take. (sharing the chat under thread)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b7a3b2e-f0a6-4efe-a75c-94b746dd77cf",
+    "is_locked": false,
+    "latest_reply": "1776709806.783389",
+    "reply_count": 4,
+    "reply_users": [
+      "U0711E9TZ5G",
+      "U09MU4BQWQP"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "<@U09MU4BQWQP> - <https://www.linkedin.com/in/eryn-griffin/|Eryn> Griffin from <http://www.cecandle.com/> is interested but locked with another agency until June and expects to leave after that. I\u2019m thinking it may still be worth a short call now so we\u2019re not starting from zero later - curious for your take. (sharing the chat under thread)",
+    "thread_ts": "1776705343.579479",
+    "ts": "1776705343.579479",
+    "type": "message",
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "inviter": "U0AHUKJAE3X",
+    "subtype": "channel_join",
+    "team": "T053J8AAMQT",
+    "text": "<@U07TZE1TATH> has joined the channel",
+    "ts": "1776707758.722449",
+    "type": "message",
+    "user": "U07TZE1TATH"
+  },
+  {
+    "inviter": "U0AHUKJAE3X",
+    "subtype": "channel_join",
+    "team": "T053J8AAMQT",
+    "text": "<@U099D50RK6J> has joined the channel",
+    "ts": "1776708651.363549",
+    "type": "message",
+    "user": "U099D50RK6J"
+  },
+  {
+    "inviter": "U09MU4BQWQP",
+    "subtype": "channel_join",
+    "team": "T053J8AAMQT",
+    "text": "<@UFDL6FP1Q> has joined the channel",
+    "ts": "1776710771.143819",
+    "type": "message",
+    "user": "UFDL6FP1Q"
+  },
+  {
+    "app_id": "A0AMC8BPB2S",
+    "attachments": [
+      {
+        "fallback": "Eryn Griffin - C&amp;E Craft | LinkedIn",
+        "from_url": "https://www.linkedin.com/in/eryn-griffin/",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/in/eryn-griffin/",
+        "service_icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "service_name": "linkedin.com",
+        "text": "I\u2019m the Owner &amp; Designer of C&amp;E Craft Company, a home fragrance brand based in Oaks, PA\u2026 \u00b7 Experience: C&amp;E Craft \u00b7 Education: Thomas Jefferson University \u00b7 Location: Collegeville \u00b7 257 connections on LinkedIn. View Eryn Griffin\u2019s profile on LinkedIn, a professional community of 1 billion members.",
+        "thumb_height": 200,
+        "thumb_url": "https://media.licdn.com/dms/image/v2/D4E03AQHuXWLqrJ1SkA/profile-displayphoto-scale_200_200/B4EZ1QZutCJAAY-/0/1775170420074?e=2147483647&v=beta&t=xOg34jUwqcjU8bwCBisYJqMpj6c7HcsTRrV-hYBvsCI",
+        "thumb_width": 200,
+        "title": "Eryn Griffin - C&amp;E Craft | LinkedIn",
+        "title_link": "https://www.linkedin.com/in/eryn-griffin/"
+      },
+      {
+        "fallback": "C &amp; E Craft Co: Home | CANDECraftCo - C&amp;E",
+        "from_url": "http://www.cecandle.com/",
+        "id": 2,
+        "image_bytes": 169642,
+        "image_height": 1365,
+        "image_url": "http://www.cecandle.com/cdn/shop/files/web-3-CE_CRAFT_r2_04J_9695_94b2d7f9-ad3d-4046-bc0b-9f08b14e315d_2048x1365.jpg?v=1731408476",
+        "image_width": 2048,
+        "original_url": "http://www.cecandle.com",
+        "service_name": "C &amp; E Craft Co",
+        "text": "Welcome to our site. We sell and deliver the premium quality hand-poured soy wax candles right to your doorstep. We have an excellent collection of the best selling all-natural soy wax candles which you will love to buy. Our top selling soy wax candles are the best in quality and price. Check our store for more.",
+        "title": "Home | CANDECraftCo - C&amp;E",
+        "title_link": "http://www.cecandle.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "ktxyc",
+        "text": {
+          "emoji": true,
+          "text": "New Meeting Booked :phone: :white_check_mark:",
+          "type": "plain_text"
+        },
+        "type": "header"
+      },
+      {
+        "block_id": "YrKtZ",
+        "text": {
+          "text": "Name: Eryn Griffin",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "5DjLI",
+        "text": {
+          "text": "LinkedIn: <https://www.linkedin.com/in/eryn-griffin/>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Y7YVa",
+        "text": {
+          "text": "Website: <http://www.cecandle.com>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "5MgWk",
+        "text": {
+          "text": "Email: <mailto:eryn@cecandle.com|eryn@cecandle.com>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "fbCjJ",
+        "text": {
+          "text": "Phone: +16103106829",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "m2qxn",
+        "type": "divider"
+      },
+      {
+        "block_id": "ggXCY",
+        "text": {
+          "emoji": true,
+          "text": "Booked on: April 20, 2026",
+          "type": "plain_text"
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "mq9wJ",
+        "text": {
+          "emoji": true,
+          "text": "Call scheduled for: 11:15pm - 11:30pm, Tuesday, April 21, 2026",
+          "type": "plain_text"
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "M6Vyk",
+        "elements": [
+          {
+            "action_id": "show",
+            "style": "primary",
+            "text": {
+              "emoji": true,
+              "text": "Show",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "recUuSxpFkdFVCAIh"
+          },
+          {
+            "action_id": "no-show",
+            "style": "danger",
+            "text": {
+              "emoji": true,
+              "text": "No Show",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "recUuSxpFkdFVCAIh"
+          }
+        ],
+        "type": "actions"
+      }
+    ],
+    "bot_id": "B0AMCC7KFHC",
+    "bot_profile": {
+      "app_id": "A0AMC8BPB2S",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2026-03-27/10792665067078_d6b1f84dd51c9be7eeee_36.png",
+        "image_48": "https://avatars.slack-edge.com/2026-03-27/10792665067078_d6b1f84dd51c9be7eeee_48.png",
+        "image_72": "https://avatars.slack-edge.com/2026-03-27/10792665067078_d6b1f84dd51c9be7eeee_72.png"
+      },
+      "id": "B0AMCC7KFHC",
+      "name": "CRM Tracker",
+      "team_id": "T053J8AAMQT",
+      "updated": 1774633822,
+      "user_id": "U0AMB1FQ693"
+    },
+    "is_locked": false,
+    "latest_reply": "1776713239.296699",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "fire",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U0711E9TZ5G",
+      "U0A1MEEDJU8",
+      "U09MU4BQWQP"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": "New Meeting Booked :phone: :white_check_mark: Name: Eryn Griffin LinkedIn: <https://www.linkedin.com/in/eryn-griffin/> Website: <http://www.cecandle.com> Email: <mailto:eryn@cecandle.com|eryn@cecandle.com> Phone: +16103106829 Booked on: April 20, 2026 Call scheduled for: 11:15pm - 11:30pm, Tuesday, April 21, 2026 Show button No Show button",
+    "thread_ts": "1776711056.083809",
+    "ts": "1776711056.083809",
+    "type": "message",
+    "user": "U0AMB1FQ693"
+  },
+  {
+    "app_id": "A0AMC8BPB2S",
+    "attachments": [
+      {
+        "fallback": "KYPRIS: KYPRIS Beauty | Luxury, High-Performance Skincare",
+        "from_url": "http://www.kyprisbeauty.com/",
+        "id": 1,
+        "image_bytes": 8624,
+        "image_height": 150,
+        "image_url": "http://kyprisbeauty.com/cdn/shop/files/kypris-logo-gold.png?v=1639767356",
+        "image_width": 600,
+        "original_url": "http://www.kyprisbeauty.com",
+        "service_icon": "http://kyprisbeauty.com/cdn/shop/files/KYPRIS_favicon1-2_32x32.png?v=1712363708",
+        "service_name": "KYPRIS",
+        "text": "Shop KYPRIS Beauty's high-performance skincare with organic, wild-crafted &amp; sustainably grown botanicals for beautiful results.",
+        "title": "KYPRIS Beauty | Luxury, High-Performance Skincare",
+        "title_link": "http://www.kyprisbeauty.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "47Kq1",
+        "text": {
+          "text": ":warning::inbox_tray:*Custom response Request for a lead* - Please reply ASAP! (when you get the chance)",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "q4UjC",
+        "text": {
+          "text": "*Message:* Hi Tom! We are no where near that size. What's the smallest retainer you offer?",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "KzRUz",
+        "text": {
+          "text": "*Name:* Chase Polan",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "LuurG",
+        "text": {
+          "text": "*Company:* KYPRIS",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "oYOTd",
+        "text": {
+          "text": "*Email:* <mailto:chase@kyprisbeauty.com|chase@kyprisbeauty.com>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "sexC1",
+        "text": {
+          "text": "*Phone:* +13109273645",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "yh5SL",
+        "text": {
+          "text": "*Website:* <http://www.kyprisbeauty.com>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Om119",
+        "text": {
+          "text": "*Requested On:* April 20, 2026",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      }
+    ],
+    "bot_id": "B0AMCC7KFHC",
+    "bot_profile": {
+      "app_id": "A0AMC8BPB2S",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2026-03-27/10792665067078_d6b1f84dd51c9be7eeee_36.png",
+        "image_48": "https://avatars.slack-edge.com/2026-03-27/10792665067078_d6b1f84dd51c9be7eeee_48.png",
+        "image_72": "https://avatars.slack-edge.com/2026-03-27/10792665067078_d6b1f84dd51c9be7eeee_72.png"
+      },
+      "id": "B0AMCC7KFHC",
+      "name": "CRM Tracker",
+      "team_id": "T053J8AAMQT",
+      "updated": 1774633822,
+      "user_id": "U0AMB1FQ693"
+    },
+    "is_locked": false,
+    "latest_reply": "1776713436.159349",
+    "reply_count": 1,
+    "reply_users": [
+      "U0711E9TZ5G"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T053J8AAMQT",
+    "text": ":warning::inbox_tray:*Custom response Request for a lead* - Please reply ASAP! (when you get the chance) *Message:* Hi Tom! We are no where near that size. What's the smallest retainer you offer? *Name:* Chase Polan *Company:* KYPRIS *Email:* <mailto:chase@kyprisbeauty.com|chase@kyprisbeauty.com> *Phone:* +13109273645 *Website:* <http://www.kyprisbeauty.com> *Requested On:* April 20, 2026",
+    "thread_ts": "1776713401.353529",
+    "ts": "1776713401.353529",
+    "type": "message",
+    "user": "U0AMB1FQ693"
+  },
+  {
+    "inviter": "U0AHUKJAE3X",
+    "subtype": "channel_join",
+    "team": "T053J8AAMQT",
+    "text": "<@U0AU93K1LF8> has joined the channel",
+    "ts": "1776783543.880549",
+    "type": "message",
+    "user": "U0AU93K1LF8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WlMoK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hey ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": "\n\nAwesome! Thanks for the update & context about the case study bit. I'll definitely get started looking at what you've submitted so far and flag anything that I'm not sure about.\n\nI appreciate the openness and want to ensure that we really want to crush it for you!\n\nI'll keep you posted once I've gone through the form and the sales calls you've shared. Thanks once again!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1cf7d3ad-66c6-471a-9306-4dc95805e3d0",
+    "parent_user_id": "U09MU4BQWQP",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-4",
+        "users": [
+          "U09MU4BQWQP"
+        ]
+      }
+    ],
+    "team": "T053J8AAMQT",
+    "text": "Hey <@U09MU4BQWQP>\n\nAwesome! Thanks for the update &amp; context about the case study bit. I'll definitely get started looking at what you've submitted so far and flag anything that I'm not sure about.\n\nI appreciate the openness and want to ensure that we really want to crush it for you!\n\nI'll keep you posted once I've gone through the form and the sales calls you've shared. Thanks once again!",
+    "thread_ts": "1775162275.279739",
+    "ts": "1775162746.998439",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S8qXe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Yes, I'll share the copies before we set the campaign live\n\nFor the case studies, although the Purdy and Figg revenue numbers are useful but as the SMS campaign will only be for US/Canada, it would just help to have another case study with equally relevant figures (revenue or no. of leads) for an A/B test. Wildbird figures on the website have percentages and from our data using that just doesn't work.\n\nAlso, I'd want to test 2 niches (ideally) in parallel so we can find the winning angle a lot sooner.\n\nAs for the DNC list, yes. I've received your email and will forward to my team.\n\nI'll send you an invite for Thursday based on your open slots soon. Thanks",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "40ea53ba-0d28-4231-a394-cfdc2fcda037",
+    "parent_user_id": "U09MU4BQWQP",
+    "team": "T053J8AAMQT",
+    "text": "Yes, I'll share the copies before we set the campaign live\n\nFor the case studies, although the Purdy and Figg revenue numbers are useful but as the SMS campaign will only be for US/Canada, it would just help to have another case study with equally relevant figures (revenue or no. of leads) for an A/B test. Wildbird figures on the website have percentages and from our data using that just doesn't work.\n\nAlso, I'd want to test 2 niches (ideally) in parallel so we can find the winning angle a lot sooner.\n\nAs for the DNC list, yes. I've received your email and will forward to my team.\n\nI'll send you an invite for Thursday based on your open slots soon. Thanks",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775593339.868059",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "The New Ecommerce Growth Playbook For 2026",
+        "from_url": "https://www.kynship.co/blog/ecommerce-growth-strategies",
+        "id": 1,
+        "original_url": "https://www.kynship.co/blog/ecommerce-growth-strategies",
+        "service_name": "kynship.co",
+        "text": "These are the ecommerce growth marketing strategies we are using right now to successfully scale DTC brands from $2M to $50M.",
+        "title": "The New Ecommerce Growth Playbook For 2026",
+        "title_link": "https://www.kynship.co/blog/ecommerce-growth-strategies"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "+qh7c",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kynship.co/blog/ecommerce-growth-strategies"
+              },
+              {
+                "text": "\n\nthis is also a resource we may be able to repurpose into a lead magnet as needed.\n\nYes - i agree - i'm pushing heavily on the internal team - just come up against pushback for some reason when it comes to specific data and numbers. Not because they don't have it - we just need to frame it the right way",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2264eff7-f76e-4b0f-9611-96cd54a65a0f",
+    "parent_user_id": "U09MU4BQWQP",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "<https://www.kynship.co/blog/ecommerce-growth-strategies>\n\nthis is also a resource we may be able to repurpose into a lead magnet as needed.\n\nYes - i agree - i'm pushing heavily on the internal team - just come up against pushback for some reason when it comes to specific data and numbers. Not because they don't have it - we just need to frame it the right way",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775593422.489329",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "279ss",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "as far as i understand - we've 3x'd Wildbirds business from $5m to over $15M",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c604d373-fead-47a9-a52f-c9c713078c7c",
+    "parent_user_id": "U09MU4BQWQP",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "as far as i understand - we've 3x'd Wildbirds business from $5m to over $15M",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775593477.978249",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a9Xyk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "but i think the team are literally working on the case studies now",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f2f7c442-d5cd-4582-9e9d-e58d27e803ce",
+    "parent_user_id": "U09MU4BQWQP",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "but i think the team are literally working on the case studies now",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775593490.558749",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SMGbG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Great, thanks for the update.\n\nAs for the lead magnets, sure that can work. I was thinking of extracting some patterns from the audit calls you've shared. I can share these in our call.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7bd2fc46-55d9-4d31-b30c-cf795258bf2b",
+    "parent_user_id": "U09MU4BQWQP",
+    "team": "T053J8AAMQT",
+    "text": "Great, thanks for the update.\n\nAs for the lead magnets, sure that can work. I was thinking of extracting some patterns from the audit calls you've shared. I can share these in our call.",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775593564.835249",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2bEYk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " You think it's still worth prioritising  Purdy & Figg over the other case studies in the U.S market?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81385dcd-5da7-4f29-9e54-659feb4f260b",
+    "parent_user_id": "U09MU4BQWQP",
+    "team": "T053J8AAMQT",
+    "text": "<@U09MU4BQWQP> You think it's still worth prioritising  Purdy &amp; Figg over the other case studies in the U.S market?",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775637492.478059",
+    "type": "message",
+    "user": "U0533RFSVBR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L5FWK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "I think especially in that niche Purdy and Figg is known in both. But the sheet is updated - we have other great case studies now.\n\nWe've just spoken to another three brands in the cleaning / homecare space in the UK. I think we need to hit EVERY single one of these brands over $2M in revenue (or newer ones even smaller growing quickly).",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e6a49739-a519-48e8-949f-782b16555231",
+    "parent_user_id": "U09MU4BQWQP",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U0533RFSVBR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "I think especially in that niche Purdy and Figg is known in both. But the sheet is updated - we have other great case studies now.\n\nWe've just spoken to another three brands in the cleaning / homecare space in the UK. I think we need to hit EVERY single one of these brands over $2M in revenue (or newer ones even smaller growing quickly).",
+    "thread_ts": "1775592042.700319",
+    "ts": "1775681302.149449",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ul1Pp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Sure, thank you for the update. I'll go through it.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c33916c-5d04-410e-83a5-0b5ceed415ca",
+    "parent_user_id": "U09MU4BQWQP",
+    "team": "T053J8AAMQT",
+    "text": "Sure, thank you for the update. I'll go through it.",
+    "thread_ts": "1775681323.289299",
+    "ts": "1775683096.958009",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5GlNl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "requested access",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33ed89ec-616d-49d4-bb21-87b2219111cb",
+    "parent_user_id": "U0A1MEEDJU8",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "requested access",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776118446.325549",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/c3I3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "shared",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fa601bf8-cd90-4234-ac0a-a66b5108d9ec",
+    "parent_user_id": "U0A1MEEDJU8",
+    "team": "T053J8AAMQT",
+    "text": "shared",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776118496.793749",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Lzr2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "So looking through the research pages - am i just okaying the three variants on the final page?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7d3edf59-c7e7-453a-8d3b-817dc7eabfa0",
+    "parent_user_id": "U0A1MEEDJU8",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "So looking through the research pages - am i just okaying the three variants on the final page?",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776119961.781709",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tIOy4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "help me to understand how / where best to review without going through the analysis pages etc",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fe5656f5-99c6-4520-8fee-f3610c7b4bdc",
+    "parent_user_id": "U0A1MEEDJU8",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "help me to understand how / where best to review without going through the analysis pages etc",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776119998.687969",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hBxSP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "no you don't need to go through any other page. Just the copies section - especially the technical details (like contribution margin, ROAS, etc.).",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44d4aea6-a065-4314-940d-fb6fcaac130b",
+    "parent_user_id": "U0A1MEEDJU8",
+    "team": "T053J8AAMQT",
+    "text": "no you don't need to go through any other page. Just the copies section - especially the technical details (like contribution margin, ROAS, etc.).",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776120054.293499",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "client_msg_id": "8676dd33-095b-4ece-bc4f-3d3838591d5d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "aac": "https://files.slack.com/files-tmb/T053J8AAMQT-F0ASKSUAZAA-38dc92e679/audio_message_audio.mp4",
+        "audio_wave_samples": [
+          0,
+          0,
+          0,
+          20,
+          0,
+          0,
+          94,
+          61,
+          0,
+          50,
+          39,
+          39,
+          0,
+          59,
+          37,
+          58,
+          26,
+          26,
+          32,
+          9,
+          27,
+          47,
+          45,
+          58,
+          36,
+          32,
+          70,
+          37,
+          65,
+          51,
+          68,
+          66,
+          67,
+          30,
+          29,
+          25,
+          45,
+          38,
+          23,
+          25,
+          33,
+          32,
+          56,
+          32,
+          0,
+          46,
+          54,
+          67,
+          61,
+          80,
+          66,
+          39,
+          84,
+          48,
+          53,
+          88,
+          70,
+          25,
+          36,
+          22,
+          40,
+          36,
+          53,
+          14,
+          57,
+          31,
+          0,
+          35,
+          36,
+          71,
+          0,
+          38,
+          100,
+          72,
+          47,
+          62,
+          48,
+          45,
+          48,
+          36,
+          56,
+          56,
+          59,
+          28,
+          66,
+          51,
+          35,
+          10,
+          0,
+          99,
+          58,
+          76,
+          44,
+          36,
+          59,
+          40,
+          0,
+          0,
+          0,
+          0
+        ],
+        "created": 1776120127,
+        "display_as_bot": false,
+        "duration_ms": 35541,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "m4a",
+        "has_rich_preview": false,
+        "id": "F0ASKSUAZAA",
+        "is_external": false,
+        "is_public": false,
+        "is_starred": false,
+        "is_transcription_region_supported": true,
+        "media_display_type": "audio",
+        "mimetype": "audio/mp4",
+        "mode": "hosted",
+        "name": "audio_message.m4a",
+        "permalink": "https://scaletopia.slack.com/files/U0AU93K1LF8/F0ASKSUAZAA/audio_message.m4a",
+        "permalink_public": "https://slack-files.com/T053J8AAMQT-F0ASKSUAZAA-496b7fcb5d",
+        "pretty_type": "MPEG 4 Audio",
+        "public_url_shared": false,
+        "size": 556171,
+        "skipped_shares": true,
+        "subtype": "slack_audio",
+        "timestamp": 1776120127,
+        "title": "audio_message.m4a",
+        "transcription": {
+          "status": "none"
+        },
+        "url_private": "https://files.slack.com/files-tmb/T053J8AAMQT-F0ASKSUAZAA-38dc92e679/audio_message_audio.mp4",
+        "url_private_download": "https://files.slack.com/files-tmb/T053J8AAMQT-F0ASKSUAZAA-38dc92e679/download/audio_message_audio.mp4",
+        "user": "U0A1MEEDJU8",
+        "user_team": "T053J8AAMQT",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U0A1MEEDJU8",
+    "team": "T053J8AAMQT",
+    "text": "",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776120172.598009",
+    "type": "message",
+    "upload": false,
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IXO+g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Yeah that makes sense - just saying there's only 3 copy variants, correct?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5FCF0779-9CA4-4A39-962C-0BBBA37B91EA",
+    "parent_user_id": "U0A1MEEDJU8",
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "Yeah that makes sense - just saying there's only 3 copy variants, correct?",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776120341.017439",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yXGWs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "yes, I can always create more if the angles don't work. I usually test 2 at a time",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bce0cf67-3b08-433e-8138-dd3100e92f9b",
+    "parent_user_id": "U0A1MEEDJU8",
+    "team": "T053J8AAMQT",
+    "text": "yes, I can always create more if the angles don't work. I usually test 2 at a time",
+    "thread_ts": "1776118012.703109",
+    "ts": "1776120398.307379",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rVIQ+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Thanks a lot for this, Tom.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "da7ae201-27cc-4b9e-a5d8-1389ff286bf8",
+    "parent_user_id": "U09MU4BQWQP",
+    "team": "T053J8AAMQT",
+    "text": "Thanks a lot for this, Tom.",
+    "thread_ts": "1776239827.311709",
+    "ts": "1776258252.491759",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b357E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Chat for complete context:",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1794bc54-3228-4e32-a8d2-52be3ebe7537",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1776705356,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F0AU77T4A20",
+        "is_external": false,
+        "is_public": false,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "image.png",
+        "original_h": 489,
+        "original_w": 425,
+        "permalink": "https://scaletopia.slack.com/files/U0AU93K1LF8/F0AU77T4A20/image.png",
+        "permalink_public": "https://slack-files.com/T053J8AAMQT-F0AU77T4A20-d9678947eb",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 28354,
+        "skipped_shares": true,
+        "thumb_160": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU77T4A20-41d1ae7568/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU77T4A20-41d1ae7568/image_360.png",
+        "thumb_360_h": 360,
+        "thumb_360_w": 313,
+        "thumb_480": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU77T4A20-41d1ae7568/image_480.png",
+        "thumb_480_h": 480,
+        "thumb_480_w": 417,
+        "thumb_64": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU77T4A20-41d1ae7568/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU77T4A20-41d1ae7568/image_80.png",
+        "thumb_tiny": "AwAwACrRxyfQ+5oGRjge/NNZNzcgEe4oMYwRxg+1ADuccAZ+tL9ajMSt1AznOSBTvLXOcevGBQA6imhFHQDrk8DmnUAJk56GjPsaRiwOQCR6Dr/Ok8snqx9sE/40AOycfdNKOe2KbtOev8/8aApzyc/nQA6imgMO4x9KcOnNABSZORxx35pGXcCCBg0nljj5Rxz0HFAD6KiMQbG4Dp0wD/SnGMc4A5HTA/woAfRTDGD2APfAFPoA/9k=",
+        "timestamp": 1776705356,
+        "title": "image.png",
+        "url_private": "https://files.slack.com/files-pri/T053J8AAMQT-F0AU77T4A20/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T053J8AAMQT-F0AU77T4A20/download/image.png",
+        "user": "U0711E9TZ5G",
+        "user_team": "T053J8AAMQT",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U0711E9TZ5G",
+    "team": "T053J8AAMQT",
+    "text": "Chat for complete context:",
+    "thread_ts": "1776705343.579479",
+    "ts": "1776705364.293949",
+    "type": "message",
+    "upload": false,
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sR+TJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " - let me know when we're good to go, I'll book the lead in.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3b85504a-6054-4077-89fe-1c7b29fd23cc",
+    "parent_user_id": "U0711E9TZ5G",
+    "team": "T053J8AAMQT",
+    "text": "<@U09MU4BQWQP> - let me know when we're good to go, I'll book the lead in.",
+    "thread_ts": "1776705343.579479",
+    "ts": "1776707769.515469",
+    "type": "message",
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F4q4K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0711E9TZ5G"
+              },
+              {
+                "text": " - Yes, i think its worth discussing with him while the intent is high. Send him through.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "93a05695-8c73-4c69-bfc3-26f07a932ad3",
+    "parent_user_id": "U0711E9TZ5G",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "raised_hands",
+        "users": [
+          "U0711E9TZ5G"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U0A1MEEDJU8"
+        ]
+      }
+    ],
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "<@U0711E9TZ5G> - Yes, i think its worth discussing with him while the intent is high. Send him through.",
+    "thread_ts": "1776705343.579479",
+    "ts": "1776707829.172649",
+    "type": "message",
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NGgBU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Cool, I've shared the calendar link - let me know what day/time they book and I'll update things on my end.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b8ffa5a-4db7-4710-bbda-23f572f94979",
+    "parent_user_id": "U0711E9TZ5G",
+    "team": "T053J8AAMQT",
+    "text": "Cool, I've shared the calendar link - let me know what day/time they book and I'll update things on my end.",
+    "thread_ts": "1776705343.579479",
+    "ts": "1776709806.783389",
+    "type": "message",
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z3PfE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Here's the chat again, for context:",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac028a27-515d-4a52-9b70-720da71d5e8e",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1776711073,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F0AU7U5PA92",
+        "is_external": false,
+        "is_public": false,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "image.png",
+        "original_h": 844,
+        "original_w": 650,
+        "permalink": "https://scaletopia.slack.com/files/U0AU93K1LF8/F0AU7U5PA92/image.png",
+        "permalink_public": "https://slack-files.com/T053J8AAMQT-F0AU7U5PA92-91cebb492d",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 47442,
+        "skipped_shares": true,
+        "thumb_160": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_360.png",
+        "thumb_360_h": 360,
+        "thumb_360_w": 277,
+        "thumb_480": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_480.png",
+        "thumb_480_h": 480,
+        "thumb_480_w": 370,
+        "thumb_64": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_64.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_720.png",
+        "thumb_720_h": 720,
+        "thumb_720_w": 555,
+        "thumb_80": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_80.png",
+        "thumb_800": "https://files.slack.com/files-tmb/T053J8AAMQT-F0AU7U5PA92-c658f763b4/image_800.png",
+        "thumb_800_h": 800,
+        "thumb_800_w": 616,
+        "thumb_tiny": "AwAwACXSwM570UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9k=",
+        "timestamp": 1776711073,
+        "title": "image.png",
+        "url_private": "https://files.slack.com/files-pri/T053J8AAMQT-F0AU7U5PA92/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T053J8AAMQT-F0AU7U5PA92/download/image.png",
+        "user": "U0711E9TZ5G",
+        "user_team": "T053J8AAMQT",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U0AMB1FQ693",
+    "team": "T053J8AAMQT",
+    "text": "Here's the chat again, for context:",
+    "thread_ts": "1776711056.083809",
+    "ts": "1776711081.279519",
+    "type": "message",
+    "upload": false,
+    "user": "U0711E9TZ5G"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D62za",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": " our very first meeting booked! ",
+                "type": "text"
+              },
+              {
+                "name": "raised_hands",
+                "skin_tone": 3,
+                "type": "emoji",
+                "unicode": "1f64c-1f3fc"
+              },
+              {
+                "text": "\n\nDo let me know how it goes",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f8b9e22-db4f-449a-809c-9b7fabbb5a8e",
+    "edited": {
+      "ts": "1776711650.000000",
+      "user": "U0A1MEEDJU8"
+    },
+    "parent_user_id": "U0AMB1FQ693",
+    "team": "T053J8AAMQT",
+    "text": "<@U09MU4BQWQP> our very first meeting booked! :raised_hands::skin-tone-3:\n\nDo let me know how it goes",
+    "thread_ts": "1776711056.083809",
+    "ts": "1776711624.046429",
+    "type": "message",
+    "user": "U0A1MEEDJU8"
+  },
+  {
+    "client_msg_id": "5BD391F4-6F15-4FA8-A241-61C54F0F27DC",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1776713234,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F0ATP4T1YF9",
+        "is_external": false,
+        "is_public": false,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "IMG_0737.png",
+        "original_h": 2796,
+        "original_w": 1290,
+        "permalink": "https://kynship.slack.com/files/U0AU93K1LF8/F0ATP4T1YF9/img_0737.png",
+        "permalink_public": "https://slack-files.com/TFDF22U7R-F0ATP4T1YF9-46328dc2e0",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 303220,
+        "skipped_shares": true,
+        "source_team": "TFDF22U7R",
+        "thumb_1024": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_1024.png",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 472,
+        "thumb_160": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_360.png",
+        "thumb_360_h": 360,
+        "thumb_360_w": 166,
+        "thumb_480": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_480.png",
+        "thumb_480_h": 480,
+        "thumb_480_w": 221,
+        "thumb_64": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_64.png",
+        "thumb_720": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_720.png",
+        "thumb_720_h": 720,
+        "thumb_720_w": 332,
+        "thumb_80": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_80.png",
+        "thumb_800": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_800.png",
+        "thumb_800_h": 1734,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/TFDF22U7R-F0ATP4T1YF9-f6cb3c291b/img_0737_960.png",
+        "thumb_960_h": 960,
+        "thumb_960_w": 443,
+        "thumb_tiny": "AwAwABfSYqvzs20DuTgUA55BBUjgg9aaW2E7ixz7Zx+VNwrREljgg5ZlAJHPXIoAcqnfvI5PX5yR+XSn0g69Sec0tADGLZ+UA/U4paY0gVyoKZJ6F8H2pULEHeADnsc/4UwHjrS0g60tICJokZ95RiwOev05/wA+lPVR127SaXJz049aMnPTimIMHIPQemKWkzRmkM//2Q==",
+        "timestamp": 1776713234,
+        "title": "IMG_0737",
+        "url_private": "https://files.slack.com/files-pri/TFDF22U7R-F0ATP4T1YF9/img_0737.png",
+        "url_private_download": "https://files.slack.com/files-pri/TFDF22U7R-F0ATP4T1YF9/download/img_0737.png",
+        "user": "U09MU4BQWQP",
+        "user_team": "TFDF22U7R",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U0AMB1FQ693",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "fire",
+        "users": [
+          "U0711E9TZ5G",
+          "U0A1MEEDJU8"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "boom",
+        "users": [
+          "U0711E9TZ5G"
+        ]
+      }
+    ],
+    "source_team": "TFDF22U7R",
+    "team": "T053J8AAMQT",
+    "text": "",
+    "thread_ts": "1776711056.083809",
+    "ts": "1776713239.296699",
+    "type": "message",
+    "upload": false,
+    "user": "U09MU4BQWQP",
+    "user_profile": {
+      "avatar_hash": "c9eb0d72ee18",
+      "display_name": "Tom Siswick",
+      "first_name": "Tom",
+      "image_72": "https://avatars.slack-edge.com/2025-11-04/9843459826370_c9eb0d72ee18b7640f2b_72.png",
+      "is_restricted": false,
+      "is_ultra_restricted": false,
+      "name": "tom",
+      "real_name": "Tom Siswick",
+      "team": "TFDF22U7R"
+    },
+    "user_team": "TFDF22U7R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2sFMb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Hi ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U09MU4BQWQP"
+              },
+              {
+                "text": ", just a quick note to explain - this is an automated notification I sent with one click. I use these when I need your input (e.g. help crafting a reply) or to flag an action needed from your side.\n\nIn this case, the lead replied asking what our smallest retainer looks like since they\u2019re not near the size mentioned in the outreach. Could you send me the right pricing/positioning to use?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ab7385c-5535-412e-8a03-8598892db669",
+    "parent_user_id": "U0AMB1FQ693",
+    "team": "T053J8AAMQT",
+    "text": "Hi <@U09MU4BQWQP>, just a quick note to explain - this is an automated notification I sent with one click. I use these when I need your input (e.g. help crafting a reply) or to flag an action needed from your side.\n\nIn this case, the lead replied asking what our smallest retainer looks like since they\u2019re not near the size mentioned in the outreach. Could you send me the right pricing/positioning to use?",
+    "thread_ts": "1776713401.353529",
+    "ts": "1776713436.159349",
+    "type": "message",
+    "user": "U0711E9TZ5G"
+  }
+]

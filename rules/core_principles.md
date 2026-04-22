@@ -56,3 +56,41 @@ When campaigns underperform:
 - Higher initial response rates
 - Faster iteration based on solid foundation
 - Clear pivot points when needed
+
+## Copy Psychology Principles (Sandler)
+
+Full reference: [skills/sandler-sales-rules.md](../skills/sandler-sales-rules.md)
+
+**Principle 6: Buying is emotional, justified logically.**
+Every prospect has 3 voices. Write to all 3, in order:
+- **Child** (emotion) → pain hook. Fires first. No Child = no reply.
+- **Adult** (logic) → mechanism + specific proof.
+- **Parent** (permission) → low-risk CTA, social proof.
+Your `Pain → Mechanism → Proof+Outcome` formula already maps to this.
+
+**Principle 7: Write to the real pain, not the stated pain.** (Sandler #38)
+Stated pain is a symptom. "Need more leads" → unpredictable revenue → can't hire/plan. Always push one layer deeper.
+
+**Principle 8: Don't spill candy in the lobby.** (Sandler #2)
+One pain, one mechanism, one proof, one ask per SMS. Extra "value" trains prospects they don't need the call.
+
+**Principle 9: Never answer an unasked question.** (Sandler #5)
+Don't preempt objections in cold touches ("I know you get lots of these…", "we're not cheap but…"). You're seeding the objection.
+
+**Principle 10: Go for the appointment, not the sale.** (Sandler #8)
+Cold SMS sells the call, not the service. If the CTA is trying to close, rewrite.
+
+**Principle 11: Make them discover it.** (Sandler #27)
+Ask the implicit question; don't assert the pain. "Still pulling pipeline from referrals after 3 years?" beats "you have a pipeline problem."
+
+**Principle 12: Give permission to say No.** (Sandler #4)
+"If not relevant, just say pass" outperforms vague "let me know." A clean No beats a polite maybe.
+
+**Principle 13: Competitor test.** (Sandler #35)
+If a competitor could paste their logo on your SMS and send it, the UM is too weak. Rewrite.
+
+**Principle 14: No neediness.** (Sandler #49)
+Strip "would love to…", "hoping we can…", over-apology. Neediness = your Child leaking into the copy.
+
+**Principle 15: Structured inside, human outside.** (Sandler #47)
+Framework underneath, conversational voice on top. Passes the "read aloud" test.

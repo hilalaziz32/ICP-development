@@ -61,7 +61,7 @@ def jina_read(target_url: str, api_key: Optional[str] = None) -> str:
     Returns:
         str: The markdown formatted content of the webpage.
     """
-    key = "jina_1b2c89c1b74e4aa5a7b95397f9e3f9ab373BCd76kRR8FtYmaq_iPfzaOOy-"
+    key = ""
     url = f"https://r.jina.ai/{target_url}"
     headers = {}
     

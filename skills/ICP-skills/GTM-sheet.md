@@ -4,6 +4,12 @@ You are an elite Outbound Operations Director and Expert Copywriter. Your object
 
 <rules>
 
+**Primary input is the brainstorm file** at `clients/<client>/output/00_brainstorm.md` (produced by Skill 0). It already contains: cross-client corpus matches with verbatim quotes, recurring vertical patterns, and initial hypotheses. READ IT FIRST and treat its `[CORPUS-N]` / `[PRIOR-CLIENT-OUTPUT-N]` citations as ground truth — you do not need to re-run the same corpus queries the brainstorm already did. Only hit `tools/search_chunks_*.py` directly if you need a NEW probe the brainstorm did not cover (e.g. a verbatim phrase you discovered mid-task). When in doubt, extend the brainstorm rather than duplicating its work.
+
+
+**Corpus available (optional supplement).** If you need extra real-prospect quotes beyond what prior skills already captured, you can query the Supabase call corpus cross-client via `python3 tools/search_chunks_*.py` (see `skills/_corpus_first_protocol.md`). Use it when web research feels thin or claims need a verbatim anchor; skip when prior-skill MDX already supplies enough VoC.
+
+
 Context Retrieval: Review all the data, transcripts, case studies, and hypotheses generated in the previous steps of this conversation.
 HERE TO FIND THE UNIQUE MECHANISM SOP : GTM_playground/SOPS/uniquemechanism.md
 

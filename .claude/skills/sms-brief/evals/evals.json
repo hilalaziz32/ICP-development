@@ -1,0 +1,30 @@
+{
+  "skill_name": "sms-brief",
+  "notes": "Iteration 1 test prompts for Kinship. Segment: DTC Health & Wellness. Two personas (Founder/CEO + Marketing leaders) — separate briefs because they have different pains, dream outcomes, sophistication levels.",
+  "evals": [
+    {
+      "id": 1,
+      "name": "kinship-dtc-health-founder-ceo",
+      "prompt": "Draft the Layer A brief for Kinship. Target segment: DTC Health & Wellness. Target persona: Founder/CEO. Use all available sources in the Kinship folder — Master Sheet, sales call transcripts (multiple available), onboarding form, and case studies xlsx. Apply the full source hierarchy and the two-pass transcript analysis to surface PATTERNS across sources, not single-prospect data points. Run the Internal QA pass per quality-bar-and-qa.md before output.",
+      "expected_output": "8-field market research brief saved as .docx. Each Field 2-4 claim sits at the pattern level (observed across multiple sources for DTC health & wellness), with citations to multiple sources beneath each. No generic '90% of buyers' statements. No single-prospect data points masquerading as claims. QA report appendix shows what passed all four tests including Test 1b (too specific). Source inventory appendix shows what was found vs. missing.",
+      "files": [],
+      "input_assumptions": "Kinship folder accessible via GDrive. Master Sheet has DTC Health & Wellness row in Tab 2 and Founder/CEO persona row in Tab 3 (or close equivalents). Multiple sales call transcripts in client folder."
+    },
+    {
+      "id": 2,
+      "name": "kinship-dtc-health-marketing-leaders",
+      "prompt": "Same client (Kinship), same segment (DTC Health & Wellness), DIFFERENT persona: Marketing leaders (VP of Marketing / CMO / Director of Marketing). The skill should detect the persona change and re-extract from Master Sheet Tab 3 for this persona row. Different Field 1, different pain rankings in Field 2, potentially different dream outcomes in Field 5, likely different sophistication level (Field 6). Same Tier 1 transcripts but the lens shifts.",
+      "expected_output": "Persona-specific brief. Should differ from test 1 on Field 1 (different role description), Field 2 (Founder pains tend to be revenue/survival; Marketing leader pains tend to be channel performance / attribution / career advancement), Field 5 (Founder dream = company outcomes; Marketing leader dream = personal performance + promotion path), Field 6 (typically higher sophistication for marketing leaders vs founders). Field 3 (language) and 4b (objections) may overlap.",
+      "files": [],
+      "input_assumptions": "Same Kinship folder. Master Sheet Tab 3 has a Marketing Leader / VP of Marketing / CMO row."
+    },
+    {
+      "id": 3,
+      "name": "kinship-degraded-mode-stress-test",
+      "prompt": "OPTIONAL stress test — only run after tests 1 and 2 produce acceptable output. Pick a SECONDARY segment Kinship may target less heavily (e.g., a niche within DTC Health & Wellness where transcript data is thin or absent). Same Founder/CEO or Marketing leader persona. This deliberately probes degraded-mode behaviour to confirm the skill flags gaps explicitly rather than silently degrading.",
+      "expected_output": "Brief produced from Tier 2 + Tier 3 only (with Tier 1 noted as missing for this segment). Source inventory explicitly flags 'no transcripts available for this segment'. Field 3 and Field 4b should rely on Tier 3 scraping with appropriate flags. QA report should show MORE [unverified] flags than tests 1-2 because of weaker source base. The point is to confirm the skill gracefully degrades and tells you what's missing.",
+      "files": [],
+      "input_assumptions": "Kinship has a less-developed secondary segment with fewer or no transcripts."
+    }
+  ]
+}

@@ -154,6 +154,8 @@ Each step has mandatory live web search; **the corpus search skill plugs in here
 ### PHASE 5 — Copy
 
 - `skills/copies/sms-skills.md` for SMS.
+- **SMS playbook chain** (`.claude/skills/`): `sms-brief` → `case-study-developer` → `sms-draft` — the deep, strategist-led path; reads local files + the Supabase call corpus.
+- **`.claude/skills/evergreen-copywriter`** — the *evergreen-grounded* copy path, running **parallel** to the chain. Pulls pains/lingo/proof/winners from the Evergreen API (the live runtime face of `sms-playbook/evergreen-db-spec.md`), writes, saves, and links the copy back. Use for fast, data-grounded copy; the chain stays for deep hand-crafted runs. Both bind to the same `sms-playbook/` voice bar.
 - (Future) email + cold DM skills slot in here. They consume the GTM Sheet + DRP outputs.
 
 ---

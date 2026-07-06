@@ -1,0 +1,34 @@
+{
+  "skill_name": "case-study-developer",
+  "notes": "Brainstorm partner — produces a PROOF menu + a MECHANISM menu (or omit), does not auto-write or assemble the SMS. The Wufers case is Aaman's own worked example; the Big Leap case is the universality check (mechanism should be omitted, not forced).",
+  "evals": [
+    {
+      "id": 0,
+      "name": "wufers-chunk-and-dejargon",
+      "prompt": "develop the case study for acceler8 / wufers — we did $1.5M in Q4 for them (4.2x MER, pet-food DTC, meta + amazon coordination) and the literal mechanism was 'cross-channel MER optimization'. targeting other pet/DTC ecom founders. help me frame the numbers and the mechanism for cold SMS",
+      "expected_output": "A PROOF menu that includes a chunk-up ($1.5M/Q4 -> ~$6M/yr run-rate), a drop-the-Q4 framing ($1.5M in 3 months), and a native-unit option (4.2x MER for an ecom operator) — flagging Q4 as a weakening/stale qualifier. A MECHANISM menu that turns 'cross-channel MER optimization' (jargon) into plain pictures ('restructuring their ads for purchases and hard signals', 'stripping the structural complexity out of their ads', 'coordinating Meta + Amazon so every dollar worked twice'), connector-led. Asks how aggressive to chunk. Does NOT write the full SMS.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "kynship-supergut-mechanism-carries",
+      "prompt": "case study developer for kynship — supergut, paused $100k/mo meta then hit $1m/mo in new customer revenue in 3 months, mechanism was seeding ~1,200 unpaid micro creators and running their content as the paid ads. founder/CEO persona, DTC health & wellness. what should I say for the result + the mechanism?",
+      "expected_output": "PROOF menu framing the result in a founder's native unit (new-customer revenue / $1m/mo), with chunk options and a before->after option (paused $100k -> $1m/mo). MECHANISM menu of plain pictures of the seeding (e.g. 'using 1,200 creators' content as the actual ads' not 'viral micro creator seeding strategy'), connector-led, mechanism kept central (it carries here). Notes which proof x mechanism combos hang together. No full SMS.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "bigleap-seo-omit-mechanism",
+      "prompt": "develop the big leap case study — B2B SaaS client, we ranked them #1 on google + AI search for their high-intent keywords and added ~$400k in organic pipeline over about 6 months. marketing-leader persona. honestly the mechanism is basically just 'we ranked them', not sure what to even say there",
+      "expected_output": "Recognizes this is a commoditized/SEO offer where the mechanism just restates the result, and recommends OMITTING the mechanism (with a clear why), leaning the proof on result + specificity instead (e.g. the keyword/niche specificity, a 'without paid ads' angle). Must NOT manufacture a fake unique mechanism. PROOF menu still gives strong framings ($400k in organic pipeline in 6 months, native unit for a marketing leader).",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "unknown-mechanism-no-invent",
+      "prompt": "help me develop a case study for a client — they 3x'd revenue with us but honestly I don't have the exact mechanism written down anywhere, the notes just say 'we worked on their marketing'. founder persona, DTC",
+      "expected_output": "Develops the PROOF side (framings/chunks of '3x revenue', flags that '3x' is vague and asks for the real before/after numbers + timeframe). For the mechanism, does NOT invent one — flags that the literal mechanism is missing and asks the strategist to source it (master sheet / sales call), explaining you can't develop a mechanism that isn't known.",
+      "files": []
+    }
+  ]
+}

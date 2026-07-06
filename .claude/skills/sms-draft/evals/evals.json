@@ -1,0 +1,116 @@
+{
+  "skill": "sms-draft",
+  "version": "v2",
+  "note": "PURPOSE: a test harness for US (run via skill-creator: new skill vs old snapshot) — NOT something the skill reads at runtime. It catches regressions before we trust the skill. RULE: every case is anchored in a REAL winner or a REAL failure — no invented/unproven scenarios (that's why the speculative SaaS-GEO/Big-Leap case was removed). The guardrails (no-invent-mechanism, thin-data) + the negative-bin (real AI drafts that MUST fail the gate) are the base.",
+  "cases": [
+    {
+      "id": "agency-leadgen-fomo-relevance",
+      "description": "Marketing agency lead-gen (Velox/Scaletopia-style). Clay ICP-signal available, no distinctive mechanism. Winners-first should land on W6/W13/W15.",
+      "input": {
+        "case_study": "[agency] signed 24 ICP clients in 6 months",
+        "outcome": "24 signed in 6 months",
+        "mechanism": null,
+        "icp_signal": "agencies recently listed on a directory / recently hired a CMO with no agency of record",
+        "brief_top_pains": ["inconsistent pipeline", "burned by other lead-gen agencies"],
+        "persona": "Agency owner",
+        "niche": "marketing agencies"
+      },
+      "expected_behaviour": {
+        "levers_that_fire": ["FOMO", "Curious", "Helpful"],
+        "mechanism": "omitted (none exists) — carried by case study + Clay specificity",
+        "relevance": "implicit/Clay-led ICP-signal in T2 is the lift; no generic 'saw [company], had a few ideas'",
+        "must_not": ["fabricate a competitor name (use {{competitor}} or no-name FOMO)", "invent a mechanism"]
+      }
+    },
+    {
+      "id": "dtc-seeding-mechanism-strong",
+      "description": "DTC health-wellness, genuinely unorthodox mechanism (creator seeding). Mechanism-forward Unique/Curious available (Kynship W16/W17).",
+      "input": {
+        "case_study": "Supergut",
+        "outcome": "$100k/mo -> $1m/mo in 3 months",
+        "mechanism": "running ~1,200 unpaid micro-creators' content as the paid creative",
+        "social_proof": ["Gruns", "Create Wellness"],
+        "persona": "Founder/CEO",
+        "niche": "DTC supplements"
+      },
+      "expected_behaviour": {
+        "levers_that_fire": ["Unique", "Curious", "FOMO"],
+        "mechanism": "present and BITE-led, plain picture not jargon; can be kept broad if S-tier case carries (fly high) with a social-proof stack",
+        "must_not": ["stuff redundant proof numbers into the mechanism", "absolute claims it can't defend ('without ever paying a single creator')"]
+      }
+    },
+    {
+      "id": "tax-fomo-leaving-money",
+      "description": "Tax/accounting (the one non-marketing client). FOMO = their own uncaptured money, NOT a competitor. Tests the broadened FOMO.",
+      "input": {
+        "case_study": "[firm] found a client $340k they were overpaying",
+        "outcome": "$340k recovered",
+        "mechanism": null,
+        "brief_top_pains": ["worried they're overpaying tax", "accountant is reactive"],
+        "persona": "Business owner",
+        "niche": "[niche] businesses"
+      },
+      "expected_behaviour": {
+        "levers_that_fire": ["FOMO", "Helpful", "Curious"],
+        "fomo_framing": "'leaving money on the table' (their own uncaptured deductions) — NOT 'name a competitor'",
+        "mechanism": "omitted",
+        "must_not": ["narrow FOMO to a competitor when the real frame is uncaptured money"]
+      }
+    },
+    {
+      "id": "guardrail-no-mechanism-must-not-invent",
+      "description": "Anti-overfit. Ordinary case, NO mechanism anywhere. Must not invent one.",
+      "input": {
+        "case_study": "[client] grew revenue 3x",
+        "outcome": "3x revenue in a year",
+        "mechanism": null,
+        "brief_top_pains": ["growth stalled"],
+        "persona": "Founder/CEO"
+      },
+      "expected_behaviour": {
+        "levers_that_fire": ["Curious", "Helpful", "FOMO (if a real 'missing out' frame exists)"],
+        "mechanism": "absent",
+        "pass_condition": "zero invented mechanisms; if the result is too thin to carry on proof, flag the case as not SMS-ready rather than inventing",
+        "must_not": ["fabricate a 'how' / named method / mechanism"]
+      }
+    },
+    {
+      "id": "guardrail-thin-data",
+      "description": "Anti-overfit. No competitor names, no signal/intent data, ordinary result. Levers that need ammo must NOT fire.",
+      "input": {
+        "case_study": "[client] doubled qualified demos",
+        "outcome": "2x demos in 90 days",
+        "mechanism": null,
+        "competitor_names": null,
+        "signal_data": null,
+        "persona": "Marketing Leader"
+      },
+      "expected_behaviour": {
+        "levers_that_fire": ["Curious", "Helpful", "FOMO (only via a 'missing out' frame, no named rival)"],
+        "levers_that_must_not_fire": ["FOMO-by-named-competitor (no competitor data)", "Timely (no signal/trigger)", "Unique (no distinctive mechanism)"],
+        "pass_condition": "no fabricated competitors or triggers; only fundable levers used"
+      }
+    },
+    {
+      "id": "negative-bin-blurting",
+      "description": "NEGATIVE test. These are real AI-written Big Leap drafts that LOOK plausible but must be BINNED — blurting (facts with no context), a non-sequitur disarmer. The QA gate must catch them.",
+      "input": {
+        "drafts_to_evaluate": [
+          "Hi {{first_name}}, it's Sarah from Big Leap. I know this is random, but we ran organic for Awardco on the way to a $1B valuation - 4x'd their demos and landed them a WSJ feature along the way.",
+          "Hi {{first_name}}, it's Sarah from Big Leap - feel free to ignore if AI search isn't on your radar yet, but we got Awardco written up in the WSJ and turned it into ChatGPT recommending them. 4x'd their demos.",
+          "Hi {{first_name}}, it's Sarah from Big Leap - might be random, but we only work with B2B SaaS. We're the team behind Awardco's growth - got them recommended by ChatGPT and 4x'd their demos."
+        ]
+      },
+      "expected_behaviour": {
+        "verdict": "all three FAIL the QA checklist gate",
+        "why": ["#1 blurts stacked facts with no context (fails 'why them, why now' + context-before-number)", "#2 'turned it into ChatGPT recommending them' means nothing tangible + 4x'd their demos blurted", "#3 'we only work with B2B SaaS' is a non-sequitur disarmer (fails scam-test/no-defensive-opener)"],
+        "expected_fix": "rewrite context-before-number: 'with Awardco we were their organic search team for ~5 years - led to a $1B valuation', then one clean follow-on",
+        "must_not": ["pass any of the three as-is"]
+      }
+    }
+  ],
+  "acceptance": {
+    "pass_threshold": "the two guardrails (no-mechanism, thin-data) AND negative-bin-blurting MUST pass; >=5/6 overall",
+    "iteration_trigger": "any invented mechanism, any fabricated competitor, any blurting passed, any lever fired without its ammo, or the strategist can't pick a variant to test in a few minutes"
+  }
+}

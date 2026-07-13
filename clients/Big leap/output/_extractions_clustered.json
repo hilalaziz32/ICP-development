@@ -1,0 +1,64 @@
+[
+  {
+    "canonical": "Agency fatigue — churned through 2-3 agencies that over-promised and under-delivered; default trigger to switch is firing the current one",
+    "kind": "pain",
+    "variants_with_sources": [
+      {"text": "Tried 3 agencies, none delivered—either terrible creative or can't scale past $10K/day spend", "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column", "tier": 2},
+      {"text": "Rotating between agencies every 6-12 months after underwhelming results", "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Current Solution column", "tier": 2},
+      {"text": "What triggers your ICP to seek a solution: marketing team changes, firing current agency, upcoming launches/events", "source": "Big leap onboarding form.txt, FOMO/trigger answer", "tier": 2},
+      {"text": "Thousands of website owners experience flat traffic after six months of paying for SEO; agencies that report activity performed rather than measurable movement are reporting effort without accountability", "source": "ajitkumargupta.com/blog/hired-an-seo-agency-6-months-ago-with-no-results (vendor blog, directional)", "tier": 3}
+    ]
+  },
+  {
+    "canonical": "Paid acquisition getting more expensive and less efficient — CAC climbing, Meta squeeze, profitability eroding",
+    "kind": "pain",
+    "variants_with_sources": [
+      {"text": "Our CAC has gone from $35 to $85+ in 18 months—Meta is bleeding us dry", "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column", "tier": 2},
+      {"text": "Paid advertising costs have increased 89% across channels since 2019; average DTC brand now spends $42-87 to acquire a customer through paid vs $12-18 through organic", "source": "admetrics.io / get-ryze.ai DTC SEO posts (vendor blogs, directional)", "tier": 3}
+    ]
+  },
+  {
+    "canonical": "Growth has plateaued — can't break the next revenue ceiling on paid alone",
+    "kind": "pain",
+    "variants_with_sources": [
+      {"text": "Breaking even on ads, but growth has plateaued at $400K/month—can't crack past it", "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column", "tier": 2}
+    ]
+  },
+  {
+    "canonical": "Organic discovery eroding — AI Overviews and zero-click search compressing the traffic SEO used to deliver",
+    "kind": "pain",
+    "variants_with_sources": [
+      {"text": "Searches with AI Overviews saw CTR fall to 8% vs 15% without (a 47% reduction); ~60% of Google searches now end without a click; median publisher down 10% YoY in H1 2025", "source": "thedigitalbloom.com/learn/2025-organic-traffic-crisis-analysis-report (industry report, directional)", "tier": 3}
+    ]
+  },
+  {
+    "canonical": "Ad-account compliance / claims restrictions — accounts get flagged, can't make the claims they want",
+    "kind": "pain",
+    "variants_with_sources": [
+      {"text": "Compliance is a nightmare—ad accounts get flagged, can't make claims we want to make", "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column", "tier": 2}
+    ]
+  },
+  {
+    "canonical": "OBJECTION: another agency — I've already burned out on agencies that didn't deliver",
+    "kind": "objection_4b",
+    "variants_with_sources": [
+      {"text": "Tried 3 agencies, none delivered", "source": "Master Sheet Tab 3, DTC Marketing Lead row, Pain Points", "tier": 2},
+      {"text": "firing current agency (a stated buying trigger)", "source": "Big leap onboarding form.txt", "tier": 2}
+    ]
+  },
+  {
+    "canonical": "OBJECTION: SEO/organic is too slow — I won't see anything for 6-12 months and I need speed",
+    "kind": "objection_4b",
+    "variants_with_sources": [
+      {"text": "What They Care About Most: ... Speed to result", "source": "Master Sheet Tab 3, DTC Marketing Lead row", "tier": 2},
+      {"text": "Flat traffic after six months of paying for SEO is a common, widely-shared frustration", "source": "ajitkumargupta.com (vendor blog, directional)", "tier": 3}
+    ]
+  },
+  {
+    "canonical": "OBJECTION: you won't get our category — you'll run generic SEO and treat a DTC baby/CPG brand like everyone else",
+    "kind": "objection_4b",
+    "variants_with_sources": [
+      {"text": "Tried 3 agencies, none delivered—either terrible creative...", "source": "Master Sheet Tab 3, DTC Marketing Lead row (agencies not getting the brand)", "tier": 2}
+    ]
+  }
+]

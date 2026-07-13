@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "client": "Big Leap",
+    "segment": "Ecommerce / DTC — mid-market ($2-5M+ revenue), baby / family products / CPG focus",
+    "persona": "Director of Marketing / marketing leader at a DTC consumer brand",
+    "date_completed": "2026-06-05",
+    "completed_by": "sms-brief skill (Layer A market research analyst)"
+  },
+  "fields": {
+    "1_buyer": "Director or VP of Marketing — the marketing lead — at a mid-market DTC consumer brand in the baby / family / CPG space, roughly $2-5M revenue and up (per strategist's floor; nothing smaller). They own customer acquisition across Meta, Google, TikTok and Amazon and run a paid-media budget in the ~$60-150K/month range against a 2-3x ROAS target. [source: Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row — Primary Responsibilities]. They are the decision-maker or primary influencer on agency relationships and marketing spend, typically reporting to the Founder/CEO who holds final sign-off [source: Master Sheet Tab 3, Decision Authority = 'Decision Maker/Influencer'; reports-to inferred from DTC norm, NOT specified in the row — see GAP]. Career background is performance/growth marketing — they came up running paid acquisition, in-house or at a prior DTC brand [source: Master Sheet Tab 3, Current Solution = 'Running ads in-house with 1-2 junior performance marketers']. CONTEXT — relatable proof Big Leap can claim in/near this category: The Honest Company (baby/CPG, GEO+SEO+Content, #1 'newborn baby diapers', 14% ecommerce conversion lift), Milk Snob (DTC baby, Shark Tank), and Spoonful of Comfort (DTC gifting, 2,362% organic revenue) [source: Big Leap Case Studies Scored & Tiered sheet — TIER 4 reference context only, not buyer evidence]. IMPORTANT FRAMING NOTE: Big Leap's Master Sheet account-targeting tab (Tab 2) has NO ecommerce/DTC/baby/CPG row — the only DTC row present ('Supplements / Director to Consumer') is the Scaletopia-supplied template, literally marked '<<<< EXAMPLE', so it is NOT Big Leap's own data and was not used as evidence. All persona evidence below comes from the one genuine DTC persona row in Tab 3, which skews paid-media and supplements-flavored. See the Strategic Tension note at the foot of the brief."
+    ,
+    "2_pains": [
+      {
+        "text": "Agency fatigue — this buyer has already churned through 2-3 agencies that over-promised and under-delivered, and 'firing the current agency' is itself a stated trigger to go shopping. This is the single best-corroborated pain in the file and doubles as the #1 reply-blocker.",
+        "score": 7,
+        "verification": "verified (4 appearances across 3 distinct Tier 2 sources + 1 Tier 3)",
+        "sources": ["Master Sheet Tab 3, DTC Marketing Lead row, Pain Points: 'Tried 3 agencies, none delivered—either terrible creative or can't scale past $10K/day spend'", "Master Sheet Tab 3, Current Solution: 'Rotating between agencies every 6-12 months after underwhelming results'", "Big leap onboarding form.txt (trigger: 'firing current agency')", "ajitkumargupta.com — 'hired SEO agency 6 months, no results' is a widely-shared frustration (vendor blog, directional)"]
+      },
+      {
+        "text": "Paid acquisition is getting more expensive and less efficient — CAC is climbing, Meta is squeezing margin, and profitability is eroding under their feet.",
+        "score": 3,
+        "verification": "verified (Tier 2 verbatim + Tier 3 corroboration)",
+        "sources": ["Master Sheet Tab 3, DTC Marketing Lead row, Pain Points: 'Our CAC has gone from $35 to $85+ in 18 months—Meta is bleeding us dry'", "admetrics.io / get-ryze.ai — average DTC paid CAC $42-87 vs ~$12-18 organic; paid costs up ~89% since 2019 (vendor blogs, directional)"]
+      },
+      {
+        "text": "Growth has plateaued — they're breaking even on ads but can't crack the next revenue ceiling on paid alone.",
+        "score": 2,
+        "verification": "unverified — single Tier 2 source (needs transcript corroboration)",
+        "sources": ["Master Sheet Tab 3, DTC Marketing Lead row, Pain Points: 'Breaking even on ads, but growth has plateaued at $400K/month—can't crack past it'"]
+      },
+      {
+        "text": "Organic discovery is eroding — AI Overviews and zero-click search are compressing the top-funnel traffic SEO historically delivered, raising the stakes on whoever owns their organic strategy. (Directly relevant to Big Leap's SEO/GEO wedge; thin on direct buyer evidence here.)",
+        "score": 1,
+        "verification": "unverified — single Tier 3 source (directional market context, not this buyer's stated words)",
+        "sources": ["thedigitalbloom.com 2025 Organic Traffic Crisis report — AI Overviews cut CTR 15%->8% (47% reduction); ~60% of Google searches end without a click; median publisher -10% YoY H1 2025"]
+      },
+      {
+        "text": "Ad-account compliance / claims restrictions — accounts get flagged and they can't make the claims they want. NOTE: this is supplements/health-flavored (it comes from the supplements-leaning persona row) and is likely LESS central for a baby/family/CPG brand; flagged for the strategist to discount.",
+        "score": 2,
+        "verification": "unverified — single Tier 2 source; likely lower relevance to baby/CPG sub-niche",
+        "sources": ["Master Sheet Tab 3, DTC Marketing Lead row, Pain Points: 'Compliance is a nightmare—ad accounts get flagged, can't make claims we want to make'"]
+      }
+    ],
+    "3_their_language": {
+      "problem_quotes": [
+        {"quote": "Our CAC has gone from $35 to $85+ in 18 months—Meta is bleeding us dry", "source": "Master Sheet Tab 3, DTC Marketing Lead row (client-authored persona voice — Tier 2, not a recorded prospect)"},
+        {"quote": "Breaking even on ads, but growth has plateaued at $400K/month—can't crack past it", "source": "Master Sheet Tab 3, DTC Marketing Lead row (Tier 2)"},
+        {"quote": "Tried 3 agencies, none delivered—either terrible creative or can't scale past $10K/day spend", "source": "Master Sheet Tab 3, DTC Marketing Lead row (Tier 2)"},
+        {"quote": "Compliance is a nightmare—ad accounts get flagged, can't make claims we want to make", "source": "Master Sheet Tab 3, DTC Marketing Lead row (Tier 2; supplements-flavored)"},
+        {"quote": "Rotating between agencies every 6-12 months after underwhelming results", "source": "Master Sheet Tab 3, DTC Marketing Lead row, Current Solution (Tier 2)"}
+      ],
+      "success_quotes": [
+        {"quote": "Sustainable CAC", "source": "Master Sheet Tab 3, DTC Marketing Lead row, What They Care About Most (Tier 2)"},
+        {"quote": "Creative performance", "source": "Master Sheet Tab 3, DTC Marketing Lead row, What They Care About Most (Tier 2)"},
+        {"quote": "Speed to result", "source": "Master Sheet Tab 3, DTC Marketing Lead row, What They Care About Most (Tier 2)"},
+        {"quote": "Scalability", "source": "Master Sheet Tab 3, DTC Marketing Lead row, What They Care About Most (Tier 2)"}
+      ],
+      "industry_terms": [
+        {"quote": "blended CAC / CAC", "source": "Master Sheet Tab 3 (Tier 2)"},
+        {"quote": "ROAS (2-3x target)", "source": "Master Sheet Tab 3 (Tier 2)"},
+        {"quote": "$/day spend (e.g. '$10K/day')", "source": "Master Sheet Tab 3 (Tier 2)"},
+        {"quote": "Meta / paid social, Google, TikTok, Amazon", "source": "Master Sheet Tab 3 (Tier 2)"},
+        {"quote": "AI Overviews / zero-click / organic traffic", "source": "thedigitalbloom 2025 report (Tier 3) — vocabulary the SEO-side conversation lives in"}
+      ],
+      "outsider_phrases": [
+        {"quote": "vanity metrics that don't influence the business", "source": "Big leap onboarding form.txt — Big Leap's OWN stated anti-pattern: they win by tying to business goals, not impressions/rankings-for-their-own-sake. Avoid leading with rankings/impressions in copy to this buyer."},
+        {"quote": "GAP: a list of true outsider 'tells' (phrases that mark the sender as not-a-DTC-operator) normally comes from sales transcripts — none exist yet. Treat agency-jargon ('synergy', 'holistic funnel', 'we'll 10x your organic') as default-avoid until transcripts confirm.", "source": "GAP — needs sales transcripts"}
+      ]
+    },
+    "4a_industry_beliefs": [
+      {
+        "belief": "Growth = more ad spend / better creative. Paid is the real lever; organic is a 'nice to have' you get to later.",
+        "why_wrong": "Their entire stated remit and every 'care-about' is paid (Meta/ROAS/CAC/creative), yet their own headline pain is that paid has plateaued and CAC has doubled — the paid-only model is exactly what's capping them. The escape is an owned, compounding channel (SEO/GEO/content), which is precisely Big Leap's proof in this category (Honest Company, Spoonful of Comfort).",
+        "source": "Master Sheet Tab 3, DTC Marketing Lead row (responsibilities + care-abouts all paid; pains show the ceiling) — Tier 2 inference"
+      },
+      {
+        "belief": "Organic / SEO is too slow and is dying anyway — AI Overviews and zero-click killed it, so it's not worth the wait.",
+        "why_wrong": "The traffic shift is real, but it's a bifurcation, not a death — brands that move early on GEO + traditional SEO are capturing the high-intent, compounding, lower-CAC demand that paid can't profitably reach (Honest Company ranks #1 'newborn baby diapers'; organic CAC runs a fraction of paid). The belief is the SETUP for the hook, not a fact to concede.",
+        "source": "Inferred from the paid-only persona posture (Master Sheet Tab 3, Tier 2) + thedigitalbloom 2025 zero-click narrative (Tier 3). FLAGGED: partially inferred — needs transcript corroboration that THIS buyer holds it."
+      }
+    ],
+    "4b_service_objections": [
+      {
+        "objection": "Another agency. I've already churned through 2-3 that didn't deliver — why are you any different?",
+        "dissolving_mechanism": "Lead with a SPECIFIC same-category client + SPECIFIC result + SPECIFIC mechanism — not 'we help brands grow.' For baby/CPG, name The Honest Company or Milk Snob so the first line proves category fluency and a real outcome before they can file you under 'generic agency.'",
+        "source": "Master Sheet Tab 3 ('Tried 3 agencies, none delivered'); Big leap onboarding form.txt ('firing current agency' as a trigger) — Tier 2, verified pattern"
+      },
+      {
+        "objection": "SEO/organic is slow — I won't see anything for 6-12 months, and I need speed.",
+        "dissolving_mechanism": "Compress the perceived timeline with a real, fast proof point: Honest Company's results inside a 6-month engagement, or Spoonful of Comfort's revenue lift in a 6-month window. Pair the organic play with the 'speed to result' they already care about.",
+        "source": "Master Sheet Tab 3 (care-about: 'Speed to result') — Tier 2; ajitkumargupta.com 'no results after 6 months' frustration — Tier 3"
+      },
+      {
+        "objection": "You won't get our category — you'll run generic SEO and treat a DTC baby/CPG brand like every other client.",
+        "dissolving_mechanism": "Name the baby/family logo and the category-specific keyword win ('#1 for newborn baby diapers'), and reference brand-led-performance (not vanity rankings) so it reads like an operator who knows DTC, not a channel vendor.",
+        "source": "Master Sheet Tab 3 ('terrible creative' = agencies not getting the brand) — Tier 2, single-source; corroboration needs transcripts. FLAGGED unverified."
+      }
+    ],
+    "5_dream_outcome": [
+      {"text": "A sustainable CAC and a brand that can scale past the current ceiling — not just a temporarily-good ROAS month.", "source": "Master Sheet Tab 3, DTC Marketing Lead row, What They Care About Most: 'Sustainable CAC', 'Scalability' (Tier 2 SEED — needs transcript to confirm/replace)"},
+      {"text": "A path off the paid treadmill — an acquisition channel that compounds instead of stopping the second the budget stops.", "source": "Inferred bridge from the plateau + rising-CAC pains (Master Sheet Tab 3) + organic-compounds market context (Tier 3). FLAGGED: partially inferred."},
+      {"text": "Results fast enough to matter this quarter — 'speed to result', not a 12-month SEO promise.", "source": "Master Sheet Tab 3, DTC Marketing Lead row, What They Care About Most: 'Speed to result' (Tier 2)"}
+    ],
+    "6_sophistication": {
+      "level": "Mid-to-High",
+      "evidence": "Speaks in blended CAC, 2-3x ROAS targets, and $/day spend ceilings; has run paid in-house with performance marketers; has been through multiple agency cycles and distinguishes failure modes ('terrible creative' vs 'can't scale past $10K/day'). Per the rubric that's Mid-High — they speak the agency's language back and critique tactics. CAVEAT: this sophistication is on the PAID side; their organic/SEO sophistication is unknown and may be lower (which is the opening).",
+      "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row (Tier 2)"
+    },
+    "7_reply_behaviour": {
+      "replies_favorably_to": [],
+      "ignores": [],
+      "gap": "GAP — no prior SMS/cold campaign history for Big Leap in this (or any) segment. Onboarding form states: 'Haven't done much outbound/cold before - mostly inbound. Ads have mostly been google search/bottom of funnel' [source: Big leap onboarding form.txt]. No campaign log exists. First send will inform future briefs. Directional only: the verified agency-fatigue pattern suggests specificity (named client + number + mechanism) will out-pull generic 'we help DTC brands grow' openers."
+    }
+  },
+  "source_inventory": {
+    "client_folder": "/Users/aamanahmed/ICP-development/clients/Big leap",
+    "found": {
+      "master_sheet_account_targeting": "source/Scaletopia Master Sheet - Big Leap - 2. ACCOUNT TARGETING.csv (NO ecommerce/DTC/baby/CPG row — only a '<<<< EXAMPLE' supplements row, not Big Leap data)",
+      "master_sheet_persona_targeting": "source/Scaletopia Master Sheet - Big Leap - 3. PERSONA TARGETING.csv ('VP of Marketing / Marketing lead at DTC Brand' row — genuine, but paid-media + supplements-flavored)",
+      "onboarding_form": "source/Big leap onboarding form.txt",
+      "case_studies_scored": "source/Big Leap - 4. CASE STUDIES (Scored & Tiered).csv (TIER 4 reference only)",
+      "clutch_reviews": "source/Big Leap - Clutch Reviews.csv (not used as buyer evidence — vendor-facing testimonials)",
+      "transcripts": [],
+      "prior_briefs": [],
+      "prior_campaigns": []
+    },
+    "gaps": [
+      "NO ecommerce/DTC/baby/CPG account-targeting row in Master Sheet Tab 2 — segment-level Tier 2 evidence is effectively absent; persona-level evidence (Tab 3) carries the brief",
+      "NO sales transcripts (Tier 1) — recordings are 'request from Taylor Larsen', not delivered. Field 3 verbatim is client-authored persona voice (medium fidelity); Fields 4b/5 degraded; Field 4a beliefs partly inferred",
+      "Tier 3 limited to vendor-blog/industry-report directional context — Reddit is blocked to the web crawler, so no raw practitioner verbatim was obtainable",
+      "NO prior campaign log — Field 7 is GAP-marked"
+    ]
+  },
+  "qa_report": {
+    "fields_checked": 8,
+    "claims_passed": 9,
+    "flagged_unverified": 6,
+    "rewrites_made": [
+      "Field 2: did NOT promote the supplements 'compliance' pain to a headline DTC-baby pain — kept it but flagged as low-relevance to the sub-niche (Test 1b — avoid over-fitting one persona row to a different sub-niche)",
+      "Field 1: reports-to ('Founder/CEO') marked as inferred, not asserted — the DTC persona row does not specify it (Test 2 traceability)"
+    ],
+    "drops_made": [
+      "Dropped a generic 'why is a stranger texting me / feels like spam' 4b objection — no source beyond generic cold-SMS lore for THIS buyer (Test 2). Can be reintroduced if transcripts/reply data support it.",
+      "Did NOT manufacture verbatim buyer quotes from web — Reddit was uncrawlable and vendor blogs aren't buyer voice (Test 3)."
+    ],
+    "gaps_present": ["Field 7 (no campaign history)", "Field 3 outsider-phrases (needs transcripts)", "Segment-level Tier 2 (no DTC/baby account row)"]
+  }
+}

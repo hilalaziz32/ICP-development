@@ -1,0 +1,171 @@
+[
+  {
+    "cluster_id": 1,
+    "canonical": "Agency fatigue \u2014 churned through 2-3 agencies that over-promised and under-delivered; default trigger to switch is firing the current one",
+    "variants_with_sources": [
+      {
+        "text": "Tried 3 agencies, none delivered\u2014either terrible creative or can't scale past $10K/day spend",
+        "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column",
+        "tier": 2
+      },
+      {
+        "text": "Rotating between agencies every 6-12 months after underwhelming results",
+        "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Current Solution column",
+        "tier": 2
+      },
+      {
+        "text": "What triggers your ICP to seek a solution: marketing team changes, firing current agency, upcoming launches/events",
+        "source": "Big leap onboarding form.txt, FOMO/trigger answer",
+        "tier": 2
+      },
+      {
+        "text": "Thousands of website owners experience flat traffic after six months of paying for SEO; agencies that report activity performed rather than measurable movement are reporting effort without accountability",
+        "source": "ajitkumargupta.com/blog/hired-an-seo-agency-6-months-ago-with-no-results (vendor blog, directional)",
+        "tier": 3
+      }
+    ],
+    "score": 7,
+    "appearance_count": 4,
+    "tier_breakdown": {
+      "tier_2": 3,
+      "tier_3": 1
+    },
+    "verification_status": "verified"
+  },
+  {
+    "cluster_id": 6,
+    "canonical": "OBJECTION: another agency \u2014 I've already burned out on agencies that didn't deliver",
+    "variants_with_sources": [
+      {
+        "text": "Tried 3 agencies, none delivered",
+        "source": "Master Sheet Tab 3, DTC Marketing Lead row, Pain Points",
+        "tier": 2
+      },
+      {
+        "text": "firing current agency (a stated buying trigger)",
+        "source": "Big leap onboarding form.txt",
+        "tier": 2
+      }
+    ],
+    "score": 4,
+    "appearance_count": 2,
+    "tier_breakdown": {
+      "tier_2": 2
+    },
+    "verification_status": "verified"
+  },
+  {
+    "cluster_id": 2,
+    "canonical": "Paid acquisition getting more expensive and less efficient \u2014 CAC climbing, Meta squeeze, profitability eroding",
+    "variants_with_sources": [
+      {
+        "text": "Our CAC has gone from $35 to $85+ in 18 months\u2014Meta is bleeding us dry",
+        "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column",
+        "tier": 2
+      },
+      {
+        "text": "Paid advertising costs have increased 89% across channels since 2019; average DTC brand now spends $42-87 to acquire a customer through paid vs $12-18 through organic",
+        "source": "admetrics.io / get-ryze.ai DTC SEO posts (vendor blogs, directional)",
+        "tier": 3
+      }
+    ],
+    "score": 3,
+    "appearance_count": 2,
+    "tier_breakdown": {
+      "tier_2": 1,
+      "tier_3": 1
+    },
+    "verification_status": "verified"
+  },
+  {
+    "cluster_id": 7,
+    "canonical": "OBJECTION: SEO/organic is too slow \u2014 I won't see anything for 6-12 months and I need speed",
+    "variants_with_sources": [
+      {
+        "text": "What They Care About Most: ... Speed to result",
+        "source": "Master Sheet Tab 3, DTC Marketing Lead row",
+        "tier": 2
+      },
+      {
+        "text": "Flat traffic after six months of paying for SEO is a common, widely-shared frustration",
+        "source": "ajitkumargupta.com (vendor blog, directional)",
+        "tier": 3
+      }
+    ],
+    "score": 3,
+    "appearance_count": 2,
+    "tier_breakdown": {
+      "tier_2": 1,
+      "tier_3": 1
+    },
+    "verification_status": "verified"
+  },
+  {
+    "cluster_id": 3,
+    "canonical": "Growth has plateaued \u2014 can't break the next revenue ceiling on paid alone",
+    "variants_with_sources": [
+      {
+        "text": "Breaking even on ads, but growth has plateaued at $400K/month\u2014can't crack past it",
+        "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column",
+        "tier": 2
+      }
+    ],
+    "score": 2,
+    "appearance_count": 1,
+    "tier_breakdown": {
+      "tier_2": 1
+    },
+    "verification_status": "unverified \u2014 single Tier 2/3 source"
+  },
+  {
+    "cluster_id": 5,
+    "canonical": "Ad-account compliance / claims restrictions \u2014 accounts get flagged, can't make the claims they want",
+    "variants_with_sources": [
+      {
+        "text": "Compliance is a nightmare\u2014ad accounts get flagged, can't make claims we want to make",
+        "source": "Master Sheet Tab 3, 'VP of Marketing / Marketing lead at DTC Brand' row, Pain Points column",
+        "tier": 2
+      }
+    ],
+    "score": 2,
+    "appearance_count": 1,
+    "tier_breakdown": {
+      "tier_2": 1
+    },
+    "verification_status": "unverified \u2014 single Tier 2/3 source"
+  },
+  {
+    "cluster_id": 8,
+    "canonical": "OBJECTION: you won't get our category \u2014 you'll run generic SEO and treat a DTC baby/CPG brand like everyone else",
+    "variants_with_sources": [
+      {
+        "text": "Tried 3 agencies, none delivered\u2014either terrible creative...",
+        "source": "Master Sheet Tab 3, DTC Marketing Lead row (agencies not getting the brand)",
+        "tier": 2
+      }
+    ],
+    "score": 2,
+    "appearance_count": 1,
+    "tier_breakdown": {
+      "tier_2": 1
+    },
+    "verification_status": "unverified \u2014 single Tier 2/3 source"
+  },
+  {
+    "cluster_id": 4,
+    "canonical": "Organic discovery eroding \u2014 AI Overviews and zero-click search compressing the traffic SEO used to deliver",
+    "variants_with_sources": [
+      {
+        "text": "Searches with AI Overviews saw CTR fall to 8% vs 15% without (a 47% reduction); ~60% of Google searches now end without a click; median publisher down 10% YoY in H1 2025",
+        "source": "thedigitalbloom.com/learn/2025-organic-traffic-crisis-analysis-report (industry report, directional)",
+        "tier": 3
+      }
+    ],
+    "score": 1,
+    "appearance_count": 1,
+    "tier_breakdown": {
+      "tier_3": 1
+    },
+    "verification_status": "unverified \u2014 single Tier 2/3 source"
+  }
+]

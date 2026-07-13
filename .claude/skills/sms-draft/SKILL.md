@@ -51,6 +51,10 @@ On every run — **reference these, never restate them:**
   source for the relevance logic — it lives there, not here. Relevance is the weak spot; this is the fix.
 - `sms-playbook/enrichment-menu.md` — which Clay enrichment buys which relevance rung / lever, how to weave
   it, when not to. The supply chain `relevance-engine.md` draws on.
+- **Live losers from Evergreen** — pulled fresh EVERY run via the `evergreen-data` skill
+  (`POST /api/search {type:"copies", status:"loser", ...}`), never from a static local list. Feeds the
+  **loser gate** in `references/qa-checklist.md`: drafts are checked against each loser's `why_it_failed`
+  *reason*, not its surface text. The pool grows with every campaign, so this QA tightens over time.
 
 (Not `pattern-library.md` — that's mechanism patterns, and the mechanism is already developed upstream by
 case-study-developer.)
@@ -161,6 +165,12 @@ features (mechanism / the number / relevance / a social-proof stack). For each:
 - **Winner benchmark:** for each surviving variant, name the **closest logged winner** (`winners.csv` /
   `winner-structure.md`) and state whether it clears that winner's bar on **relevance · sounds-human ·
   proof-fit**. If it doesn't clear the winner it's modelled on, it isn't winner-grade yet — rewrite or drop.
+- **Loser gate (evergreen):** pull the losers for this angle/lever **live** from the Evergreen API
+  (`evergreen-data` skill — never a cached list) and run every surviving variant through the loser gate in
+  `references/qa-checklist.md`. A variant fails **only if it repeats a logged `why_it_failed` reason** (same
+  failing component, same mode) — resemblance to a loser's *good* parts is not a fail; a loser's strong
+  mechanism killed by rung-0 relevance leaves the mechanism live and the relevance as the tripwire. Show the
+  work: loser (client + id) → its `why_it_failed` in one line → which draft component does/doesn't repeat it.
 - Among the variants that pass, rank by **perceived likelihood the ICP responds** (`references/scoring-rubric.md`).
 - Add a light tag (*leans on mechanism / number / relevance*) — nothing more; no hypothesis narration.
 
@@ -187,6 +197,10 @@ so the strategist remixes. The skill never marks a winner and never sends.
 - **Run the QA gate + Voice Profile on every variant — non-negotiable.** Show the filled grid (no blanket
   "13/13 ✓"), discard fails with a one-line reason; never ship a broken line or silently deviate from the
   strategist's direction.
+- **Losers are checked by REASON, from the live API.** The loser gate pulls `status:"loser"` copies fresh
+  from Evergreen every run and judges drafts against each loser's `why_it_failed` — never against its surface
+  text, and never from a stale local list. A hit means rewrite *that component*; the loser's good parts stay
+  usable.
 
 ## When NOT to use
 - No case study developed yet → run case-study-developer first. No brief → run `sms-brief` first.

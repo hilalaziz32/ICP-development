@@ -1,0 +1,284 @@
+STRIKE TAX ADVISORY — WEBSITE CONTENT SCRAPE
+Scraped: 2026-06-30 | Source: striketax.com
+Purpose: Tier-2 (self-report / public marketing) source material for Scaletopia outbound.
+Note: numbers below are the company's PUBLIC-FACING figures. Where they conflict with the
+onboarding docs, the discrepancy is flagged in CONTEXT.md.
+
+================================================================================
+PAGE 1 — HOMEPAGE  (https://www.striketax.com/)
+================================================================================
+
+PRIMARY HEADLINE: "R&D Tax Credit Consulting With Zero Upfront Fees"
+KEY PROP: "We identify and document R&D tax credits your business is already earning.
+You pay nothing until credits are delivered."
+TAGLINE: "#23 on Inc. 5000 · The R&D Tax Credit Experts"
+
+--- HEADLINE STATS ---
+- 1,100+ clients served
+- $300M+ in credits delivered
+- $250K average credit per client
+- 100% audit support guarantee
+- $22 billion federal tax incentive available
+- 8–30%+ effective credit rate (federal + state combined)
+- 40 states offer additional credits
+- 20 years unused credit carryforward period
+- $500,000/year startup payroll tax offset (up to 5 years)
+- $100K annually Arizona credit maximum
+
+--- COMPANY ---
+R&D tax credit specialty firm. Based in Scottsdale, Arizona. Founded by Jonathan Cardella.
+Works exclusively on contingency, no upfront fees. Free unlimited audit defense on every
+engagement.
+Address: 11445 E Via Linda, ST 2-475, Scottsdale, AZ 85259-2655
+Phone: 1-800-916-5165 | Email: info@striketax.com
+
+--- "HOW IT WORKS" (4-step mechanism) ---
+01 DISCOVERY (1–2 weeks): "Uncover every qualifying activity to maximize your credit
+   through comprehensive expert interviews."
+02 DOCUMENTATION (2–3 weeks): "Capture your full credit potential with audit-ready study
+   reports, detailed calculations, and supporting schedules."
+03 DELIVERY (1 week): "Receive your Credit Release Letter and coordinate with your CPA to
+   claim your savings."
+04 SUPPORT (Ongoing): "Protect your credit with Strike Shield: unlimited audit defense
+   covering federal and state audits, plus a 100% fee-back guarantee."
+
+--- GUARANTEES ---
+STRIKE SHIELD™: "Unlimited Audit Defense" covering federal + state audits. "No additional
+   cost, ever." + "100% fee-back guarantee."
+CONTINGENCY MODEL: "No retainers or monthly billings. Pay only when credits delivered.
+   Zero hidden costs to get started."
+SECOND OPINION: no obligation; "If we can't find additional credits, it costs you nothing."
+
+--- TESTIMONIALS ---
+Jeff Minnichbach (Founder & CEO, No Limit Creatives): "They answered all my uncertainties,
+   helped fill out everything, submit it, and I've gotten a substantial amount of money
+   back from 2020 and 2021!"
+Grant H. (CFO): "Excellent job identifying, documenting, and capturing the R&D tax credits
+   for us."
+Brandon N. (CFO): "Best in the business. With 3 years of credits captured, we'll continue
+   using Strike."
+
+--- HOMEPAGE CASE STUDY TILES (with employee count + state) ---
+Engineering (Robotics):    $3.7M  | 35 employees | Indiana
+Software (Cybersecurity):  $668K  | 12 employees | California
+Manufacturing (Automotive):$657K  | 30 employees | Texas
+Software (SaaS):           $588K  | 15 employees | California
+Software (AI):             $575K  | 15 employees | California
+AdTech (listed Aerospace): $560K  | 90 employees | Massachusetts
+
+--- INDUSTRIES SERVED ---
+Software & Technology, Manufacturing, Medical & Pharma, Architecture, Engineering,
+Aerospace & Defense, Food & Beverage, Agriculture
+
+--- OBBBA / SECTION 174 BLOCK ---
+Headline: "Recover Your Missed R&D Tax Credits"
+"Signed July 4, 2025" — OBBBA restored immediate R&D expensing.
+- Permanent Restoration: Expense domestic R&D costs immediately. No more 5-year amortization.
+- Accelerate §174 CapEx: Deduct remaining capitalized expenses fully in 2025 or 2026.
+- Retroactive Amortization Reversal: Businesses with gross receipts of $31M or less can
+  elect to reverse Section 174 amortization for 2022, 2023, and 2024.
+- DEADLINE: July 6, 2026
+- Amend for Cash Refunds: All businesses can amend prior-year returns (at least 3 open tax
+  years) to claim R&D credits they previously missed and receive cash refunds.
+
+--- QRE DEFINITION ---
+"QREs include wages, supplies, software/cloud services, and contract research. Activities
+must pass the IRS 4-Part Test: permitted purpose, technological uncertainty, process of
+experimentation, and technological in nature."
+
+--- CTAs ---
+"Book Free Consultation" · "1-800-916-5165" · "Contact Us" · "estimate your credit" (calculator)
+
+
+================================================================================
+PAGE 2 — R&D TAX CREDIT ELIGIBILITY  (https://www.striketax.com/r-d-tax-credit-eligibility)
+================================================================================
+
+WHO QUALIFIES: "Any U.S. business that invests in developing new or improved products,
+processes, software, or techniques may qualify for the R&D tax credit under IRC Section 41."
+Applies to: C-Corps, S-Corps, Partnerships & LLCs, Sole Proprietors, Foreign Companies
+(with U.S. operations), Startups & Pre-Revenue Companies.
+"The credit applies to qualified research activities performed within the United States or
+its territories."
+
+--- THE IRS FOUR-PART TEST (all four must be satisfied) ---
+1. PERMITTED PURPOSE: "The research must aim to create a new or improved business component:
+   a product, process, formula, invention, technique, or piece of software." Goal = improve
+   performance, reliability, quality, or function. "Cosmetic or style changes alone do not
+   qualify."
+2. TECHNOLOGICAL IN NATURE: "The activity must rely fundamentally on principles of
+   engineering, computer science, biological science, or physical science."
+3. ELIMINATION OF UNCERTAINTY: "At the outset...there must be uncertainty about the
+   capability or method for developing or improving the product, or the appropriate design."
+   KEY: "the uncertainty only needs to be new to your company, not new to the industry."
+4. PROCESS OF EXPERIMENTATION: "evaluate one or more alternatives through modeling,
+   simulation, systematic trial and error, or other methods to resolve the technical
+   uncertainty."
+SUCCESS NOT REQUIRED: "Failed experiments, abandoned prototypes, and shelved projects can
+   all generate R&D tax credits."
+
+--- QRES ---
+INCLUDE:
+- Employee Wages (W-2): wages to employees who directly perform, supervise, or support
+  qualified research.
+- Supplies & Materials: tangible supplies used and consumed during research.
+- Contract Research (65%): payments to third-party contractors qualify at 65% of amount paid.
+- Cloud Computing & Software: cloud costs directly tied to qualified research.
+EXCLUDE: market research/surveys; QC testing after production; management/efficiency studies;
+  routine data collection; adaptation for a specific customer w/o technical uncertainty;
+  research conducted outside the U.S.
+
+--- THRESHOLDS ---
+Startups & Pre-Revenue: gross receipts under $5M; in business <5 years; "can offset up to
+  $500,000 in payroll taxes annually."
+Profitability: "You do not need to be profitable, and you can qualify even if the research
+  was unsuccessful."
+
+--- STATS ---
+$300M+ credits delivered for 1,100+ clients · $500K payroll offset for qualifying startups ·
+100% audit defense on every engagement.
+
+--- SIX MYTHS DEBUNKED ---
+Don't need labs · need not be technology-focused · size doesn't matter · research need not
+succeed · claiming doesn't trigger automatic audits · many CPAs lack R&D specialization.
+
+
+================================================================================
+PAGE 3 — OBBBA R&D TAX CREDIT REFUNDS  (https://www.striketax.com/obbba-rd-tax-credit-refunds)
+================================================================================
+
+WHAT CHANGED: OBBBA (Public Law 119-21, signed July 4, 2025) created Section 174A —
+"permanently restores immediate expensing for domestic R&D costs starting in 2025."
+
+SMALL BUSINESS ($31M or less):
+- Retroactively removes the amortization requirement for 2022–2024.
+- Domestic R&D expenses "fully deductible in the year incurred."
+- Those who did not amortize are "retroactively compliant for 2022-2024. No penalties."
+
+LARGE BUSINESS (over $31M):
+- Cannot retroactively elect expensing for 2022–2024.
+- May "accelerate unamortized costs into 2025/2026 (Rev. Proc. 2025-28)."
+
+FOREIGN R&D: "Remain subject to 15-year amortization for all businesses."
+
+THE PROBLEM PRE-OBBBA: 2017 TCJA "forced businesses to capitalize and amortize domestic R&D
+expenses over five years under Section 174." Companies "either stopped claiming R&D credits
+entirely or significantly reduced their claims for 2022, 2023, and 2024."
+
+--- REFUND OPPORTUNITY ---
+Federal credit rate: "6–8% of qualified research expenditures"
+State credits: "5–30% range, approximately 40 states offer credits"
+Typical recovery: "$50,000 to $500,000 or more from 2022-2024 amendments"
+"Cash refunds from the IRS. This is not a future offset."
+
+--- CRITICAL DEADLINES ---
+OBBBA ELECTION DEADLINE: "Earlier of July 6, 2026 or 3-year deadline"
+(NOTE: page heading showed live countdown "18 days left" when scraped; "If you have not
+started for 2022, act now.")
+
+Amendment deadlines by tax year:
+  2022 Partnerships/S-Corps — March 15, 2026
+  2022 C-Corps             — April 15, 2026
+  2023 Partnerships/S-Corps — March 15, 2027
+  2023 C-Corps             — April 15, 2027
+  2024 Partnerships/S-Corps — March 15, 2028
+  2024 C-Corps             — April 15, 2028
+
+--- $31M THRESHOLD CLARIFICATION ---
+"The threshold determines who gets the retroactive expensing election, not who can amend and
+claim credits." ALL businesses can amend regardless of size; the threshold concerns only who
+qualifies for Section 174A retroactive relief for 2022–2024. Aggregation: all members of a
+controlled group / affiliated service group / common control treated as a single employer.
+
+--- HOW TO CLAIM ---
+1. Free assessment (15–30 minutes)
+2. R&D tax credit study (4–8 weeks)
+3. CPA files amended returns with "OBBBA election statement...per Rev. Proc. 2025-28"
+4. IRS processes refunds in "6 to 8 months"
+
+--- OTHER ---
+Payroll offset: up to $500,000/year in R&D credits to offset payroll taxes (qualified small
+biz). Audit protection: unlimited, no additional charge. Contingency: pay a % of credits
+identified, nothing upfront. Carry-forward: 20 years (federal). Audit rate: "1% to 3% of
+R&D tax credit claims are reviewed by a tax authority."
+
+
+================================================================================
+PAGE 4 — R&D TAX CREDITS BY INDUSTRY  (https://www.striketax.com/industry-rd-tax-credits)
+================================================================================
+
+INDUSTRIES (30+ sub-niches):
+- Engineering: Civil, Construction, Electrical, Environmental, Mechanical, Product, Structural
+- Agriculture: Row Crops
+- Food & Beverage: Co-Packing, Dairy Processing, Frozen Foods, Meat & Seafood Processing,
+  Packaged Foods, Plant-Based
+- Alcoholic Beverages: Craft Breweries/Cideries, Distilleries, Hard Seltzers, RTD Cocktails,
+  Wineries/Vineyards
+- Aerospace & Defense: Aerospace Engineering, Aviation, Firearms/Ammunition/Missile Defense,
+  Government Contractors, Jet Propulsion/Rocketry, Satellite Technology, Space Exploration
+- Software & Technology: AI, Blockchain, Cryptocurrency, Cybersecurity, Electronics, FinTech,
+  Robotics, Telecommunications, Video Game Development, VR/AR
+- Manufacturing: Apparel/Textiles, Automotive/OEMs, Chemicals, Electronics, Food/Consumer
+  Packaging, Metals/Alloys, Oil & Gas, Semiconductors, Shipbuilding/Marine, Tool & Die
+- Architecture: LEED/Sustainable Architecture
+- Industrial Hemp & CBD
+
+--- QUALIFYING EXPENSE % BY INDUSTRY ---
+Software: "up to 55%" of R&D expenditures recouped on average
+Robotics case: "70% of wages and 90% of expenses qualified"
+Automotive manufacturing: "62% of wages" qualified
+
+--- CASE DOLLAR FIGURES ---
+Robotics firm: $3.7M · Cybersecurity company: $668K · Automotive manufacturer: $657K
+
+Track record: "Strike has delivered over $300 million in credits for 1,100+ clients."
+
+
+================================================================================
+PAGE 5 — CASE STUDIES INDEX  (https://www.striketax.com/case-studies)
+================================================================================
+(Each public case study tile = industry + credit amount + "Federal Tax Credit | State Tax Credit")
+
+ 1. AdTech — Software — $560,000
+ 2. Artificial Intelligence — Software — $575,000
+ 3. Automotive — Manufacturing — $657,000
+ 4. Blockchain — Software — $245,000
+ 5. Civil Engineering — Engineering — $351,000
+ 6. Cybersecurity — Software — $668,000
+ 7. Fintech — Software — $366,000
+ 8. Graphite Manufacturing — Manufacturing — $480,000   (NOTE: onboarding doc says $304K)
+ 9. Information Technology — Software — $550,000
+10. Video Game Development — Software — $60,822
+11. Structural Engineering — Engineering — $254,000
+12. Civil Engineering (2nd) — Engineering — $271,000
+
+Aggregate: "Strike has delivered over $300 million in R&D tax credits for more than 1,100 clients."
+(Public index does NOT list employee counts, states, or activity detail — those live on the
+ homepage tiles + onboarding deliverables doc.)
+
+
+================================================================================
+PAGE 6 — OBBBA JOURNAL ARTICLE
+(https://www.striketax.com/journal/house-passes-obbba-reinstates-immediate-r-d-expensing)
+================================================================================
+OBBBA signed July 4, 2025 → new IRC Section 174A. "Domestic R&D expenses are fully deductible
+in the year incurred for tax years beginning after December 31, 2024." Replaces 5-year
+amortization that applied 2022–2024.
+PERMANENCE: "Section 174A carries no sunset, so immediate domestic expensing is the standing
+rule going forward."
+FOREIGN R&E: unchanged — stays on 15-year amortization for all businesses.
+
+RETROACTIVE RELIEF (small biz):
+- Threshold: average annual gross receipts of $31M or less (Section 448(c) test) → apply
+  174A retroactively for TYs beginning after Dec 31, 2021 (covers 2022, 2023, 2024).
+- Aggregation: controlled group / affiliated service group / common control = single employer.
+- DEADLINE: "the retroactive election must be made by the earlier of July 6, 2026 or the
+  Section 6511 refund statute of limitations for the year."
+DELIVERS: amend prior returns to deduct previously amortized domestic R&D; claim income-tax
+refunds; refunds flow to retained earnings + shareholder equity (can improve valuations).
+
+LARGER BUSINESS ($31M+): cannot amend prior years; recover unamortized domestic R&D balance
+2022–2024 all at once on 2025 return OR spread evenly across 2025 and 2026.
+
+§41 CREDIT IMPACT: higher immediate deductions raise QREs → "larger credits and additional
+refund opportunities."

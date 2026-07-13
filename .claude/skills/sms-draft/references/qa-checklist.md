@@ -100,3 +100,33 @@ don't pass it through to ranking.
 
 > Cross-checked against the 17 winners: every logged winner clears the bar with no auto-fails. If a new draft
 > can't clear it, it isn't winner-grade yet.
+
+## Loser gate (evergreen) — judged by the REASON, never by resemblance
+
+Winners set the bar; losers set the tripwires. Two non-negotiables about how this gate works:
+
+1. **The loser pool is LIVE, never a local list.** Pull it fresh every run via the `evergreen-data` skill:
+   `POST /api/search {type:"copies", status:"loser", query:"<this angle/offer/lever>", route:true, limit:5}`
+   (a second pull pinned to the client's `niche` if routing looks off). The pool grows with every campaign
+   that reports back — which is the point: **this gate gets stricter as the system learns.** A static list
+   would freeze the QA at today's mistakes.
+2. **The check is against `why_it_failed`, NOT the loser's surface text.** A loser is a whole text that
+   usually died for ONE reason. Reduce each loser's `why_it_failed` to its **failing component** (relevance
+   rung · opener · proof framing · CTA · mechanism clarity · tone/phrasing) and check the draft against
+   *that*. A variant fails this gate only when it **repeats a logged failure reason** — same component, same
+   failure mode, comparable persona/offer.
+
+**Corollary — never bin a loser's good parts.** The loser's *other* components are still live ammo. Canonical
+case (go_fish, logged): a differentiated mechanism + sexy case study that died because "the whole text is
+about US, with zero relevance hook tying it to THIS recipient." The mechanism is reusable; the rung-0
+relevance is the tripwire. Blanket-avoiding everything that resembles a loser would throw away its best
+material *and* miss the actual lesson.
+
+**Run it per surviving variant, and show the work:**
+- Name each relevant loser (client + id), quote its `why_it_failed` in one line, and state which component
+  of the draft does / doesn't repeat it.
+- "No losers returned for this angle" is a valid outcome — **say it**; never skip the pull silently.
+- `aged: true` losers: the lesson usually holds, the phrasing/offer context may not — weigh accordingly.
+- A hit = **rewrite the failing component** (the rest of the variant stands), or discard with the one-line
+  reason. A near-miss ("adjacent failure mode, different rung") is a Borderline — flag it to the strategist,
+  don't silently pass or kill.

@@ -1,3 +1,13 @@
 .env
 .DS_Store
 env/
+.venv/
+.vscode/
+*.code-workspace
+
+# Client folders not shared via git (per Aaman, 2026-07-13)
+clients/digital resource/
+clients/gofish/
+clients/leadgenix/
+clients/redo/
+clients/kynship/output/

@@ -1,0 +1,65 @@
+{
+  "skill": "mechanism-wordsmith",
+  "notes": "Tests the v2 engine against the shared playbook. The Big Leap case is the universality gate (must OMIT the mechanism, not force one). Replace the synthetic Big Leap inputs with real data when available.",
+  "cases": [
+    {
+      "id": "kynship-supergut-mechanism-carries",
+      "offer": "Paid ads (Meta) / UGC / influencer seeding",
+      "niche": "DTC ecom / health & wellness",
+      "persona": "Founder/CEO",
+      "case_study": "Supergut — $100k/mo paused Meta -> $1m/mo new-customer revenue in 3 months",
+      "literal_mechanism": "Seeded ~1,200 unpaid micro-creators and ran their content as the paid creative on Meta",
+      "top_pains": ["creative volume/quality is the bottleneck", "paid social plateaued", "burned by a reactive agency"],
+      "expect": {
+        "mechanism": "GENERATE (mechanism carries — DTC seeding is distinctive)",
+        "must_include": "connector-led lines (\"using…\"/\"mostly by…\"); a picture not a label (e.g. 'gifting/seeding 1,200 creators and running ads off their posts' over 'viral micro creator seeding strategy')",
+        "must_not_include": ["percentages/decimals", "'+' notation", "empty verbs (leverage/unlock)", "the bare fragment with no connector"],
+        "native_unit": "new-customer revenue / the creator count — a founder's counting unit",
+        "lead_pattern_options": ["High-level abstraction", "Contrarian", "Plain-English"]
+      }
+    },
+    {
+      "id": "bigleap-seo-saas-OMIT-mechanism",
+      "offer": "SEO / GEO / organic",
+      "niche": "B2B SaaS",
+      "persona": "Marketing leader",
+      "case_study": "[Big Leap client] — added $X in organic pipeline in N months via Google/GEO ranking (SYNTHETIC placeholder modeled on W9 Velox/Dr Axe until real data lands)",
+      "literal_mechanism": "Ranked them #1 on Google/AI search for high-intent keywords",
+      "top_pains": ["paid CAC too high", "want durable organic pipeline", "tried agencies that didn't move organic"],
+      "expect": {
+        "mechanism": "OMIT — the 'mechanism' just restates the result (ranking). This is the universality gate.",
+        "must_include": "an explicit 'lead on result + specificity' return; a 'without paid ads / without burning CAC' wrapper line; the {keyword}/niche specificity",
+        "must_not_include": ["a manufactured 'unique mechanism'", "DTC-seeding-style framing forced onto SEO", "jargon labels"],
+        "fail_condition": "inventing a fake distinctive mechanism instead of omitting — this is exactly the v1 Big Leap failure"
+      }
+    },
+    {
+      "id": "redo-dtc-ecom-routing",
+      "offer": "DTC ecom (Redo — post-purchase / returns)",
+      "niche": "DTC ecom",
+      "persona": "Founder/CEO",
+      "case_study": "[from clients/redo/output/2026-05-25-Redo-mechanism-variants.md]",
+      "literal_mechanism": "[pull from Redo master sheet / brief]",
+      "top_pains": ["[from Redo Layer A brief]"],
+      "expect": {
+        "mechanism": "GENERATE or OMIT depending on case strength — check what the closest winner did",
+        "must_include": "connector-led, picture-over-label, native unit for the persona",
+        "note": "Second offer to prove the engine isn't Kynship-shaped"
+      }
+    },
+    {
+      "id": "vague-mechanism-kickback",
+      "offer": "any",
+      "niche": "any",
+      "persona": "any",
+      "case_study": "[redacted] — grew revenue 3x",
+      "literal_mechanism": "Worked closely with the brand on their marketing",
+      "expect": {
+        "behavior": "KICK BACK at Step 0",
+        "must_return": "a request for the specific tactic/channel/named approach — must NOT invent a mechanism",
+        "fail_condition": "producing any mechanism line from this empty input"
+      }
+    }
+  ],
+  "pass_threshold": "3 of 4 (the kickback case counts as pass when it correctly refuses). The Big Leap OMIT case is a must-pass — it's the whole universality point."
+}

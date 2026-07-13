@@ -1,0 +1,159 @@
+{
+  "_readme": {
+    "what": "One entry per client. Maps a client to its outbound channels so tools and skills never have to ask for a token or a location ID.",
+    "secrets": "NO CREDENTIALS LIVE HERE. Each channel names an MCP server; the API key / Private Integration Token is read at runtime from ~/.claude.json (outside the repo). Add a client's creds with `claude mcp add`, then reference the server name here.",
+    "sms.workflow_prefix": "GHL sub-accounts get REUSED between clients. Tools scope to the client's own era = the earliest createdAt among workflows whose name starts with this prefix. Set era_start to override with a hard date.",
+    "sms.locationId": "Found in the GHL URL when inside the sub-account: /v2/location/<THIS>/\u2026",
+    "todo": "Clients with sms.locationId = null still need a Private Integration Token (Settings -> Private Integrations, read-only scopes) and their location ID."
+  },
+  "digital-resource": {
+    "label": "Digital Resource",
+    "output": "clients/digital resource/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-digital-resource",
+      "locationId": "0BxiUj9qMbHsvNQOhW9C",
+      "workflow_prefix": "Digital Resource",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-digital-resource"
+    }
+  },
+  "strike-tax": {
+    "label": "Strike Tax",
+    "output": "clients/Strike tax/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-strike-tax",
+      "locationId": "vNZDc5fDlAcTK2wmQ18U",
+      "workflow_prefix": "Strike Tax",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-strike-tax"
+    }
+  },
+  "kynship": {
+    "label": "Kynship",
+    "output": "clients/kynship/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-kynship",
+      "locationId": "FCJpGIYL5SdfTcpMjh9e",
+      "workflow_prefix": "Kynship",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-kynship"
+    }
+  },
+  "leadgenix": {
+    "label": "Leadgenix",
+    "output": "clients/leadgenix/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-leadgenix",
+      "locationId": "J7EFcebHa0yKFNFb041m",
+      "workflow_prefix": "Leadgenix",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-leadgenix"
+    }
+  },
+  "chamber-media": {
+    "label": "Chamber Media",
+    "output": "clients/chamber-media/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": null,
+      "locationId": null,
+      "workflow_prefix": "Chamber",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-chamber-media"
+    }
+  },
+  "redo": {
+    "label": "Redo",
+    "output": "clients/redo/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-redo",
+      "locationId": "48mXBSSoCQCtRzMRfqyH",
+      "workflow_prefix": "Redo",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-redo"
+    }
+  },
+  "growth-lab": {
+    "label": "Growth Lab",
+    "output": "clients/growth-lab/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-growth-lab",
+      "locationId": "4ixiqo37ikSvF7Z5sxJA",
+      "workflow_prefix": "Growth Lab",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-growth-lab"
+    }
+  },
+  "big-leap": {
+    "label": "Big Leap",
+    "output": "clients/Big leap/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": null,
+      "locationId": null,
+      "workflow_prefix": "Big Leap",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-big-leap"
+    }
+  },
+  "gofish": {
+    "label": "Go Fish Digital",
+    "output": "clients/gofish/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-gofish",
+      "locationId": "a9BMN4MHFn0USiK24Fvq",
+      "workflow_prefix": "Go Fish",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-gofish"
+    }
+  },
+  "scaletopia": {
+    "label": "Scaletopia",
+    "output": "clients/scaletopia/output",
+    "sms": {
+      "platform": "ghl",
+      "mcp": "ghl-scaletopia",
+      "locationId": "UqMcuYNiET94KiGWH5Ec",
+      "workflow_prefix": "Scaletopia",
+      "era_start": null
+    },
+    "email": {
+      "platform": "emailbison",
+      "mcp": "emailbison-scaletopia"
+    }
+  }
+}
